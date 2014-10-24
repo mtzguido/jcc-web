@@ -1,0 +1,28 @@
+Title: Una Herramienta para la Fusión de Programas Haskell
+Author: Alberto Pardo
+ID: 2005-pardo
+Slides: 2005-pardo.pdf
+Abstract: Los lenguajes funcionales poseen un alto nivel de abstracción
+que contribuye al proceso de diseño y construcción de software.
+El programador funcional suele no preocuparse por aspectos de bajo
+nivel, tales como uso y gerenciamiento de memoria. Estos aspectos,
+así como la generación de código eficiente, pasan a ser en gran
+medida responsabilidad del compilador, por lo que toda optimización
+de código que el compilador pueda realizar pasa a ser de particular
+relevancia. Existe una gran variedad de técnicas de transformación de
+programas cuyo objetivo es optimizar código. Una de dichas técnicas se
+conoce como fusión. Su utilización en la optimización de programas
+funcionales se origina en el uso frecuente y sistemático de la
+operación de composición de funciones como forma de estructurar los
+programas. Los programas así escritos suelen ser más legibiles y su
+mantenimiento más sencillo, pero a la vez menos eficientes debido a
+que toda composición tiene asociada la construcción y consumo de
+una estructura de datos intermedia. La técnica de fusión tiene como
+objetivo la eliminación automática de tales estructuras intermedias.
+Se basa en ciertas leyes algebraicas entre programas, conocidas como
+leyes de fusión, que suelen estar asociadas a un conjunto de operadores
+recursivos (e.g. fold, map, etc.), que encapsulan patrones comunes de
+computación y dan origen a un mecanismo adicional de estructurar los
+programas. En esta charla presentaremos los aspectos principales de una
+herramienta, llamada HFusion, que permite la fusión automática de
+programas escritos en Haskell.

@@ -1,0 +1,17 @@
+Title: Software Transactional Memory
+ID: 2005-protti
+Author: Duilio Javier Protti
+Slides: 2005-protti-en.pdf 2005-protti-es.pdf
+Abstract: Se menciona al deadlock como uno de los problemas más
+frecuentes de la programación concurrente. En realidad, el deadlock es
+un problema de algunos enfoques usados para tratar concurrencia, el de
+aquellos basados en locks. Existen otros modelos más recientes para
+tratarla. Software Transactional Memory es uno de ellos, en el cual
+no existe deadlock, livelock ni priority inversion. Se mostrará a lo
+largo de la presentación la evolución de este último modelo, cómo
+resuelve los requerimientos de concurrencia y cómo está ya al alcance
+de la mano con la tecnología actual. En particular se analizará una
+de sus más recientes variantes, Composable Memory Transactions, con
+la cuál se pueden componer transacciones manteniendo corrección con
+respecto a la concurrencia sin esfuerzo extra, lo que permite una gran
+escalabilidad.

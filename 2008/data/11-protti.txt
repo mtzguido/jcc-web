@@ -1,0 +1,30 @@
+Title: Linux KVM como herramienta de aprendizaje
+Author: Duilio Protti
+ID: 2008-protti
+Abstract: La programación a nivel de sistema es una tarea difícil.
+Por ejemplo, aprender conceptos de sistemas operativos programando en
+áreas como manejo de interrupciones o segmentación/paginación de
+memoria en un host nativo es una tarea riesgosa y que requiere mucho
+tiempo de aprendizaje. Una alternativa es la de programar dentro de
+un kernel preexistente que ejecute como guest dentro de una máquina
+virtual. Esto no hace la tarea más fácil: se reduce el riesgo de
+dañar el host nativo, pero el programador se encuentra desarrollando
+dentro de todo un kernel que ya tiene sus propios mecanismos de
+segmentación/paginado/interrupciones, etc, mecanismos que se deben
+entender en detalle para poder hacer modificaciones exitosas. ¡Pero el
+programador los está usando precisamente para aprender!
+
+Por otro lado, la infraestructura de virtualización del kernel de Linux
+(KVM) permite crear muy fácilmente máquinas virtuales que semejen
+una plataforma "nativa" justo en el estado en que se encuentra luego
+de encenderse. Esto permite escribir mini-kernels para que ejecuten
+dentro de esas máquinas virtuales "crudas" y así probar código que
+realice operaciones sensitivas de bajo nivel como manipulación de
+tablas de páginas y similares sin preocuparnos por que se pueda dañar
+el host y sin tener que entender la forma en que lo hace un kernel
+preexistente. En esta presentación se mostrará cómo usar KVM para
+crear un lanzador de máquinas virtuales, así como un kernel de 16-bit
+en modo real y otro de 32-bit en modo protegido. Ambos ejemplos son
+fácilmente extensibles a kernels más sofisticados que prueben todo
+tipo de características de bajo nivel de la plataforma, incluso a
+sistemas operativos pequeños con fines pedagógicos.

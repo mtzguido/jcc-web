@@ -1,0 +1,10 @@
+Title: Actividades y Proyectos en Métodos Formales, en Uruguay
+Author: Carlos Luna
+ID: 2006-luna
+Slides: 2006-luna.ppt
+Abstract: En esta charla presentaremos al grupo de Métodos Formales
+del Instituto de Computación de la Facultad de Ingenería de la
+Universidad de la República, Uruguay. En especial haremos énfasis en
+las actividades y proyectos en curso, en los cursos de grado y postgrado
+que venimos desarrollando y, en algunas líneas de investigación en las
+cuales estamos interesados en trabajar en los próximos años.

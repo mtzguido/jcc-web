@@ -1,0 +1,6 @@
+Title: DynAlloy: Upgrading Alloy with Actions
+Author: Nazareno Aguirre
+ID: 2007-nazareno-aguirre
+Slides: 2007-nazareno-aguirre.pdf
+
+Abstract: En esta charla, presentaré una extensión al lenguaje de especificaciones formales Alloy, llamada DynAlloy. Esta extensión permite la definición de acciones, y la especificación de aserciones sobre trazas de ejecución de sistemas, siguiendo un estilo similar al de la lógica dinámica. A lo largo de la charla, discutiré sobre los beneficios de adoptar esta versión extendida de Alloy para validar propiedades de sistemas, y mostraré que las especificaciones en DynAlloy pueden, al igual que las especificaciones en Alloy standard, validarse automaticamente. Concluiré con una comparación entre el análisis de especificaciones de ejecuciones en Alloy (mediante una codificación de trazas) y el análisis de especificaciones DynAlloy, para un par de casos de estudio.

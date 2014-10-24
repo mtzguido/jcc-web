@@ -1,0 +1,17 @@
+Title: Probablemente funcione
+Author: Sergio Giro
+ID: 2008-giro
+Abstract: En los casos en que algunos componentes de un sistema
+tienen un funcionamiento imperfecto (por ejemplo, cuando un medio
+de transmisión puede perder datos con cierta probabilidad) es
+interesante calcular cuál es la probabilidad de que el sistema
+funcione correctamente. Además, algunas de las fallas no tienen un
+comportamiento probabilístico, por lo que se introducen decisiones no
+deterministas.
+
+En esta charla explicaremos cómo las decisiones probabilistas y no
+deterministas interactúan en procesos concurrentes.
+
+El estudio de esta interacción es útil para la verificación
+de protocolos de comunicación, tolerancia a fallas, scheduling,
+criptografía. Se analizarán ejemplos de este tipo de sistemas.

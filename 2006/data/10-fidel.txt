@@ -1,0 +1,10 @@
+Title: Una introducción básica a sistemas de tipos estáticos
+Author: Pablo E. Martínez López
+ID: 2006-fidel
+Slides: 2006-fidel.ppt
+Abstract:En esta charla daré un breve pantallazo de las principales
+características de los sistemas de tipos estáticos, sus formas de
+presentación y el impacto de estas técnicas en desarrollos modernos.
+Ejemplificaré algunas de las nociones con un lenguaje muy sencillo,
+intentando mantener el nivel técnico de la charla en un nivel razonable
+para el público general.

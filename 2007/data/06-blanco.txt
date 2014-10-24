@@ -1,0 +1,12 @@
+Title: ¿De qué habla la Informática?
+Author: Javier Blanco
+ID: 2007-blanco
+Abstract: Existen diversas maneras de concebir a la informatica
+y algunas de dichas concepciones son incompatibles entre si. Las
+discrepancias se presentan tanto explícita como implícitamente y
+abarcan cuestiones ontológicas, epistemológicas y metodoloógicas.
+Comprender bien estas disputas filosóficas puede tener consecuencias
+drásticas en los diferentes ámbitos de desarrollo de esta disciplina.
+En la charla se expondrán las características principales de las
+diferentes concepciones y se propodrá la apertura de un necesario y
+postergado diálogo.

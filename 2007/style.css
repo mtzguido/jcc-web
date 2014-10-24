@@ -1,0 +1,180 @@
+td {
+  text-align: left;
+  vertical-align: top;
+  font-family: Tahoma;
+  font-size: 12px;
+  font-weight: bolder;
+  color: #333333;
+}
+form {
+  margin: 0px;
+}
+a {
+  font-family: Arial;
+  font-size: 13px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #002449;
+}
+a:hover {
+  color: #002449;
+  text-decoration: underline;
+}
+
+h1 {
+  color: #002449;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.foot {
+	font-size: 10px
+}
+
+.emph {
+	font-style: italic;
+	font-size:14px;
+}
+
+table.cronograma
+{
+    width: 97%;
+    margin-bottom: 15px;
+    color: #000;
+    background-color: inherit;  
+    border: 0px solid gray;
+    border-collapse: collapse
+}
+
+table.cronograma th
+{
+    text-align: center;
+    vertical-align: baseline;
+    color: #333;
+    background-color: #ccd;
+    border: 1px solid #000;
+    padding: 2px;
+	font-size: 14px;
+}
+
+table.cronograma td
+{
+    border: 1px solid #000;
+    padding: 5px;
+	font-weight: normal;
+}
+
+table.cronograma td.horario
+{
+    vertical-align: top;
+    width: 8em;
+    font-size: 10;
+}
+
+table.cronograma .charlaInvitado
+{
+    color: inherit;
+	font-size: 110%;
+	font-weight: bolder;
+}
+
+table.cronograma tr.charlaAlumno
+{
+    color: inherit;
+    background-color: #ddd;
+}
+
+table.cronograma td.receso
+{
+    vertical-align: middle;
+    text-align: center;
+    color: inherit;
+    background-color: #F5F5F5;
+    padding: 10px;
+}
+
+table.cronograma tr.otra
+{
+    color: inherit;
+    background-color: #eee;
+}
+
+table.cronograma tr {
+    border: 1px solid #000
+}
+
+table.cronograma div.titulo {
+    font-weight: bold;
+    font-size: 100%;
+    margin-bottom: 2px;    
+}
+
+table.cronograma .disertante {
+	font-size: 110%;
+    font-style: italic;
+    margin-bottom: 2px;
+		margin-right: 10px;
+}
+
+table.cronograma .resumen {
+    margin-top: 10px;
+    font-size: 100%;
+	text-align: justify;
+}
+
+table.cronograma .resumen .leer-mas {
+	font-size: 90%;
+	color:#0000FF;
+	cursor: pointer;
+}
+
+.hoteles
+{
+    width: 85%;
+    margin-bottom: 15px;
+    color: #000;
+    background-color: inherit;  
+    border: 0px solid gray;
+    border-collapse: collapse
+}
+
+.hoteles th {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: left;
+	font-size: 12px;
+}
+
+.hoteles td {
+	font-weight: normal;
+	border-bottom: 1px solid #F0F0F0;
+	padding: 2px;
+}
+
+.hostels {
+	font-weight: normal;
+	margin-left: -20px;
+}
+
+.hostels.nombre {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.hostels.dato {
+
+}
+
+.hostels.dato.label {
+	font-style: italic;
+}
+
+.emph-red{
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.slides {
+	border: 0px;
+	margin-bottom: 4px;
+}

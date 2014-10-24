@@ -1,0 +1,20 @@
+Title: Verificación de modelos
+Author: Luis Sierra
+ID: 2006-sierra
+Abstract: En esta charla presentamos el problema de la verificación
+de modelos aplicada a la verificación de sistemas informáticos. El
+planteo general del problema es el siguiente: - dado un sistema S y una
+propiedad p, averiguar si S satisface p. La presentación matemática
+del problema plantea que el sistema informático es una estructura, y
+la propiedad una fórmula. Por lo tanto, el problema se reduce al de
+averiguar si p vale en S. Este enfoque proporciona una gran cantidad de
+variantes, centradas en las siguientes preguntas:
+
+- ¿cómo especificar el sistema?
+- ¿cómo especificar sus propiedades?
+
+En esta charla mostraremos algunas de estas variantes que han sido
+exploradas en el curso de Verificación y Lógica. El curso Modelos y
+verificación de sistemas de tiempo real realiza una presentación de
+estas estrategias para el caso específico en que el tiempo se convierte
+en un actor principal de los sistemas.

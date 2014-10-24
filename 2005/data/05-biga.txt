@@ -1,0 +1,14 @@
+Title: El Proyecto GKappa
+ID: 2005-biga
+Author: Adrián Biga
+Slides: 2005-biga.pdf
+Abstract: El proyecto Gkappa es un proyecto GNU de generación de
+código abierto del software KAPPA-PC, utilizado en la materia
+"Introduccion a la Inteligencia Artificial" de la carrera de Lic.
+en Cs. de la Computación y apoyado por sus profesoras, Ana Casali
+y Rosa Corti. Actualmente este trabajo comprende una tesina y 2
+trabajos finales de cátedra. El objetivo de este proyecto es lograr
+un software con las mismas cualidades que ofrece el software comercial
+actualizándolo a una tecnología de 32-bits y de código abierto. Se
+espera durante la presentación que los asistentes propongan ideas para
+mejorar el producto y se interesen en participar del proyecto.

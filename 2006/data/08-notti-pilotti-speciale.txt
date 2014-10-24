@@ -1,0 +1,14 @@
+Title: Diseño, Implementación y Evaluación de un Modelo de Optimización de Costos en Comunicaciones Telefónicas
+Author: Pablo Pilotti, Mauricio Notti y Pablo Speciale
+ID: 2006-notti-pilotti-speciale
+Slides: 2006-notti-pilotti-speciale.pdf
+Abstract: En este trabajo se considera la resolución de un problema
+real relativo al tráﬁco de llamadas telefónicas de una central.
+Una empresa cuenta con una central telefónica por la cual se derivan
+llamadas. Dicha empresa puede contratar para la realización de éstas
+a distintas compañías telefónicas, las cuales ofrecen diferentes
+tarifas de acuerdo a las características de cada llamada. Se desea
+disminuir el costo de facturación mensual de la empresa interesada.
+Se presenta un modelo matemático de programación lineal entera que
+brinde una solución aproximada al problema planteado, y se analiza la
+corrección y eﬁciencia del mismo.

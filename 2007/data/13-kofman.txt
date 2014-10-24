@@ -1,0 +1,43 @@
+Title: Simulación de Sistemas Continuos. Principios Básicos y algunos Avances Recientes
+Author: Ernesto Kofman
+ID: 2007-kofman
+Slides: 2007-kofman.pdf
+Abstract: El término Sistemas Continuos se refiere a los modelos
+matemáticos de sistemas que cambian continuamente con el tiempo,
+representados por distintos tipos de Ecuaciones Diferenciales. Este
+tipo de sistemas se encuentra habitualmente en la física (mecánica,
+hidráulica, electromagnetismo, termodinámica), en la química,
+en diversas aplicaciones de la ingeniería, en la economía, en la
+dinámica de poblaciones, etc.
+
+Si queremos saber como se va a comportar un sistema continuo, debemos
+resolver la ecuación diferencial correspondiente, lo que en general
+implica recurrir a soluciones numéricas con la ayuda de sistemas de
+cómputo. Esta resolución numérica se suele denominar "Simulación".
+La simulación de sistemas continuos es una disciplina que, de la mano
+con el poder de cálculo de las computadoras, ha experimentado un
+desarrollo creciente en las últimas décadas.
+
+El primer objetivo de la charla será entonces brindar un panorama
+general sobre la disciplina, dando un pantallazo sobre los métodos,
+aplicaciones, dificultades, herramientas de software, etc. Tras esto,
+haremos mención a algunos avances recientes en la disciplina en los
+cuales un grupo del Laboratorio de Sistemas Dinámicos y Procesamiento
+de la Información (de nuestra Facultad) ha trabajado activamente.
+
+Como veremos, todos los métodos de simulación convencionales
+discretizan el eje de tiempo y obtienen un sistema de ecuaciones en
+diferencia (de tiempo discreto) que, en principio, aproxima al sistema
+continuo original. Nos referiremos entonces a una nueva familia de
+métodos que, manteniendo la continuidad del eje de tiempo, cuantifican
+las variables de estado del sistema. En consecuencia, el sistema
+aproximado resultante no es ya de "tiempo discreto" sino de "eventos
+discretos".
+
+Estos nuevos métodos de simulación (denominados QSS por Quantized
+State Systems) tienen propiedades teóricas y prácticas esencialmente
+distintas a las de los métodos convencionales, presentando en algunos
+casos ventajas notables. Siendo además un área de muy reciente
+desarrollo, presenta muchos problemas abiertos que pueden constituirse
+en temas de investigación tanto en informática como en matemáticas e
+ingenierías afines. [Ocultar]

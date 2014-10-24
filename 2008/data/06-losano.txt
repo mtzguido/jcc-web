@@ -1,0 +1,44 @@
+Title: Aprender a programar en el primer año de la carrera de Ciencias de la Computación. Un análisis basado en las Comunidades de Práctica
+Author: Leticia Losano
+ID: 2008-losano
+Slides: 2008-losano.pdf
+Abstract: El objetivo de esta charla es presentar un análisis
+preliminar de las experiencias y vivencias de estudiantes que ingresan
+a la universidad para cursar la carrera de Ciencias de la Computación
+en la Facultad de Matemática, Astronomía y Física de la Universidad
+Nacional de Córdoba. En el primer año de esta carrera el nivel de
+deserción y fracaso es elevado. El interés de esta presentación, que
+comenta parte una investigación en curso, es observar, caracterizar
+y analizar cómo se realiza el encuentro entre los alumnos recién
+llegados y la comunidad de la facultad a la que los estudiantes
+pretenden integrarse.
+
+Durante el primer año de la carrera los estudiantes deben cursar
+materias introductorias de programación. Esta tarea es abordada
+desde una perspectiva formal, los programas son vistos como fórmulas
+matemáticas largas las cuales se construyen y demuestran utilizando la
+inducción matemática. En síntesis, los alumnos deben aprender una
+nueva notación, un lenguaje de axiomas y reglas de construcción y el
+significado de demostrar una proposición -por inducción, reducción al
+absurdo, análisis de casos, contraejemplo-.
+
+Simultáneamente, los estudiantes comienzan a vivenciar la presencia
+de valores y convenciones sociales que sostiene la comunidad. Estas
+normas implícitas están relacionadas con las características que
+debe reunir un alumno exitoso, el comportamiento y las actitudes que
+deben adoptarse, el status de los conocimientos previos del alumno y las
+relaciones de poder entre profesores y alumnos.
+
+Este complejo y difícil proceso de ingreso a la comunidad involucra la
+creación, modificación y renegociación del lenguaje, los valores y
+los conocimientos previos de los aprendices. El éxito en este proceso
+de iniciación permitirá a los estudiantes lograr una participación
+cada vez mayor en la comunidad.
+
+A través de una metodología de investigación cualitativa, basada en
+entrevistas y observaciones de clases se intenta delinear cómo las
+características de las prácticas áulicas organizan y constituyen
+el aprendizaje. También se analiza cómo se construyen, de manera
+situada dentro del aula, las nociones de demostración, abstracción y
+formalización, consideradas centrales para lograr una participación
+legítima en la comunidad.

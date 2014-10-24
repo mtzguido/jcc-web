@@ -1,0 +1,30 @@
+Title: Tendencias actuales de Investigación en Bases de Datos
+Author: Claudia Deco - Cristina Bender
+ID: 2007-deco-bender
+Slides: 2007-deco-bender.pdf
+Abstract: El objetivo de esta charla es presentar un panorama de algunos
+de los temas actuales de investigación en bases de datos y búsqueda de
+información. En particular, se describirán los temas de investigación
+en los que se está trabajando, los proyectos de investigación en
+curso, los grupos con los que se están realizando trabajos conjuntos y
+algunos resultados.
+
+Con la evolución de las tecnologías de la información y las
+comunicaciones, han surgido almacenamientos no estructurados de
+información, tales como texto libre, imágenes, audio y video. Esto
+requiere modelos más generales que las bases de datos tradicionales.
+Es decir, nuevos modelos tales como bases de datos de texto o bases de
+datos métricas. Y, por lo tanto, se requiere contar con métodos y
+técnicas que permitan realizar búsquedas eficientes sobre estos tipos
+de datos. Por un lado se propone un refinamiento semántico que utiliza
+conocimiento lingüístico, para la preparación de una estrategia de
+búsqueda que represente la necesidad de información del usuario. Por
+otro lado, la consulta en bases de datos tradicionales está construida
+sobre el concepto de búsqueda exacta, donde los resultados de la
+consulta son aquellos registros que tienen una coincidencia exacta con
+la clave de búsqueda ingresada. Entonces surge el concepto de búsqueda
+por similitud o búsqueda por proximidad, que consiste en recuperar los
+elementos más similares o cercanos al elemento dado en la consulta.
+La similitud se modela con una función de distancia que satisface la
+desigualdad triangular, y el conjunto de objetos es llamado espacio
+métrico.

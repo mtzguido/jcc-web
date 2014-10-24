@@ -1,0 +1,22 @@
+Title: Introduction to Virtualization Technology
+Author: Gisela Giusti (Intel)
+ID: 2007-giusti
+Slides: 2007-giusti.pdf
+Abstract: En la actualidad se escucha recurrentemente el término
+Virtualización en distintos ámbitos de la informática. En esta
+presentación se hará una introducción al tema de "Hardware Enabled
+Virtualization", que consiste en el soporte en hardware para asistir a
+la ejecución de varios Sistemas Operativos en un mismo sistema, sin
+requerir modificarlos y con mínima penalización en performance.
+
+Se hará un repaso sobre los usos que dieron origen a la necesidad
+de la virtualización, se analizarán las primeras soluciones de
+virtualización que no contaban con soporte de hardware, los desafíos
+que dichas implementaciones plantearon, y se finalizará analizando
+cómo se atacaron dichos desafíos mediante la ayuda de instrucciones
+especializadas en hardware. Es importante aclarar que la presentación
+NO se centrará en las soluciones particulares de la plataforma Intel.
+
+También se ocuparán unos pocos minutos para presentar el centro
+de desarrollo de software de Intel en Argentina, las divisiones que
+trabajan allí y los proyectos que se llevan adelante.

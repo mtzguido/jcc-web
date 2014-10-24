@@ -1,0 +1,16 @@
+Title: Refexiones Sobre Nuestra Historia de la Computación y su Preservación
+Author: Jorge Aguirre
+ID: 2007-jorge-aguirre
+Slides: 2007-jorge-aguirre.pdf
+Abstract: Se ubicará al inicio de la Computación en las universidades
+argentinas dentro del proceso de nacimiento y desarrollo global de la
+Computación y dentro de la historia de nuestro sistema universitario.
+Se presentaran sus hitos más significativos como la inserción de la
+primera computadora y la primera carrera, las EBAI, la generalización
+de las carreras de grado, la ESLAI, el proyecto FOMEC y el nacimiento
+del posgrado y la investigación. También se verán los retrocesos
+sufridos y sus causas y consecuencias. Finalmente, se hablará de la
+importancia de preservar el conocimiento histórico de estos procesos,
+del peligro actual de perder irreversiblemente alguno de sus aspectos y
+de los actuales esfuerzos por preservarlos como el proyecto SaMCA de la
+UNRC y el proyecto AHDTI de la UTN regional Santa Fe.

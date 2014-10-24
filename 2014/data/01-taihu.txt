@@ -1,0 +1,24 @@
+Author: Taihú Pire
+ID: 2014-taihu
+Title: Métodos de navegación basada en visión para robots móviles
+ShortTitle: Métodos de navegación basada en visión para robots móviles
+Institution: UBA
+Link: http://www.dc.uba.ar
+Abstract: <p>Hace ya varios años se han realizado importantes
+desarrollos en el área de robótica móvil debido a las ventajas que
+provee en diversos campos de aplicación, entre los que se pueden
+enunciar: búsqueda y rescate de personas, detección de incendios
+y agricultura de precisión, entre otras. En este marco, uno de
+los principales problemas a resolver es el de SLAM (Simultaneous
+Localization And Mapping) donde un robot móvil debe ir construyendo un
+mapa del entorno al mismo tiempo que estima su posición en el mismo.
+Por otro lado, el uso de cámaras como principal unidad de sensado
+ha sido foco de interés debido a que estas son sensores pasivos (no
+interfieren con otros sensores), captan gran información del ambiente
+(permitiendo realizar detección de objetos, por ejemplo), y su bajo
+costo comercial. En esta charla se presentará un nuevo método
+desarrollado por el Laboratorio de Robótica y Sistemas Embebidos de
+la UBA, denominado STAM (Stereo Tracking And Mapping) que utiliza
+una cámara estéreo para abordar el problema de SLAM. Además, se
+mostrarán otros métodos de navegación basada en visión desarrollados
+por el grupo.</p>

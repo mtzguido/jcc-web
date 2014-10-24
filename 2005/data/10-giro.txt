@@ -1,0 +1,17 @@
+Title: Redes de Petri con Múltiples Instancias
+Author: Sergio Giro
+ID: 2005-giro
+Abstract: Las Redes de Petri son un formalismo para probar propiedades
+de corrección en sistemas concurrentes. Se expondrá una extensión al
+formalismo para contemplar el caso en el que un número indefinido de
+procesos con el mismo comportamiento se ejecuta concurrentemente. Se
+ilustrará el uso del formalismo con una versión renovada del problema
+de los filósofos comensales. La extensión se realiza dotando a las
+redes de una estructura jerárquica, utilizando la jerarquía de la
+red para asignar diferentes colores a las fichas, relacionando así la
+jerarquía y el color, que constituyen las extensiones tradicionales
+a las Redes Petri. La diferencia entre la extensión tradicional
+y la aquí presentada es que en la tradicional la asignación de
+colores es arbitraria (y por tanto no pueden hacerse deducciones sobre
+ella), mientras que en las Redes de Petri con Múltiples Instancias la
+transformación tiene una estructura dependiente de la jerarquía.

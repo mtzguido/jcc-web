@@ -1,0 +1,16 @@
+Title: Verificación de Sistemas de Tiempo Real en Teoría de Tipos: Un Caso de Estudio: "The RailRoad Crossing Example in Coq"
+ID: 2005-luna-2
+Slides: 2005-luna2.pdf
+Author: Carlos Daniel Luna
+Abstract: Para el análisis de sistemas de tiempo real se destacan
+dos enfoques formales: la verificación de modelos y el análisis
+deductivo basado en asistentes de prueba. El primero se caracteriza
+por ser completamente automatizable pero presenta dificultades al
+tratar sistemas con un gran número de estados o que tienen parámetros
+no acotados. El segundo permite tratar con sistemas arbitrarios
+pero requiere la interacción del usuario. Este trabajo explora una
+metodología que permite compatibilizar el uso de un verificador de
+modelos como Kronos y el asistente de pruebas Coq en el análisis de
+sistemas de tiempo real. Se pone especial énfasis en el análisis de un
+caso de estudio, considerado como un benchmark en diferentes trabajos:
+el control de un paso a nivel de tren.

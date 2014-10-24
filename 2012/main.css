@@ -1,0 +1,34 @@
+body {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; text-align:justify}
+p {padding:20px}  
+a {color:#6178AE}
+img {border:none} 
+th, td {width:340px;border-bottom:1px solid #6178AE; border-right:1px solid #6178AE; text-align:center}
+ul {list-style:none; padding:20px}
+
+
+td a {  text-decoration:none; color:black; }
+
+
+#container {width:920px; margin-left:auto; margin-right:auto}
+
+#left {width:240px; float:left}
+#right {width:240px; float:right}
+#center {width:420px; float:left}
+
+#content {clear:both}
+#table_cronograma {width:920px; margin-left:auto; margin-right:auto; padding:20px}
+#inscripcion {display:none}
+#formulario {text-align:center}
+
+.sponsors {text-align:center}
+.sponsors a {margin-right:20px}
+.disertante {font-weight:bold;}
+.th, .td {width:auto; border:0}
+.abstract {display:none; text-align:justify} 
+.td_horarios {width:100px}
+.title {width:920px; font-weight:bold; background-color:#6178AE; text-align:center; color:#FFF}
+.atitle {width:460px; font-weight:bold; text-align:justify; color:#6178AE; margin-top:20px}
+.showall {width:920px; font-weight:bold; text-align:center; color:#6178AE; margin-bottom:20px}
+.titles {cursor:pointer}
+.center {text-align:center}
+label.titles strong { text-decoration: underline; color: #6178AE; cursor: pointer }

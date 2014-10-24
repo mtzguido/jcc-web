@@ -1,0 +1,26 @@
+Title: Agentes Intencionales para actuar bajo Incertidumbre
+Author: Ana Casali
+ID: 2007-casali
+Slides: 2007-casali.pdf
+Abstract: En los últimos años se ha incrementado el diseño e
+implementación de sistemas multiagentes (MAS), para abordar el
+desarrollo de sistemas distribuidos complejos. Para dar un sustento
+formal a estos sistemas, se han propuesto distintas teorías y
+arquitecturas, entre ellas se ha destacado el modelo BDI (Belief,
+Desire, Intention).
+
+Para que la aplicación de los agentes en dominios reales se acreciente,
+es importante que los modelos formales incorporen el tratamiento de la
+incertidumbre.
+
+En esta charla se presentará un modelo general para especificar agentes
+BDI graduados (g-BDI agents) con una arquitectura basada en los sistemas
+multicontextos (MCS) Este modelo permite razonar bajo la incertidumbre
+del entorno y actitudes mentales graduadas.
+
+La semántica operacional de este modelo de agente se ha formalizado
+utilizado process calculus. También se ha trabajado en un marco
+metodológico para desarrollar sistemas basados en g-BDI agents.
+Utilizando la metodología propuesta se ha diseñado un caso de
+estudio en el dominio del turismo argentino, el cuál se encuentra en
+experimentación.

@@ -1,0 +1,46 @@
+Title: Una Conexión Formal entre Propiedades de Seguridad y Anotaciones JML
+Author: Alejandro Tamalet
+ID: 2007-tamalet
+Slides: 2007-tamalet.pdf
+Abstract: Con el advenimiento de una nueva generación de dispositivos
+personales (smart phones, PDA, smart cards, etc), la necesidad de
+garantizar ciertas propiedades del software es innegable. El hecho
+de que gran parte estos dispositivos estén conectados a redes y que
+permitan la ejecución de programas complejos los hace muy vulnerables
+a ataques. Los efectos de un ataque, que desconecte o inutilize
+masivamente dichos dispositivos, serían devastadores.
+
+Unos de los enfoques tradicionales para garantizar la seguridad de una
+aplicación es monitorear su ejecución con un autómata de seguridad.
+Los eventos de dicho autómata son disparados por acciones ejercidas
+por el programa. Si el programa intenta violar la propiedad que el
+autómata describe se pueden tomar acciones correctivas o simplemente
+abortar el programa. Pero en última instancia estamos interesados en
+provar que la propiedad es satisfecha para toda ejecución del programa,
+evitando de este modo la necesidad de monitorear la aplicación. Esto es
+particularmente importante en dispositivos donde el poder de cómputo es
+un preciado recurso.
+
+En esta charla hablaré sobre el trabajo en curso que estoy realizando
+como estudiante de doctorado de la universidad Radboud situada en
+los Nijmegen, Paises Bajos, en conjunto con Marieke Huisman de INRIA
+Sophia-Antipolis, Francia. Nuestra propuesta es transformar autómatas
+de seguridad en anotaciones JML. JML o Java Modeling Language es un
+lenguage de especificaciones para Java que permite entre otras cosas
+agregar contratos a las interfaces (precondiciones, postcondiciones e
+invariantes). La ventaja de usar JML es que podemos chequear que las
+aserciones se cumplen en tiempo de ejecución, obteniendo de esa manera
+un monitor de ejecución. Pero además, dependiendo de cómo sean
+generadas las anotaciones, podemos usar herramientas como ESC/Java2 para
+probar las propiedades estáticamente.
+
+La principal contribución de este trabajo es la formalización y prueba
+de la correctitud del algoritmo de generación de anotaciones. Para
+ello estamos usando el demostrador de teoremas PVS. La formalización
+incluye dar una definición formal para los autómatas de seguridad
+junto con una semática operacional, un subconjunto de Java que incluye
+anotaciones JML, una semántica operacional big step para dichos
+programas, una definición de programas monitoreados y una relación
+de equivalencia entre los estados un programa anotado y un programa
+monitoreado. La prueba se basa en mostrar que existe una bisimulación
+entre el programa monitoreado y el programa anotado. [Ocultar]

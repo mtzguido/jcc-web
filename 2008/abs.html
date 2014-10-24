@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>VI Jornadas de Ciencias de la Computaci&oacute;n</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+  <style type="text/css">
+   .center {text-align:center}
+   .imagelink {border:none}
+  </style>
+ </head>
+ <body>
+  <h1 class="center">JCC VI</h1>
+  <h2 class="center">6tas. Jornadas de Ciencias de la Computaci&oacute;n</h2>
+  <h3 class="center">23 y 24 de Octubre del 2008<br />Rosario, Argentina</h3>
+  <hr />
+
+  <h3>Charlas confirmadas</h3>
+   <h5 id="ph">Phillip Heidegger : Type system for Javascript</h5>
+   <p>
+   Many scripting languages are object-based and have weak, dynamic type systems to simplify the development of short programs.  As larger programs are built with scripting languages, static type systems and analyses become important tools for detecting programming errors.<br />
+   We define such a type system based on an imperative object-based calculus that models essential features of the JavaScript language, as an example of a typical and widely used scripting language. The calculus supports objects as property tables, type change during object initialization, and precise support for JavaScript's prototype mechanism.<br />
+   Our work transfers the idea of recency abstraction from abstract interpretation to a type system. The corresponding feature in our system, the precise object pointer, enables strong, type changing updates on object types during a generalized initialization phase. The same precise object pointers enable an accurate treatment of the prototype mechanism. Unlike linear types, precise object pointers can be nested and mixed arbitrarily with imprecise object pointers in the description of a data structure.<br />
+   We have proved type soundness of the system and we have defined and implemented a typing algorithm.
+   </p>
+   <h5 id="dp">Duilio Protti : Linux KVM como herramienta de aprendizaje</h5>
+   <p>
+   La programaci&#243;n a nivel de sistema es una tarea dif&#237;cil. Por ejemplo, aprender conceptos de sistemas operativos programando en &#225;reas como manejo de interrupciones o segmentaci&#243;n/paginaci&#243;n de memoria en un host nativo es una tarea riesgosa y que requiere mucho tiempo de aprendizaje. Una alternativa es la de programar dentro de un kernel preexistente que ejecute como guest dentro de una m&#225;quina virtual. Esto no hace la tarea m&#225;s f&#225;cil: se reduce el riesgo de da&#241;ar el host nativo, pero el programador se encuentra desarrollando dentro de todo un kernel que ya tiene sus propios mecanismos de segmentaci&#243;n/paginado/interrupciones, etc, mecanismos que se deben entender en detalle para poder hacer modificaciones exitosas. &#161;Pero el programador los est&#225; usando precisamente para aprender! <br />
+   Por otro lado, la infraestructura de virtualizaci&#243;n del kernel de Linux (KVM) permite crear muy f&#225;cilmente m&#225;quinas virtuales que semejen una plataforma "nativa" justo en el estado en que se encuentra luego de encenderse. Esto permite escribir mini-kernels para que ejecuten dentro de esas m&#225;quinas virtuales "crudas" y as&#237; probar c&#243;digo que realice operaciones sensitivas de bajo nivel como manipulaci&#243;n de tablas de p&#225;ginas y similares sin preocuparnos por que se pueda da&#241;ar el host y sin tener que entender la forma en que lo hace un kernel preexistente. En esta presentaci&#243;n se mostrar&#225; c&#243;mo usar KVM para crear un lanzador de m&#225;quinas virtuales, as&#237; como un kernel de 16-bit en modo real y otro de 32-bit en modo protegido. Ambos ejemplos son f&#225;cilmente extensibles a kernels m&#225;s sofisticados que prueben todo tipo de caracter&#237;sticas de bajo nivel de la plataforma, incluso a sistemas operativos peque&#241;os con fines pedag&#243;gicos.
+   </p>
+   <h5 id="rc">Renato Cherini : Razonamiento local con abstraccion y estructuras compartidas</h5>
+   <p>
+   El razonamiento local posibilitado por la Separation Logic ha demostrado ser una gran herramienta para la veri&#64257;caci&#243;n de programas con un manejo complejo de punteros. Sin embargo el poder de esta l&#243;gica encuentra su limite en situaciones en las que es necesario especi&#64257;car diversas estructuras que comparten el heap, ya sea por la di&#64257;cultad de especi&#64257;carlas de manera disjunta, ya sea por la imposibilidad de hacerlo sin romper las abstracciones que estas estructuras proveen. En esta charla presentamos una generalizaci&#243;n de la Separation Logic que permite especi&#64257;car precisamente estructuras complejas en el heap, relaciones de sharing entre ellas, y un sistema de prueba composi cional asociado para veri&#64257;car programas de forma modular bajo ciertas condiciones, aun cuando no es posible garantizar una completa separaci&#243;n espacial de las estructuras manipuladas.
+   </p>
+   <h5 id="ja">Jorge Aguirre : Recordando al Dr. Manuel Sadosky</h5>
+   <p>
+   Manuel Sadosky (1914-2005) fue el introductor de la Computaci&#243;n universitaria en la Argentina y Uruguay. Su accionar tuvo tambi&#233;n amplia repercusi&#243;n en Latinoam&#233;rica.<br />
+   En 1960,  trajo al pa&#237;s la primera computadora "Clementina", que se incorpor&#243; al Instituto de C&#225;lculo de la Facultad de Ciencias Exactas de la UBA iniciando un acelerado proceso de desarrollo acad&#233;mico.<br />
+   En 1986, siendo Secretario de Ciencia y T&#233;cnica de la Naci&#243;n, fund&#243; la ESLAI, Escuela Latinoamericana de Inform&#225;tica.<br />
+   Generaciones de ingenieros y t&#233;cnicos estudiaron por sus libros de c&#225;lculo diferencial conocido en la jerga estudiantil como "Sadosky Guber".<br />
+   Fue hijo de un modesto zapatero, se recibi&#243; de Maestro Normal, luego de Doctor en Matem&#225;tica en la UBA y despu&#233;s completo sus estudios en Europa. Jam&#225;s perdi&#243; su humildad ni su entusiasmo, pese a que muchos de sus exitosos proyectos acad&#233;micos quedaron truncos por cambios pol&#237;ticos. Su  entusiasmo renac&#237;a fortalecido luego de cada frustraci&#243;n para continuar bregando por sus prop&#243;sitos.<br />
+   Se ver&#225;, mediante algunos ejemplos, que su honestidad, compromiso social y bonhom&#237;a, trascendieron los l&#237;mites imaginables.<br />
+   Bajo la sombra de su obra crecieron las Carreras de Computaci&#243;n argentinas y uruguayas.
+   </p>
+   <h5 id="sf">Santiago Figueira : Computabilidad y aleatoriedad</h5>
+   <p>
+   La teor&#237;a de la computabilidad estudia los l&#237;mites de los "m&#233;todos efectivos". Pero &#191;qu&#233; es un m&#233;todo efectivo? Ahora es f&#225;cil responder a esa pregunta: lo efectivo es lo computable, es decir, lo que se pueda resolver usando una computadora. Sin embargo, comenzaron a pensar en esta noci&#243;n mucho antes de que existieran las computadoras. En la primera parte de la charla voy a contarles cu&#225;les fueron las primeras intuiciones, los primeros intentos para capturar la noci&#243;n de m&#233;todo efectivo, y algunos resultados importantes del &#225;rea.<br />
+   Dentro de la teor&#237;a de la computabilidad, el estudio de la aleatoriedad despert&#243; mucho inter&#233;s en los &#250;ltimos a&#241;os. En la segunda parte de la charla voy a hablar sobre esto. &#191;C&#243;mo se puede definir la aleatoriedad? Supongamos que tiramos una moneda 30 veces y anotamos 0 si sale cara y 1 si sale ceca. &#191;Por qu&#233; no me creen si les digo que sali&#243; 101010101010101010101010101010, pero s&#237; me creen si les digo 110001010011001101000110100110? Las dos secuencias tienen longitud 30, de modo que las dos son igual de probables... Vamos a ver dos formas distintas de definir la noci&#243;n de "secuencia aleatoria", una basada en apuestas en ruletas y otra en grados de compresi&#243;n. Las dos definiciones van a estar basadas en computadoras y van a usar resultados de la teor&#237;a de la computabilidad.<br />
+   Los que aguanten hasta el final de la charla se llevan como premio un m&#233;todo infalible para ganar a la ruleta.
+   </p>
+   <h5 id="ll">Leticia Losano : Aprender a programar en el primer a&#241;o de la carrera de Ciencias de la Computaci&#243;n. Un an&#225;lisis basado en las Comunidades de Pr&#225;ctica</h5>
+   <p>
+   El objetivo de esta charla es presentar un an&#225;lisis preliminar de las experiencias y vivencias de estudiantes que ingresan a la universidad para cursar la carrera de Ciencias de la Computaci&#243;n en la Facultad de Matem&#225;tica, Astronom&#237;a y F&#237;sica de la Universidad Nacional de C&#243;rdoba. En el primer a&#241;o de esta carrera el nivel de deserci&#243;n y fracaso es elevado. El inter&#233;s de esta presentaci&#243;n, que comenta parte una investigaci&#243;n en curso, es observar, caracterizar y analizar c&#243;mo se realiza el encuentro entre los alumnos reci&#233;n llegados y  la comunidad de la facultad a la que los estudiantes pretenden integrarse.<br />
+   Durante el primer a&#241;o de la carrera los estudiantes deben cursar materias introductorias de programaci&#243;n. Esta tarea es abordada desde una perspectiva formal, los programas son vistos como f&#243;rmulas matem&#225;ticas largas las cuales se construyen y demuestran utilizando la inducci&#243;n matem&#225;tica. En s&#237;ntesis, los alumnos deben aprender una nueva notaci&#243;n, un lenguaje de axiomas y reglas de construcci&#243;n y el significado de demostrar una proposici&#243;n -por inducci&#243;n, reducci&#243;n al absurdo, an&#225;lisis de casos, contraejemplo-.<br />
+   Simult&#225;neamente, los estudiantes comienzan a vivenciar la presencia de valores y convenciones sociales que sostiene la comunidad. Estas normas impl&#237;citas est&#225;n relacionadas con las caracter&#237;sticas que debe reunir un alumno exitoso, el comportamiento y las actitudes que deben adoptarse, el status de los conocimientos previos del alumno y las relaciones de poder entre profesores y alumnos.<br />
+   Este complejo y dif&#237;cil proceso de ingreso a la comunidad involucra la creaci&#243;n, modificaci&#243;n y renegociaci&#243;n  del lenguaje, los valores y los conocimientos previos de los aprendices. El &#233;xito en este proceso de iniciaci&#243;n permitir&#225; a los estudiantes lograr una participaci&#243;n cada vez mayor en la comunidad.<br />
+   A trav&#233;s de una metodolog&#237;a de investigaci&#243;n cualitativa, basada en entrevistas y observaciones de clases se intenta delinear c&#243;mo las caracter&#237;sticas de las pr&#225;cticas &#225;ulicas organizan y constituyen el aprendizaje. Tambi&#233;n se analiza c&#243;mo se construyen, de manera situada dentro del aula, las nociones de demostraci&#243;n, abstracci&#243;n y formalizaci&#243;n, consideradas centrales para lograr una participaci&#243;n leg&#237;tima en la comunidad.
+   </p>
+   <h5 id="sg">Sergio Giro : Probablemente funcione</h5>
+   <p>
+   En los casos en que algunos componentes de un sistema tienen un funcionamiento imperfecto (por ejemplo, cuando un medio de transmisi&#243;n puede perder datos con cierta probabilidad) es interesante calcular cu&#225;l es la probabilidad de que el sistema funcione correctamente. Adem&#225;s, algunas de las fallas no tienen un comportamiento probabil&#237;stico, por lo que se introducen decisiones no deterministas.<br />
+   En esta charla explicaremos c&#243;mo las decisiones probabilistas y no deterministas interact&#250;an en procesos concurrentes.<br />
+   El estudio de esta interacci&#243;n es &#250;til para la verificaci&#243;n de protocolos de comunicaci&#243;n, tolerancia a fallas, scheduling, criptograf&#237;a. Se analizar&#225;n ejemplos de este tipo de sistemas.
+   </p>
+   <h5 id="gk">Guillermo Kaufmann : El CIFASIS, presente y futuro</h5>
+   <p>
+   El Centro Internacional Franco Argentino de Ciencias de la Informaci&#243;n y de Sistemas, CIFASIS, es el s&#233;ptimo y tambi&#233;n el m&#225;s joven de los institutos de investigaci&#243;n del CONICET que est&#225;n localizados en Rosario. Adem&#225;s, el CIFASIS es el primer centro creado en el &#225;rea de inform&#225;tica dentro del sistema de institutos del CONICET. El centro fue creado en Julio de 2007 como resultado de un convenio firmado entre la Universidad Nacional de Rosario, el CONICET y la Universidad Paul C&#233;zanne Aix-Marseille III, Francia.<br />
+   En esta presentaci&#243;n se comentar&#225; sobre las distintas acciones y programas que se est&#225;n llevando a cabo en el CIFASIS o con su apoyo y tambi&#233;n los planes para el futuro pr&#243;ximo.<br />
+   </p>
+   <h5 id="dgsm">Daniel Gor&#237;n / Sergio Mera : Una mirada computacional a la l&#243;gica</h5>
+   <p>
+   Desde su nacimiento, la Computaci&#243;n ha estado &#237;ntimamente ligada a la L&#243;gica. Hoy en d&#237;a, el inter&#233;s por la L&#243;gica es impulsado en mucha mayor medida desde la Computaci&#243;n que desde otras disciplinas hist&#243;ricamente afines, como la Matem&#225;tica o la Filosof&#237;a. Actualmente la Computaci&#243;n abarca un n&#250;mero muy diverso de &#225;reas de inter&#233;s, y en cada una de ellas ciertas l&#243;gicas se adec&#250;an mejor que otras. Los criterios a la hora de elegir una l&#243;gica son principalmente: un lenguaje acorde al dominio de uso, poder expresivo suficientemente alto y, en la medida de lo posible, un bajo costo computacional. En esta charla vamos a presentar de manera intuitiva algunos resultados sobre propiedades te&#243;ricas y computacionales de diferentes l&#243;gicas modales e h&#237;bridas y algunas herramientas de demostraci&#243;n autom&#225;tica desarrolladas.
+   </p>
+   <h5 id="mf">Marcelo Fr&iacute;as : Analisis distribuido eficiente de modelos relacionales</h5>
+   <p>
+   Presentaremos los fundamento y datos experimentales detras de la herramienta ParAlloy. ParAlloy permite analizar modelos relacionales escritos en el lenguaje de modelado Alloy utilizando SAT-solving distribuido. ParAlloy incorpora tecnicas novedosas de SAT-solving distribuido, utilizado informaci&#243;n sobre los modelos relacionales.
+   </p>
+   <h5 id="jb">Javier Blanco : Aspectos epistemol&#243;gicos del debate sobre la verificaci&#243;n formal</h5>
+   <p>
+   La verificaci&#243;n formal de programas es una pr&#225;ctica habitual en el campo de la ciencia computacional. Sin embargo, algunos fil&#243;sofos y cient&#237;ficos han argumentado que esta pr&#225;ctica no podr&#237;a ser justificada. Para sostener esta posici&#243;n se han propuesto argumentos sociol&#243;gicos (De Millo, Lipton) y argumentos filos&#243;ficos (Fetzer). En gran medida estos argumentos suponen una distincion entre algoritmos y programas. As&#237; Fetzer sostiene que una verificaci&#243;n formal "completa" s&#243;lo se puede hacer sobre algoritmos, no sobre programas. En el presente trabajo discutiremos algunos de los supuestos de los argumentos contra la verificaci&#243;n formal.
+   </p>
+   <h5 id="ekfb">Ernesto Kofman / Federico Bergero : Modelado y simulaci&#243;n con el formalismo DEVS</h5>
+   <p>
+   DEVS es un formalismo que permite representar y simular sistemas de eventos discretos generales. En esta charla, presentaremos los principios del formalismo y sus principales extensiones y aplicaciones, mostrando tambi&#233;n algunos de los resultados obtenidos por nuestro grupo. Entre estos &#250;ltimos, veremos el software PowerDEVS, un simulador DEVS de prop&#243;sito general desarrollado por el grupo con capacidad para realizar las simulaciones en tiempo real. 
+   </p>
+  <hr />
+  <p class="center">
+   <a href="http://validator.w3.org/check?uri=referer">
+    <img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" class="imagelink" />
+   </a>
+   <a href="http://www.fceia.unr.edu.ar/lcc">
+    <img src="http://www.exactas.org/images/banners/lcc.minibanner.png" alt="LCC" height="31" width="88" class="imagelink" />
+   </a>
+  </p>
+ </body>
+</html>

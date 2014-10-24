@@ -1,0 +1,16 @@
+Title: Imponiendo Nointerferencia al Ejecutar tantos Procesos como Niveles de Seguridad
+Author: Maximiliano Cristiá
+ID: 2007-cristia
+Slides: 2007-cristia.pdf
+Abstract: Se presentará una técnica para imponer nointerferencia al
+ejecutar los programas con una seméntica operacional no estándar que
+esencialmente corre una versión del programa (proceso) por nivel de
+seguridad. Los efectos de E/S de cada uno de estos procesos se controlan
+prohibiendo que cada uno escriba en dispositivos con el mismo nivel o
+superior. Este mecanismo intenta resolver los problemas que persisten
+en las técnicas basadas en el análisis estático de código para
+calcular la nointerferencia de un programa. En efecto, la técnica
+que se presentará no requiere examinar los programas sino modificar
+el sistema operativo el cual será el único responsable de evitar la
+filtración de secretos. Por lo tanto es muy compatible con el código
+existente.

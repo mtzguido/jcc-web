@@ -1,0 +1,6 @@
+Title: Proyecto C.I.D.R.A.
+ID: 2006-cidra
+Author: Adrián Biga, Sergio Grimi, Walter Lozano, Gonzalo Sambucaro, Sebastián Nachez
+Abstract: Experiencia de estudiantes y egresados de LCC que actualmente
+firmaron un acuerdo con el "Vivero de empresas de Base Tecnológica"
+para incubar su empresa.

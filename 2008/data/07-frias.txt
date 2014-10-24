@@ -1,0 +1,8 @@
+Title: Analisis distribuido eficiente de modelos relacionales
+Author: Marcelo Frías
+ID: 2008-frias
+Abstract: Presentaremos los fundamento y datos experimentales detras de
+la herramienta ParAlloy. ParAlloy permite analizar modelos relacionales
+escritos en el lenguaje de modelado Alloy utilizando SAT-solving
+distribuido. ParAlloy incorpora tecnicas novedosas de SAT-solving
+distribuido, utilizado información sobre los modelos relacionales.

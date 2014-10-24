@@ -1,0 +1,20 @@
+Author: Maximiliano Cañellas
+ID: 2014-cañellas
+Slides: 2014-cañellas.html
+Title: Bitcoin en profundidad: Un viaje criptográfico
+ShortTitle: Bitcoin en profundidad: Un viaje criptográfico
+Institution: Sinaptica
+Link: http://sinapticasecurity.com/
+Abstract: <p>Bitcoin es una cryptodivisa digital creada en el año 2009 que usa 
+tecnología peer-to-peer y que opera sin una autoridad central, lo que 
+significa que no está producida ni sancionada por bancos o gobiernos.
+La gestión de las transacciones y la emisión es llevada a cabo de forma 
+colectiva por los nodos de la red.
+Bitcoin es de código abierto; su diseño es público, nadie es dueño o lo 
+controla y todo el mundo puede participar.
+</p>
+<p>
+En esta charla presentaré brevemente las funciones y algoritmos 
+criptográficos que permiten el funcionamiento del complejo protocolo que 
+soporta la red Bitcoin, explicando desde la generación de wallets hasta 
+el funcionamiento de la cadena de bloques y las transacciones de red.</p>

@@ -1,0 +1,18 @@
+Title: Una mirada computacional a la lógica
+Author: Daniel Gorín
+ID: 2008-gorin-mera
+Abstract: Desde su nacimiento, la Computación ha estado íntimamente
+ligada a la Lógica. Hoy en día, el interés por la Lógica es
+impulsado en mucha mayor medida desde la Computación que desde otras
+disciplinas históricamente afines, como la Matemática o la Filosofía.
+Actualmente la Computación abarca un número muy diverso de áreas de
+interés, y en cada una de ellas ciertas lógicas se adecúan mejor que
+otras. Los criterios a la hora de elegir una lógica son principalmente:
+un lenguaje acorde al dominio de uso, poder expresivo suficientemente
+alto y, en la medida de lo posible, un bajo costo computacional. En
+esta charla vamos a presentar de manera intuitiva algunos resultados
+sobre propiedades teóricas y computacionales de diferentes lógicas
+modales e híbridas y algunas herramientas de demostración automática
+desarrolladas.
+
+

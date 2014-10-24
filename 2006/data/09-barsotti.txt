@@ -1,0 +1,20 @@
+Title: Generación automática de invariantes para implementar eficientemente Regiones Críticas Condicionales
+Author: Damián Barsotti (UNC)
+ID: 2006-barsotti
+Slides: 2006-barsotti.pdf
+Abstract: La técnica de semáforos binarios divididos (SBS) brinda
+tanto los programas que implementan secciones críticas condicionales
+como los invariantes iniciales que aseguran su corrección. Aplicando
+la técnica a casos particulares se encuentran programas que admiten
+simplificaciones.
+
+Este trabajo se concentra en el desarrollo de un procedimiento para
+verificar la corrección de estas simplificaciones de forma automática.
+Nos enfocamos particularmente en la eliminación de guardas en las
+sentencias condicionales finales de los programas, pero el procedimiento
+encontrado permite su generalización a otros tipos de simplificaciones.
+
+El procedimiento consiste en hacer una búsqueda de nuevos invariantes
+que avalen la corrección de las simplificaciones. Su implementación
+fue realizada en ML usando los demostradores Isabelle/HOL y CVC~Lite
+para demostrar las implicaciones y simplificar fórmulas lógicas.

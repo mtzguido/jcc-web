@@ -1,0 +1,27 @@
+Title: Computabilidad y aleatoriedad
+Author: Santiago Figueira
+ID: 2008-figuerira
+Abstract: La teoría de la computabilidad estudia los límites de los
+"métodos efectivos". Pero ¿qué es un método efectivo? Ahora es
+fácil responder a esa pregunta: lo efectivo es lo computable, es decir,
+lo que se pueda resolver usando una computadora. Sin embargo, comenzaron
+a pensar en esta noción mucho antes de que existieran las computadoras.
+En la primera parte de la charla voy a contarles cuáles fueron las
+primeras intuiciones, los primeros intentos para capturar la noción de
+método efectivo, y algunos resultados importantes del área.
+
+Dentro de la teoría de la computabilidad, el estudio de la aleatoriedad
+despertó mucho interés en los últimos años. En la segunda parte
+de la charla voy a hablar sobre esto. ¿Cómo se puede definir la
+aleatoriedad? Supongamos que tiramos una moneda 30 veces y anotamos 0
+si sale cara y 1 si sale ceca. ¿Por qué no me creen si les digo que
+salió 101010101010101010101010101010, pero sí me creen si les digo
+110001010011001101000110100110? Las dos secuencias tienen longitud
+30, de modo que las dos son igual de probables... Vamos a ver dos
+formas distintas de definir la noción de "secuencia aleatoria", una
+basada en apuestas en ruletas y otra en grados de compresión. Las dos
+definiciones van a estar basadas en computadoras y van a usar resultados
+de la teoría de la computabilidad.
+
+Los que aguanten hasta el final de la charla se llevan como premio un
+método infalible para ganar a la ruleta.

@@ -1,0 +1,8 @@
+Title: La Noción de Principalidad en Especialización de Tipos
+Author: Pablo E. Martínez López
+ID: 2005-fidel
+Slides: 2005-fidel.pdf
+Abstract: En esta charla se describirá una técnica de producción
+automática de programas conocida como Especialización de Tipos, y se
+explicarán los últimos resultados obtenidos en el área, como parte de
+la tesis de doctorado del disertante.

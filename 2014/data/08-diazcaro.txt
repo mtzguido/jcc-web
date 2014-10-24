@@ -1,0 +1,29 @@
+Author: Alejandro Díaz-Caro
+ID: 2014-diazcaro
+Title: Lambda cálculo módulo isomorfismos de tipos
+ShortTitle: Lambda cálculo módulo isomorfismos de tipos
+Institution: UNQ
+Slides: 2014-diazcaro.pdf
+Link: http://www.diaz-caro.info
+Abstract: <p>Proponemos un sistema de pruebas para lógica proposicional
+en el cual proposiciones isomorfas son consideradas como iguales (en el
+sentido de que sus respectivas pruebas son intercambiables).</p>
+
+<p>Por ejemplo, A implica (B y C) es isomorfo a A implica B y A
+implica C. Si consideramos un sistema de pruebas módulo este tipo de
+isomorfismos, desde el punto de vista del cálculo (o del sistema de
+pruebas), una función que toma un argumento y devuelve un par, es
+equivalente (o "igual" si se quiere, para algún concepto de igualdad) a
+un par de funciones, cada una tomando el mismo argumento, y devolviendo
+sólo un elemento del par. Por lo tanto, también se podría, por
+ejemplo, proyectar un elemento de un par que será resultado de
+la aplicación de una función... antes de aplicar la función,
+proyectando sólo una parte de la misma. Esto puede trae aparejado una
+simplificación importante del cómputo.</p>
+
+<p>En una lógica proposicional que sólo cuente con conjunción
+(no-idempotente) e implicación, existen sólo cuatro isomorfismos
+básicos, a partir de los cuales pueden derivarse los demás. Estos
+cuatro isomorfismos, al considerarlos igualdades, generan un cálculo
+interesante, no-determinista, relacionado con otros cálculos en la
+literatura.</p>

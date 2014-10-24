@@ -1,0 +1,14 @@
+Title: Análisis estático para seguridad en MIDP
+Author: Luis Sierra (Universidad de la República, Uruguay)
+ID: 2007-sierra
+Slides: 2007-sierra.pdf
+Abstract: Desde el Grupo de Métodos Formales del InCo, Montevideo,
+estamos estudiando con algunos compañeros de la Facultad de Ciencias
+Exactas un perfil de Java ME, el Mobile Information Device Profile.
+
+En esta charla daremos un muy breve panorama de este producto, e iremos
+viendo una propuesta de análisis estático para realizar pruebas sobre
+su seguridad.
+
+Adicionalmente, mostraremos algunos elementos de la programación del
+analizador estático desarrollado en Python.

@@ -1,0 +1,7 @@
+Title: Digital Restrictions Management: Entretenidos y controlados
+Author: Sebastián Criado (LUGRO)
+Slides: 2006-criado.swf
+ID: 2006-criado
+Abstract: Los mecanismos técnicos de restricción al acceso y copia de
+obras publicadas en formatos digitales nos llevarán a un mundo donde
+solo tendrán acceso a la información quienes puedan pagarla.

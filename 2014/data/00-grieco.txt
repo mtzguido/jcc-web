@@ -1,0 +1,24 @@
+Author: Gustavo Grieco
+ID: 2014-grieco
+Slides: 2014-grieco.pdf
+Title: Taller: Detectando corrupción de memoria con Ptrace en aplicaciones reales
+ShortTitle: Taller: Detectando corrupción de memoria con Ptrace en aplicaciones reales
+Institution: CIFASIS - CONICET
+Link: http://www.cifasis-conicet.gov.ar/
+Abstract: <p>Los errores de corrupción de memoria están entre los más
+frecuentes de los programadores de lenguajes como C o C++. Para colmo,
+presentan un gran desafío desde el punto de vista de la seguridad
+del programa ya que pueden ser fácilmente utilizados para atacar un
+sistema.</p>
+<p>Por otro lado, herramientas basadas en ptrace (e.g. ltrace)
+interceptan y registran las llamadas a funciones de librerías
+dinámicas de manera eficiente sin necesidad del código fuente del
+programa analizado. En este tutorial, se utilizarán las funciones
+provista por ptrace por medio de su binding de Python para examinar
+y detectar corrupción de memoria potencialmente vulnerable en
+aplicaciones reales.</p>
+<p> <b>Nota:</b> Se recomienda llevar notebook con <a target=_blank
+<href="http://www.vagrantup.com/">Vagrant</a> instalado </p>
+<p>
+<b>Jueves 16:</b> Salón de actos<br>
+<b>Viernes 17:</b> Laboratorio del 2do piso</p>

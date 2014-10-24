@@ -1,0 +1,16 @@
+Title: Deforestación Shortcut Monádica
+Author: Cecilia Manzino
+ID: 2005-manzino
+Slides: 2005-manzino.ps
+Abstract: Los programas funcionales suelen construirse usando un estilo
+composicional. Las funciones definidas usando este estilo tienen
+las ventajas de ser claras y modulares, pero no son necesariamente
+eficientes. En cada composición de funciones una estructura de datos
+intermedia puede crearse para pasar información de una función
+a otra. La deforestación es una técnica de transformación de
+programas que permite derivar funciones que evitan la construcción de
+estructuras de datos intermedias. Se han propuestos muchas técnicas
+para deforestación, pero no todas pueden usarse para transformar
+programas con efectos. En esta tesina se presenta una transformación
+que puede ser usada para eliminar estructuras de datos intermedias en
+programas con efectos.

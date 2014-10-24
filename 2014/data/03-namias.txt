@@ -1,0 +1,26 @@
+Author: Rafael Namías
+ID: 2014-namias
+Title: Imaginando...
+ShortTitle: Imaginando...
+Institution: CIFASIS - CONICET
+Slides: 2014-namias.svg
+Link: http://www.cifasis-conicet.gov.ar/namias/
+Abstract: <p>La era digital ya está aquí hace más de una década. En los últimos diez
+años se produjo un crecimiento exponencial de la cantidad de datos visuales
+digitales (imágenes, videos, etc) gracias al desarrollo y abaratamiento de
+dispositivos de adquisición. Hoy en día, la mayoría de las personas posee un
+dispositivo de captura de imágenes (filmadoras, tablets, cámaras, celulares...). Sin
+imaginarlo, estos dispositivos pueden abrir infinidad de nuevas oportunidades.
+Cambio de paradigmas en el uso de dispositivos, automatización de procesos,
+simplificación de tareas, para mencionar algunas.</p>
+<p>
+Todos estos avances requieren de nuevos desarrollos científicos en el área de
+procesamiento, modelado y análsis de imágenes. Estas tareas necesitan una amplia
+variedad de conocimientos interdisciplinarios, pero sin dudas, sus fundamentos son
+la mátemática, la lógica y la programación.</p>
+<p>
+La charla incluye un paneo sobre los diferentes campos de aplicación del
+procesamiento de imágenes, una breve introducción a las áreas básicas del
+procesamiento digital de imágenes finalizando con los trabajos de investigación
+actuales que desarrolla el grupo de Aprendizaje Automatizado y Aplicaciones dentro
+del CIFASIS en el ámbito de las imágenes.</p>

@@ -1,0 +1,35 @@
+Author: Carlos Chesñevar
+ID: 2014-cic
+Title: Inteligencia Artificial y Gobierno Electrónico: cómo procesar la opinión ciudadana en Twitter a través de argumentación y búsqueda en contexto
+ShortTitle: Inteligencia Artificial y Gobierno Electrónico
+Institution: UNS
+Slides: 2014-cic.pdf
+Link: http://cs.uns.edu.ar/~cic
+Abstract: <p>Hoy en día los gobiernos están adoptando tecnologías de
+la Web 2.0 para interactuar con los ciudadanos, empoderándolos para
+compartir sus visiones, opiniones y puntos de vista. En particular,
+las redes sociales juegan un papel preponderante en este contexto, en
+función de su uso extendido. Para los gobiernos, un desafìo técnico
+significativo es la carencia de herramientas inteligentes automatizadas
+para procesar la opinión ciudadana en el contexto de redes sociales
+orientadas a cuestiones de gobierno. El Proyecto DECIDE 2.0 (financiado
+por LACCIR - Microsoft Research) apunta al desarrollo de un framework
+para integrar tecnologías de argumentación y de búsqueda sensible
+al contexto para procesamiento inteligente de opinión ciudadana en
+redes sociales. El framework se basa en técnicas de text mining y
+opinion mining para detectar los tópicos que tienen preponderancia, y
+las potenciales contradicciones que surgen entre los distintos puntos
+de vista. La principal contribución de DECIDE 2.0 es proveer una
+herramienta automática para extraer argumentos a partir de la opinión
+ciudadana, confrontando automáticamente opiniones "pro" y "con" a
+partir de términos. La idea es que dicha aplicación facilite el
+proceso de toma de decisiones para los funcionarios responsables en
+distintos niveles organizacionales.</p>
+
+<p> Esta conferencia presentará algunos resultados del proyecto
+DECIDE 2.0 enfocados al procesamiento de datos obtenidos de Twitter.
+Se discutirán las ideas subyacentes a la generación automática de
+opiniones (argumentos) basados en tweets, asi como el análisis y
+generación de árboles de opinion. Se comentarán también propiedades
+matemáticas del enfoque presentado, y el estado del arte en otras
+investigaciones recientes en la temática.</p>

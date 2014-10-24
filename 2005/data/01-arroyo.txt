@@ -1,0 +1,9 @@
+Title: Gramáticas de Atributos y sus Aplicaciones
+ID: 2005-arroyo
+Author: Marcelo Arroyo
+Slides: 2005-arroyo.ps
+Abstract: Introducción al formalismo de las Gramáticas de Atributos,
+características y clasificación. Métodos de evaluación. Aplicaciones
+para el cómputo sobre árboles con atributos (generación de
+procesadores de lenguajes). Relaciones con los paradigmas de
+programación funcional y lógica. Herramientas existentes.

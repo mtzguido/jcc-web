@@ -1,0 +1,11 @@
+Title: Modelado y simulación con el formalismo DEVS
+Author: Ernesto Kofman, Federico Bergero
+ID: 2008-kofman-bergero
+Slides: 2008-kofman-bergero.pdf
+Abstract: DEVS es un formalismo que permite representar y simular
+sistemas de eventos discretos generales. En esta charla, presentaremos
+los principios del formalismo y sus principales extensiones y
+aplicaciones, mostrando también algunos de los resultados obtenidos
+por nuestro grupo. Entre estos últimos, veremos el software PowerDEVS,
+un simulador DEVS de propósito general desarrollado por el grupo con
+capacidad para realizar las simulaciones en tiempo real.

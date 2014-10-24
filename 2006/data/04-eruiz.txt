@@ -1,0 +1,12 @@
+Title: Estudio e implementación del algoritmo ADIOS
+Author: Esteban Ruiz
+ID: 2006-eruiz
+Slides: 2006-eruiz.pdf
+Abstract: Comentaré la idea general del algoritmo, algunos detalles
+interesantes y los problemas con los que me encontré durante el
+estudio y la implementación del algoritmo. El algoritmo ADIOS
+(Automatic Distillation of Structure), desarrollado por Z. Solan et
+al., utiliza conceptos de grafos y estadística para detectar patrones
+en información no estructurada, permitiendo detectar parte de la
+gramática subyacente y se puede aplicar tanto para lenguajes naturales
+como para secuencias de ADN.

@@ -1,0 +1,10 @@
+Title: Implementación de puntos de acceso gratuito WiFi utilizando Software Libre
+Author: Javier Kohan, Federico Lazcano
+ID: 2007-kohan-lazcano
+Slides: 2007-kohan-lazcano.pdf
+Abstract: Esta charla muestra los detalles del Piloto de acceso gratuito
+a Internet mediante WiFi, en el marco del proyecto de Ciudad Digital
+de la Municipalidad de Rosario. En esta implementación se realizó
+utilizando exclusivamente software libre, tanto en los puntos de acceso
+como en el servidor concentrador. Las tecnologías utilizadas incluyen
+OpenWRT, OpenVPN, Wifidog y Debian GNU/Linux, entre otras.

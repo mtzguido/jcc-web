@@ -1,0 +1,128 @@
+body { 
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #000000;
+    text-align: justify;
+}
+
+a img {
+    border:0;
+}
+
+a {
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 125%;
+    padding: 0;
+    margin: 0;    
+}
+
+#title {
+    text-align: center;    
+}
+
+table.cronograma
+{
+    width: 100%;
+    margin-bottom: 15px;
+    color: #000;
+    background-color: inherit;  
+    border: 0px solid gray;
+    border-collapse: collapse
+}
+
+table.cronograma th
+{
+    text-align: center;
+    vertical-align: baseline;
+    color: #333;
+    font-weight: bold;
+    background-color: #ccd;
+    border: 1px solid #000;
+    padding: 2px
+}
+
+table.cronograma td
+{
+    border: 1px solid #000;
+    padding: 5px;
+}
+
+table.cronograma td.horario
+{
+    vertical-align: middle;
+    width: 8em;
+    font-size: 90%;
+}
+
+table.cronograma tr.charlaInvitado
+{
+    color: inherit;
+    background-color: #eee;
+}
+
+table.cronograma tr.charlaAlumno
+{
+    color: inherit;
+    background-color: #ddd;
+}
+
+table.cronograma td.receso
+{
+    vertical-align: middle;
+    text-align: center;
+    color: inherit;
+    background-color: #bbb;
+    padding: 10px;
+}
+
+table.cronograma tr.otra
+{
+    color: inherit;
+    background-color: #eee;
+}
+
+table.cronograma tr {
+    border: 1px solid #000
+}
+
+table.cronograma div.titulo {
+    font-weight: bold;
+    font-size: 100%;
+    margin-bottom: 2px;    
+}
+
+table.cronograma div.disertante {
+    font-style: italic; 
+    margin-bottom: 2px;
+}
+
+table.cronograma div.resumen {
+    margin-top: 10px;
+    font-size: 90%;
+}
+
+
+table.fotos
+{
+    text-align: center;
+    width: 100%;
+    margin: 15px;
+    color: #000;
+    background-color: inherit;  
+    border: 0px solid gray;
+    border-collapse: collapse
+}
+

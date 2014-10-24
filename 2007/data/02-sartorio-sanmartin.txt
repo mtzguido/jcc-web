@@ -1,0 +1,20 @@
+Title: Aspectos Informáticos de un Dispositivo Hipermedial context-aware Dinámico para educación e investigación
+Author: Alejandro Sartorio, Patricia San Martin
+ID: 2007-sartorio-sanmartin
+Slides: 2007-sartorio-sanmartin.pdf
+Abstract: Objetivos:
+
+Presentar el concepto de Dispositivo Hipermedial context-aware Dinámico
+(DHc-aD). Comunicar los aportes informáticos propuestos en el Proyecto
+de I&D "Obra Abierta" (CONICET - UNR - IMAGE CAMPUS S.A.) Contenidos
+temáticos:
+
+Una propuesta de evolución desde una Aplicación e-learning a un
+Dispositivo Hipermedial context-aware Dinámico. Componentes y
+conceptos de una Plataforma e-learning. Componentes y conceptos de
+un framework context-aware La teoría de coordinación de contratos
+como abstracción de las relaciones (alumno-herramienta) con aspectos
+context-awareness. Modelos de procesos e-learning de un DHc-aD. El
+contrato como conector entre un modelo externo de Métrica para la
+medición de interactividad de los alumnos y de Data Mining para la
+clasificación de las intervenciones de los alumnos en los foros.

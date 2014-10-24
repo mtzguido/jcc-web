@@ -1,0 +1,16 @@
+Title: El CIFASIS, presente y futuro
+Author: Guillermo Kaufmann
+ID: 2008-kaufmann
+Slides: 2008-kaufmann.ppt
+Abstract: El Centro Internacional Franco Argentino de Ciencias de
+la Información y de Sistemas, CIFASIS, es el séptimo y también
+el más joven de los institutos de investigación del CONICET que
+están localizados en Rosario. Además, el CIFASIS es el primer centro
+creado en el área de informática dentro del sistema de institutos del
+CONICET. El centro fue creado en Julio de 2007 como resultado de un
+convenio firmado entre la Universidad Nacional de Rosario, el CONICET y
+la Universidad Paul Cézanne Aix-Marseille III, Francia.
+
+En esta presentación se comentará sobre las distintas acciones y
+programas que se están llevando a cabo en el CIFASIS o con su apoyo y
+también los planes para el futuro próximo.

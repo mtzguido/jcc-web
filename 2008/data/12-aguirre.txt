@@ -1,0 +1,30 @@
+Title: Recordando al Dr. Manuel Sadosky
+Author: Jorge Aguirre
+ID: 2008-aguirre
+Abstract: Manuel Sadosky (1914-2005) fue el introductor de la
+Computación universitaria en la Argentina y Uruguay. Su accionar tuvo
+también amplia repercusión en Latinoamérica.
+
+En 1960, trajo al país la primera computadora "Clementina", que se
+incorporó al Instituto de Cálculo de la Facultad de Ciencias Exactas
+de la UBA iniciando un acelerado proceso de desarrollo académico.
+
+En 1986, siendo Secretario de Ciencia y Técnica de la Nación, fundó
+la ESLAI, Escuela Latinoamericana de Informática.
+
+Generaciones de ingenieros y técnicos estudiaron por sus libros de
+cálculo diferencial conocido en la jerga estudiantil como "Sadosky
+Guber".
+
+Fue hijo de un modesto zapatero, se recibió de Maestro Normal, luego
+de Doctor en Matemática en la UBA y después completo sus estudios
+en Europa. Jamás perdió su humildad ni su entusiasmo, pese a que
+muchos de sus exitosos proyectos académicos quedaron truncos por
+cambios políticos. Su entusiasmo renacía fortalecido luego de cada
+frustración para continuar bregando por sus propósitos.
+
+Se verá, mediante algunos ejemplos, que su honestidad, compromiso
+social y bonhomía, trascendieron los límites imaginables.
+
+Bajo la sombra de su obra crecieron las Carreras de Computación
+argentinas y uruguayas.

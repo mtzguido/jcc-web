@@ -1,0 +1,12 @@
+Title: Teoría de Tipos y Coq en la Enseñanza de Programación Funcional e Imperativa: Taller de Construcción Formal de Programas
+ID: 2005-luna
+Author: Carlos Daniel Luna
+Slides: 2005-luna1.pdf
+Abstract: Una propuesta para apoyar la enseñanza de métodos formales
+en una currícula de grado, usando el asistente de pruebas Coq y
+conceptos del área de Teoría de Tipos. Se propone un taller de
+especificación, derivación y verificación de sistemas en los
+paradigmas de programación funcional e imperativo, que puede también
+ser adaptado a sistemas reactivos y de tiempo real. Se describen
+experiencias en el desarrollo del taller y se plantean posibles cambios
+y extensiones.

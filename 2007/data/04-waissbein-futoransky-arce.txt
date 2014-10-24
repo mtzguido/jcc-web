@@ -1,0 +1,12 @@
+Title: Protección de Aplicaciones Web Usando «Taint Analysis» Dinámico
+Author: Ariel Waissbein, Ariel Futoransky, Iván Arce
+ID: 2007-waissbein-futoransky-arce
+Slides: 2007-waissbein-futoransky-arce.pdf
+Abstract: Las aplicaciones web son propensas a incluir vulnerabilidades
+de inyección de código (e.g., SQL, javascript, et cetera), cuya
+explotación puede redundar en grandes daños para los dueños y
+usuarios de éstas aplicaciones. En esta charla introduciremos la
+problemática de seguridad para aplicaciones web, presentaremos una
+técnica que resuelve este problema mediante la detección "en línea"
+de ataques y su bloqueo, y describiremos a *CORE GRASP for PHP*, una
+implementación open source que protege aplicaciones PHP.

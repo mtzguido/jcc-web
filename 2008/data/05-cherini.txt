@@ -1,0 +1,17 @@
+Title: Razonamiento local con abstraccion y estructuras compartidas
+Author: Renato Cherini
+ID: 2008-cherini
+Slides: 2008-cherini.pdf
+Abstract: El razonamiento local posibilitado por la Separation Logic
+ha demostrado ser una gran herramienta para la veriﬁcación de
+programas con un manejo complejo de punteros. Sin embargo el poder
+de esta lógica encuentra su limite en situaciones en las que es
+necesario especiﬁcar diversas estructuras que comparten el heap, ya
+sea por la diﬁcultad de especiﬁcarlas de manera disjunta, ya sea
+por la imposibilidad de hacerlo sin romper las abstracciones que estas
+estructuras proveen. En esta charla presentamos una generalización de
+la Separation Logic que permite especiﬁcar precisamente estructuras
+complejas en el heap, relaciones de sharing entre ellas, y un sistema
+de prueba composi cional asociado para veriﬁcar programas de forma
+modular bajo ciertas condiciones, aun cuando no es posible garantizar
+una completa separación espacial de las estructuras manipuladas.

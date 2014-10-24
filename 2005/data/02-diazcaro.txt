@@ -1,0 +1,8 @@
+Title: Teleportación Cuántica
+ID: 2005-diazcaro
+Author: Alejandro Díaz Caro
+Slides: 2005-diazcaro.pdf
+Abstract: Se presentará el algoritmo de teleportación de 1-qubit
+diseñado por Charles Bennett y luego un simple y comprensivo método
+para generalizar dicho algoritmo a la teleportación de N-qubits en
+términos de compuertas cuánticas.

@@ -1,0 +1,12 @@
+Title: Brevísima Introducción a la Computación Cuántica
+Author: Alejandro Díaz Caro, Julián Samborski Forlese
+Slides: 2006-diazcaro-samborskiforlese.pdf
+ID: 2006-quantum
+Abstract: La progresiva miniaturización de los chips de computadoras
+se está acercado al limite de las leyes físicas clásicas. La
+computación actual busca nuevos caminos y la computación cuántica se
+presenta como una alternativa diferente y revolucionaria. En esta charla
+se hará una breve introducción al tema, explicando algunos conceptos
+básicos, como la noción de qubit, enredo cuántico y paralelismo. Como
+agregado, se presentará un protocolo inviolable para la transmision de
+claves a través de canales inseguros.

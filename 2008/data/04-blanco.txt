@@ -1,0 +1,14 @@
+Title: Aspectos epistemológicos del debate sobre la verificación formal
+Author: Javier Blanco
+ID: 2008-blanco
+Slides: 2008-blanco.pdf 2008-blanco-paper.pdf
+Abstract: La verificación formal de programas es una práctica habitual
+en el campo de la ciencia computacional. Sin embargo, algunos filósofos
+y científicos han argumentado que esta práctica no podría ser
+justificada. Para sostener esta posición se han propuesto argumentos
+sociológicos (De Millo, Lipton) y argumentos filosóficos (Fetzer). En
+gran medida estos argumentos suponen una distincion entre algoritmos y
+programas. Así Fetzer sostiene que una verificación formal "completa"
+sólo se puede hacer sobre algoritmos, no sobre programas. En el
+presente trabajo discutiremos algunos de los supuestos de los argumentos
+contra la verificación formal.

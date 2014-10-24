@@ -1,0 +1,17 @@
+Author: Sebastián Salvucci y Arzhan Kinzhalin
+ID: 2014-salvucci-kinzhalin
+Title: Desarrollo de aplicaciones móviles multi-plataforma con Intel&reg; XDK 
+ShortTitle: Desarrollo de aplicaciones móviles multi-plataforma con Intel&reg; XDK 
+Institution: Intel
+Link: http://www.intel.com/jobs/argentina
+Abstract: <p>La diversidad de plataformas para la creación y
+distribución de aplicaciones móviles hace que los costos de desarrollo
+y mantenemiento sean elevados por la necesidad de conocimientos e
+infraestructuras específicas. HTML5 presenta una opción para crear
+aplicaciones que pueden ser ejecutadas en múltiples plataformas
+utilizando una sola base de código. En esta charla daremos una
+introducción a las aplicaciones híbridas y un recorrido por las
+principales características de Intel&reg; XDK, un producto gratuito que
+provee un entorno para facilitar el ciclo de desarrollo y distribución
+de aplicaciones móviles y web HTML5 en múltiples sistemas operativos,
+form-factors y app stores.</p>

@@ -1,0 +1,18 @@
+Title: La informática en la UNQ
+Author: Pablo E. "Fidel" Martínez López
+ID: 2007-fidel
+Slides: 2007-fidel.pdf
+Abstract: Hasta mediados de este año, la informática estuvo presente
+en la UNQ sólo en materias individuales de diversas carreras
+(como automatización, biotecnología o composición con medios
+electroacústicos) y en el soporte técnico brindado para la operatoria
+normal de las oficinas. En agosto de 2007 comienza a funcionar la
+Tecnicatura en Programación, una carrera de pregrado orientada a la
+formación de profesionales aptos para satisfacer la alta demanda
+laboral actual en el área. A partir de ello, la Universidad se propone
+desarrollar la informática para contemplar otros aspectos escenciales,
+como la conformación de grupos de investigación, la realizacion de
+tareas de extensión y la compleción de la formación a través de la
+creación de carreras de grado y posgrado. En esta charla se describirá
+el marco institucional provisto por la UNQ y el proyecto de la misma
+para el desarrollo de la informática.

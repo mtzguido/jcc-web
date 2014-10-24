@@ -1,0 +1,30 @@
+Author: Marcelo Arroyo
+ID: 2014-arroyo
+Title: Análisis estático con clang-llvm
+ShortTitle: Análisis estático con clang-llvm
+Institution: UNRC
+Slides: 2014-arroyo.pdf
+Link: http://dc.exa.unrc.edu.ar/principal/node/68
+Abstract: <p>El proyecto llvm (Low Level Virtual Machine) y clang
+(frontend de C/C++/Objective C) ha alcanzado un nivel de madurez tal
+que hoy es el sistema de desarrollo base utilizado por Apple y otros.
+Actualmente se considera como la alternativa a GCC.</p>
+
+<p>El proyecto enfoca en el desarrollo modular de componentes (en C++)
+para que fácilmente se puedan desarrollar herramientas utilizando
+diferentes componentes. En el caso del front-end clang, éste provee
+módulos para el desarrollo de aplicaciones basadas en la manipulación
+de código fuente.</p>
+
+<p>En esta charla nos concentraremos particularmente en el
+clang-static-analyzer, el cual es un componente que permite implementar
+"checkers" para realizar verificaciones y "bug-finders" basados en un
+framework de ejecución simbólca.</p>
+
+<p>Se describirán sus características, ejemplos de uso de algunos
+checkers disponibles y se mostrará el desarrollo de un checker simple
+que será incluido en la suite de compilación.</p>
+
+<p><b>Referencias:</b> <a target=_blank
+href="http://clang-analyzer.llvm.org/">http://clang-analyzer.llvm.org/</
+a></p>

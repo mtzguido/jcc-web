@@ -1,0 +1,14 @@
+Title: CMMI y Calidad de Software
+Author: Diego Tartarelli
+Slides: 2006-tartarelli.pdf
+ID: 2006-tartarelli
+Abstract: Se realizará una introducción al Modelo de Madurez de
+Capacidades Integrado (Capability Maturity Model Integration - CMMI)
+que es reconocido y adoptado mundialmente en la industria del software
+como guía para incrementar la productividad y la calidad. El modelo
+está estructurado en niveles de madurez creciente que contienen
+áreas de procesos con objetivos y prácticas específicas que la
+organización debe realizar para producir software bajo cierto nivel de
+madurez. Dentro de América Latina, nuestro país ha sido el que mayor
+crecimiento presenta en este campo, superando incluso a algunos países
+de la Comunidad Europea.

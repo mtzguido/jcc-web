@@ -1,0 +1,9 @@
+Author: Gabriel Tolosa
+ID: 2014-tolosa
+Title: Recuperación de Información de Gran Escala: Conceptos y algoritmos detrás de los motores de búsqueda web
+ShortTitle: Recuperación de Información de Gran Escala
+Slides: 2014-tolosa.pdf
+Institution: UNLU
+Link: http://www.tyr.unlu.edu.ar/tolosoft/
+Abstract: <p>La web se ha convertido en el repositorio de objetos digitales mas grande que existe y al que acceden millones de usuarios diariamente con objetivos diversos: satisfacer su necesidades de información acerca de un tema, comunicarse con otras personas, entretenerse, realizar transacciones, entre otras. Su tamaño y la cantidad de documentos que contiene es gigantesca. En todos los casos, existe como común denominador la necesidad de realizar búsquedas de diferente tipo y con objetivos también diversos. De aquí que los motores o máquinas de búsqueda se han convertido en una aplicación "clave" para los usuarios. En la actualidad, son una de las aplicaciones más utilizadas sobre Internet, principalmente para poder tratar con el tamaño, complejidad y dinamismo de la red. Sin motores de búsqueda sería extremandamente complicado poder localizar información, menos aún en poco tiempo.</p>
+			<p>En esta exposición se presentarán los problemas que enfrentan los motores de búquedas para indexar y responder consultas, junto con su arquitectura y estado del arte de las soluciones utilizadas. El ambiente web propone desafíos a múltiples áreas de las ciencias de la computación lo que requiere "cierto" manejo de múltiples temas. Además, se describirán los cambios desde la recuperación de información tradicional a la recuperación de información en la web. A partir de la arquitectura básica de los motores de búsqueda se mostrarán los principales temas de investigación en diversas áreas (crawling, indexación, caching, paralelismo, resolución de consultas, ranking) y algunos problemas abiertos en los que se trabaja actualmente</p>

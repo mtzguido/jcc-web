@@ -1,0 +1,49 @@
+Author: Gustavo Betarte
+ID: 2014-betarte
+Title: Certificación de algoritmos criptográficos <i>constant-time</i>
+ShortTitle: Certificación de algoritmos criptográficos <i>constant-time</i>
+Institution: Universidad de la República - Uruguay
+Slides: 2014-betarte.pdf
+Link: http://www.fing.edu.uy/~gustun
+Abstract: <p>Los <i>ataques basados en cache</i> constituyen una
+clase de ataques encubiertos que son particularmente efectivos cuando
+son realizados en ambientes virtualizados o en la cloud, donde son
+utilizados para recuperar claves secretas en aplicaciones que involucran
+algoritmos criptográficos. </p>
+
+<p> Un enfoque comúnmente utilizado para contrarrestar este tipo
+de ataques es utilizar implementaciones de estos algoritmos cuya
+ejecución es constant time. Sin embargo, no existe una prueba rigurosa
+y formal de que implementaciones constant-time están efectivamente
+protegidas contra ataques concurrentes basados en cache en un ambiente
+de virtualización donde máquinas virtuales huéspedes de la plataforma
+comparten la memoria cache de la misma. Más aún, muchas de las
+implementaciones usualmente utilizadas de estos algoritmos no son
+constant-time. Un enfoque alternativo es utilizar mecanismos a nivel de
+sistema; un mecanismo reciente de este tipo es el conocido como memoria
+<i>stealth</i>. Este mecanismo provee un espacio privado y reducido de
+memoria cache para que programas cuya ejecución podría dejar fugar
+información puedan computar en forma segura. El uso de memoria stealth
+induce una forma débil de constant/time, que nosotros convenimos en
+llamar <i>S-constant-time</i>, que puede ser aplicada a implementaciones
+extensivamente usadas de algoritmos criptográficos. Sin embargo, no
+existe un análisis riguroso de memoria stealth y S-constant-time así
+como tampoco existen herramientas que provean soporte para verificar que
+una implementación es S-constant-time. </p>
+
+<p> En esta charla presentaremos un novel análisis de flujo de
+información que permite verificar si una aplicación x86 ejecuta en
+(S-)constant-time. Nosotros hemos probado que programas constant-time
+(respectivamente S-constant-time) no sufren de fuga de infomación a
+través de la memoria cache hacia otros sistemas operativos ejecutando
+concurrentemente sobre la plataforma de virtualización (respectivamente
+plataformas que implementan memoria stealth). Estos resultados han sido
+formalizados usando el asistente de pruebas Coq. Hemos demostrado la
+efectividad de nuestro análisis sobre implementaciones criptográficas,
+incluyendo las versiones PolarSSL de AES, DES y RC4, así como sobre
+SHA256 y Salsa20. </p>
+
+<p> Un artículo donde se presenta en forma detallada el trabajo de
+investigación descrito y sus resultados ha sido aceptado par su
+presentación en <i>CCS 2014: the 21st ACM Conference on Computer and
+Communications Security.</i> </p>

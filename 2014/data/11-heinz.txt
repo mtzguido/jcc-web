@@ -1,0 +1,17 @@
+Author: Federico Heinz
+ID: 2014-heinz
+Title: Ingeniería de Confiabilidad en Google
+ShortTitle: Ingeniería de Confiabilidad en Google
+Institution: Google
+Link: http://www.google.com.ar
+Abstract: <p>Escribir programas correctos es difícil, de eso habla Computer Science.
+Escribir programas que funcionen correctamente en máquinas reales es un
+problema distinto, quizás más difícil aún, para el que desarrollamos
+técnicas en Software Engineering. En Site Reliability Engineering, el foco
+está en utilizar máquinas reales para construir clusters de cómputo y
+almacenamiento, así como mecanismos de comunicaciones, sincronización,
+monitoreo, distribución de carga, etc. que nos permitan brindar ciertas
+garantías de servicio. En esta charla exploraremos algunos de los
+mecanismos que Google emplea para proveer servicios a millones de usuarios
+en todo el mundo sin degradar su calidad de servicio.</p>
+<p><a href="https://docs.google.com/a/google.com/forms/d/1Jf7ot9pxFk7eAzFZkB7cXPeCyl5tw6D8ylNEDKRhEwk/viewform" target="_blank">Formulario de registro (Opcional)</a></p>

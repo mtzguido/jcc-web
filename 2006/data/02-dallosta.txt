@@ -1,0 +1,15 @@
+Title: Un sistema de búsqueda asistida de información médica en la web
+Author: Anabella Dallosta
+ID: 2006-dallosta
+Slides: 2006-dallosta.pdf
+Abstract: En este trabajo se presenta un sistema de búsqueda de
+información en repositorios de literatura médica. Además de su
+simplicidad y bajo costo de implementación, otra ventaja de esta
+arquitectura es que la interacción con el usuario permite aumentar la
+precisión de los resultados. Esto es útil para usuarios inexpertos
+en la búsqueda de información. Se realizó una experimentación
+con médicos de distintas especialidades, con y sin conocimientos en
+búsquedas en la Web. Las búsquedas se realizaron sin expansión y con
+expansión de conceptos, utilizando MeSH como recurso lingüístico y
+Yahoo! como buscador. Los resultados de la experimentación muestran una
+mejora en la precisión de la búsqueda.

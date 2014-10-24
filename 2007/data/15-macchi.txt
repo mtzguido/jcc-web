@@ -1,0 +1,7 @@
+Title: La Venganza del Goto
+Author: Guido Macchi
+ID: 2007-macchi
+Slides: 2007-macchi.pdf
+Abstract: Se expone brevemente el nacimiento de las continuaciones y el
+homomorfismo de Howard-Curry. Luego se comenta una extensión a dicho
+homomorfismo, para incluir la lógica clásica. Al final hay café.

@@ -1,0 +1,35 @@
+Author: Franco Luque
+ID: 2014-luque
+Title: IEPY: Una plataforma para Extracción de Información en Python
+ShortTitle: IEPY: Una plataforma para Extracción de Información en Python
+Institution: FaMAF, UNC
+Slides: 2014-luque.pdf
+Link: http://cs.famaf.unc.edu.ar/~francolq/
+Abstract: <p>En esta charla presentaré IEPY (Information Extraction
+for Python), una plataforma de software libre para el desarrollo
+de aplicaciones de Extracción de Información. La Extracción de
+Información trata el problema del análisis de documentos de texto no
+estructurado para encontrar y estructurar determinada información de
+interés. En IEPY, la información se estructura en entidades, como
+personas, lugares y fechas, y relaciones entre las entidades, como la
+presencia de una persona en determinado lugar y/o momento.</p>
+ <p>En una etapa de preprocesamiento, IEPY analiza los documentos
+automáticamente, segmentándolos en palabras y oraciones, haciendo
+etiquetado POS. Luego, IEPY realiza el reconocimiento de entidades
+(Named Entity Recognition, o NER). Todos estos pasos se pueden realizar
+utilizando herramientas existentes, como NLTK o el Stanford Tagger y
+NER, o se pueden definir y utilizar módulos propios.</p>
+ <p>Finalmente, en el módulo principal, IEPY realiza la extracción
+de relaciones (Relationship Extraction, o RE). Para ello, primero
+se encuentran todas las posibles evidencias de relaciones en los
+documentos. Luego, IEPY entra en el ciclo principal, en el que se
+requiere la intervención del usuario para responder preguntas acerca
+de las evidencias. Luego de cada ronda de preguntas, se entrenan
+clasificadores automáticos que permiten extraer nuevas relaciones
+y generar nuevas preguntas, hasta que el usuario decide terminar de
+responder.</p>
+
+<p>
+  [1] <a target=_blank href="http://iepy.machinalis.com">http://iepy.machinalis.com</a><br>
+  [2] <a target=_blank href="http://iepy.readthedocs.org/">http://iepy.readthedocs.org/</a><br>
+  [3] <a target=_blank href="https://github.com/machinalis/iepy">https://github.com/machinalis/iepy</a></p>
