@@ -1,0 +1,14 @@
+Title: Writing a kernel from scratch
+Author: Duilio Protti
+ID: 2009-protti
+
+Abstract: In JCC 2008 we have written both a virtual machine launcher
+and a small, dummy kernel to run inside it. This approach serves to
+learn about low level programming and processor manipulation. However,
+the end result is not a real OS kernel suitable to boot on a real PC,
+but it only works inside the virtual machine created by us. This year,
+we will develop a real OS kernel from scratch, following the guidelines
+of the Carnegie Mellon 410 course on Operating Systems but with slight
+modifications to avoid the need to use a Simics simulator. The end
+result should be a real OS kernel image capable of booting our PC from
+persistent media like i.e. a floppy disk or hard disk.

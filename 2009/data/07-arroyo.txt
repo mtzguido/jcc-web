@@ -1,0 +1,18 @@
+Title: Verificación de propiedades de seguridad con análisis estático liviano
+Author: Marcelo Arroyo
+Institution: Universidad Nacional de Río Cuarto
+ID: 2009-arroyo
+
+Abstract: Las aplicaciones actuales tienen requisitos no funcionales
+como tolerancia a ataques, robustez de uso y mantener confidencialidad
+de datos. Los sistemas tienen miles de líneas de código y la
+inspección manual de código se hace prácticamente imposible. El
+testing es muy dificultoso de diseñar e implementar para descubrir
+problemas de seguridad. Los métodos de verficación formales no escalan
+para manejar grandes volúmenes de código. Las técnicas de análisis
+estático liviano permiten descubrir indicios de problemas haciendo
+análisis de código fuente. Estas técnicas escalan bien aunque
+generalmente son conservativas, es decir que pueden producir alertas
+falsas (falsos positivos). Se analizará su ambiente de aplicación,
+tipos de errores que pueden encontrarse, algunas herramientas
+disponibles y las técnicas utilizadas.I

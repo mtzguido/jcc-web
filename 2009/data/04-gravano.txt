@@ -1,0 +1,16 @@
+Title: Breve Introducción al Procesamiento del Habla
+Author: Agustín Gravano
+Institution: Universidad de Buenos Aires
+ID: 2009-gravano
+
+Abstract: Debido a su gran complejidad, los lenguajes naturales
+(castellano, japonés, guaraní, etc.) presentan serias dificultades
+para la creación de sistemas capaces de manipularlos automáticamente.
+En particular, el procesamiento del habla --disciplina relativamente
+joven-- todavía acumula más cuentas pendientes que logros concretos.
+Sin embargo, en años recientes han comenzado a aparecer aplicaciones
+con resultados aceptables en dominios acotados, fruto de décadas de
+investigación, y buen incentivo para continuar trabajando. En esta
+charla describiré algunos temas centrales del área, incluyendo el
+reconocimiento automático del habla, la síntesis del habla y el
+modelado de la prosodia (entonación, ritmo, etc.).

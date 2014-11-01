@@ -1,0 +1,33 @@
+Title: Una extensión de shortcut fusion con múltiples aplicaciones.
+Author: Alberto Pardo
+Institution: Universidad de la República
+ID: 2009-pardo
+
+Abstract: En programación funcional, los programas consisten de un
+conjunto de definiciones de funciones que reciben ciertas estructuras
+de datos como entrada y retornan otras como salida. Dichas funciones
+se suelen construir como la composición de funciones relativamente
+simples y sencillas de escribir. Los programas así definidos tienden
+a ser más modulares, pero su eficiencia puede verse afectada en forma
+significativa por el uso sistemático de la composición de funciones.
+Cada composición implica la construcción de una estructura de datos
+intermedia cuyos valores deben ser alojados en memoria, recorridos y
+finalmente descartados, requiriendo por lo tanto tiempo adicional de
+procesamiento, espacio de memoria para alojar nodos de la estructura y
+frecuentes llamadas al "garbage collector".
+
+Existen técnicas de transformación de programas cuyo objetivo es
+la eliminación de aquellas estructuras intermedias que no jueguen
+un rol esencial en la computación. Esto es, se desea transformar
+el código original a uno equivalente en donde se intenta sustituir
+las composiciones de funciones por definiciones que combinan de
+forma adecuada los códigos de las funciones involucradas. A estas
+técnicas de transformación de programas se las conoce como fusión o
+deforestación.
+
+En esta charla hablaremos de una técnica de fusión, conocida como
+"shortcut fusion", y presentaremos una extensión a la misma, mostrando
+sus aplicaciones. En particular, gracias a esta extensión ha sido
+posible definir la fusión de programas con efectos colaterales
+(programas monádicos) y la derivación de programas circulares (tanto
+puramente funcionales como con efectos).

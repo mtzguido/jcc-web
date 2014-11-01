@@ -1,0 +1,41 @@
+Title: Introducción a los conjuntos fractales
+Author: Andrea Silvetti
+Institution: Universidad Nacional del Sur
+ID: 2009-silvetti
+
+Abstract: Desde su irrupción a fines de la década de 1970, los
+conjuntos fractales constituyen un tema de creciente interés
+científico en matemática, física, computación, y en la mayoría
+de las ciencias aplicadas. Su gran difusión y aplicabilidad
+interdisciplinaria se debe a varias razones, entre las cuales podemos
+contar su universalidad como fenómeno natural, sus interesantes
+propiedades matemáticas, su relativamente sencillo tratamiento
+computacional, y la sugestiva belleza de sus representaciones gráficas.
+La geometría fractal se convirtió rápidamente en un lenguaje adecuado
+para describir las complejas formas naturales, en contraposición
+con la geometría Euclídea, más amena para las idealizaciones
+matemáticas. Al mismo tiempo, su descripción matemática se basa en la
+formulación iterativa o recursiva, en vez de la definición axiomática
+característica de los objetos matemáticos tradicionales. Estos dos
+factores hacen de los objetos fractales un recurso sobresaliente a la
+hora de simular fenómenos naturales de todo tipo.
+
+El objetivo de esta charla consiste en presentar una introducción a los
+fundamentos matemáticos y algorítmicos de los conjuntos fractales,
+y algunas de las aplicaciones más importantes de estos conjuntos en
+la simulación de fenómenos naturales, la computación gráfica y el
+procesamiento digital de imágenes.
+
+Temario:
+Simetría a escala y la medición de objetos complejos. Fractales
+clásicos y definiciones topológicas. Conjuntos de Cantor, von
+Koch y Peano. Dimensión no entera. Dimensión fractal de conjuntos
+matemáticos y de fenómenos naturales. Caos determinístico y
+fractales. Conjuntos de Julia. La universalidad del caos. Conjunto de
+Mandelbrot. Algunos formalismos relacionados: autómatas celulares y
+gramáticas L. Fractales no determinísticos. Métodos espaciales y
+frecuenciales para la determinación de fractales no determinísticos.
+Sistemas de función iterada (IFS). Descripción de imágenes por
+simetría a escala. Teoremas de punto fijo y el teorema del collage.
+Aplicaciones de los IFS en Computación Gráfica. Síntesis de
+fenómenos naturales. Procesamiento y compresión fractal de imágenes.

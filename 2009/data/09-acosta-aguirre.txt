@@ -1,0 +1,17 @@
+Title: Métodos Formales para el Análisis de Software
+Authors: Araceli Acosta, Nazareno Matias Aguirre
+Institutions: , Universidad Nacional de Córdoba
+ID: 2009-acosta-aguirre
+
+Abstract: Los métodos formales, cuya aplicación se limitó durante
+algún tiempo a porciones de sistemas críticos de software/hardware,
+han ganado popularidad y sus campos de aplicación se han ampliado. En
+este éxito de los métodos formales, la disponibilidad de herramientas
+de apoyo, y en particular herramientas para la aplicación de diferentes
+tareas de análisis, ha jugado un rol importante. En esta charla
+daremos una breve descripción de varios métodos formales para el
+análisis de software, poniendo énfasis en el uso de herramientas. Los
+métodos formales discutidos incluirán métodos formales deductivos,
+cuyas herramientas son en general asistidas, y métodos formales que
+ofrecen mecanismos algorítmicos de análisis, como es el caso del
+modelchecking.

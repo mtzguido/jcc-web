@@ -1,0 +1,31 @@
+Title: Criptografía y verificación de programas probabilísticos
+Author: Santiago Zanella Béguelin
+Institution: INRIA Sophia Antipolis - Méditerranée y MSR-INRIA Joint Centre
+ID: 2009-zanella
+
+Abstract: Demostrar la seguridad de un sistema criptográfico es en
+general una tarea compleja que requiere razonar sobre campos tan
+diversos como probabilidad, complejidad computacional y álgebra. No
+son raros los casos de pruebas que se han considerado correctas por
+años hasta que alguien puso en evidencia errores de razonamiento.
+Por esta razón, y para facilitar la verificación de pruebas de
+seguridad, la comunidad criptográfica ha adoptado una manera unificada
+de estructurar las pruebas como secuencias de "juegos": experimentos
+probabilísticos en presencia de un atacante desconocido pero con poder
+computacional limitado. Construir una prueba basada en juegos es un
+proceso creativo que no puede automatizarse en su totalidad. Por otro
+lado, verificar una prueba basada en juegos, tal como se la presenta en
+la mayoría de las publicaciones, requiere de un esfuerzo considerable.
+En esta charla veremos como usando técnicas de verificación formal de
+programas, podemos obtener pruebas de seguridad basadas en juegos que
+son correctas por construcción y cuya verificación puede automatizarse
+completamente. La esencia de nuestra propuesta es representar los
+experimentos definidos por juegos como programas en un lenguaje de
+programación probabilístico con una semántica formal. Veremos como
+muchos de los razonamientos que aparecen en pruebas de seguridad en
+criptografía se reducen a la demostración de propiedades sobre un
+programa o de relaciones entre pares de programas. Veremos, además,
+como muchos pasos en una prueba pueden mecanizarse usando un asistente
+de prueba (Coq) y técnicas de optimización de programas comúnmente
+usadas en compiladores (e.g. dead code elimination, constant folding,
+inline expansion, copy propagation, code reordering).

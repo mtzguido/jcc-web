@@ -1,0 +1,6 @@
+Title: Implementación del modelo HPC colaborativo aplicable a problemas de bio-informática
+Authors: Lucía Lauría, Ing. Rafael Garabato
+Institutions: Universidad Católica de Córdoba, Intel
+ID: 2009-lauria-garabato
+
+Abstract: En esta presentación se mostrará un modelo colaborativo para cómputos de altas prestaciones (HPC) que permite distribuir programas de naturaleza recursiva. Cuando se trabaja con programas diseñados para brindar soluciones que requieren de procesamiento masivo de datos, se hace evidente la necesidad de contar con equipo especialmente preparado para este tipo de problemas. El enfoque tomado en nuestro proyecto es la utilización de un cluster de computadoras para cómputos de altas prestaciones, utilizando las herramientas de software de Intel. Con esta tecnología se obtienen las ventajas de tener un sistema con bajo costo, escalabilidad al poder insertar fácilmente nuevos nodos y, fundamentalmente, reducción del tiempo de procesamiento por la distribución de tareas.

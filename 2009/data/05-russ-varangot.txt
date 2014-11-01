@@ -1,0 +1,13 @@
+Title: Virtualización: Arquitectura, práctica y ataques.
+Authors: Fernando Russ, Pedro Varangot
+Institution: , Core Labs
+ID: 2009-russ-varangot
+
+Abstract: Virtualización es uno de los grupos de tecnologias más en
+boga de los últimos tiempos. Abstraer los recursos de una computadora
+para simular otras no es una tarea sencilla a priori y presenta una
+serie de desafios técnico mas que importantes. Durante esta charla
+se buscan introducir los conceptos fundamentales para entender estas
+tecnologías, para luego analizarlas desde el punto de vista de la
+seguridad informática haciendo incapie en el punto de vista del
+atacante.
