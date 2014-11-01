@@ -1,10 +1,10 @@
 Author: Rafael Namías
+Institution: CIFASIS - CONICET
+Link: http://www.cifasis-conicet.gov.ar/namias/
 ID: 2014-namias
 Title: Imaginando...
 ShortTitle: Imaginando...
-Institution: CIFASIS - CONICET
 Slides: 2014-namias.svg
-Link: http://www.cifasis-conicet.gov.ar/namias/
 Abstract: <p>La era digital ya está aquí hace más de una década. En los últimos diez
 años se produjo un crecimiento exponencial de la cantidad de datos visuales
 digitales (imágenes, videos, etc) gracias al desarrollo y abaratamiento de

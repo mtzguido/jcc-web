@@ -8,20 +8,45 @@
 		echo '</a>';
 	}
 
+	function render_authors_brief($talk) {
+		for ($i = 0; $i < count($talk['authors']); ++$i) {
+			if ($i != 0)
+				echo ", ";
+
+			if ($talk['insts'][$i] == "" && $talk['links'][$i] == "") {
+				echo $talk['authors'][$i];
+			} else if ($talk['insts'][$i] != "" && $talk['links'][$i] == "") {
+				echo $talk['authors'][$i] .
+					' (' . $talk['insts'][$i] . ')';
+			} else if ($talk['insts'][$i] != "" && $talk['links'][$i] != "") {
+				echo $talk['authors'][$i] .
+					' (<a target=_blank href=' . $talk['links'][$i] . '>' .
+					$talk['insts'][$i] . '</a>)';
+			} else if ($talk['insts'][$i] == "" && $talk['links'][$i] != "") {
+				echo '<a target=_blank href=' . $talk['links'][$i] . '>' .
+					$talk['authors'][$i] . '</a>';
+			}
+		}
+	}
+
+	function render_authors($talk) {
+		echo '<p class="autor"> por ';
+
+		render_authors_brief($talk);
+
+		echo "</p>";
+	}
+
 	function makebox($talk) {
 		echo '<div id="' . $talk['id'] . '" class="descr-charla">';
 		echo '<h3>' . $talk['title'] . '</h3>';
 		echo $talk['abstract'];
-		echo '<p class="autor"> por ' . $talk['author'];
-		if ($talk['inst'] != "" && $talk['link'] != "")
-			echo ' (<a target="_blank" href="' . $talk['link'] . '">' . $talk['inst'] . '</a>)';
-		elseif ($talk['inst'] != "")
-			echo ' (' . $talk['inst'] . ')';
-		echo "</p>";
+
+		render_authors($talk);
 
 		if ($talk['slides'] != "") {
 			echo '<p>';
-			echo '<a href="slides/' . $talk['slides'] . '" >Slides</a>';
+			echo '<a target=_blank href="slides/' . $talk['slides'] . '" >Slides</a>';
 			echo '</p>';
 		}
 
@@ -34,6 +59,11 @@
 			return "";
 
 		return trim($matches[2]);
+	}
+
+	function extract_attr_list($contents, $attr) {
+		$t = extract_attr($contents, $attr);
+		return array_map('trim', explode(',', $t));
 	}
 
 	# Can only be (reasonably) used for the last attr
@@ -59,26 +89,50 @@
 
 			$contents = file_get_contents($basedir . "/data/" . $file);
 
-			$author =	extract_attr($contents, "Author");
+			/*
+			 * Authors, Institutions y Links son arrays
+			 * separados por comas, para poder representar
+			 * cuando hay mas de un disertante posiblemente de
+			 * de distintas facultades/empresas. La 's' al final
+			 * es opcional.
+			 */
+			$authors =	extract_attr_list($contents, "Authors?");
+			$insts =	extract_attr_list($contents, "Institutions?");
+			$links =	extract_attr_list($contents, "Links?");
+
+			/*
+			 * Arreglamos para que todos tengan la misma longitud,
+			 * cosa de no tener que preocuparnos después for
+			 * acceder fuera de los límites.
+			 */
+			$max = count($authors);
+			if (count($insts) > $max) $max = count($insts);
+			if (count($links) > $max) $max = count($links);
+
+			for ($i = count($authors); $i < $max; $i++) $authors[$i] = "";
+			for ($i = count($insts); $i < $max; $i++) $insts[$i] = "";
+			for ($i = count($links); $i < $max; $i++) $links[$i] = "";
+
+
 			$ID =		extract_attr($contents, "ID");
 			$title =	extract_attr($contents, "Title");
 			$shtitle =	extract_attr($contents, "ShortTitle");
-			$inst =		extract_attr($contents, "Institution");
-			$link =		extract_attr($contents, "Link");
 			$slides =	extract_attr($contents, "Slides");
 			$abstract =	extract_attr_multiline($contents, "Abstract");
+
 
 			if ($ID != ""){
 				if ($shtitle == "")
 					$shtitle = $title;
 
-				$talks[$ID]['author'] = $author;
+				$talks[$ID]['authors'] = $authors;
+				$talks[$ID]['insts'] = $insts;
+				$talks[$ID]['links'] = $links;
+
 				$talks[$ID]['id'] = $ID;
 				$talks[$ID]['title'] = $title;
 				$talks[$ID]['shortTitle'] = $shtitle;
-				$talks[$ID]['inst'] = $inst;
 				$talks[$ID]['abstract'] = $abstract;
-				$talks[$ID]['link'] = $link;
 				$talks[$ID]['slides'] = $slides;
 
 				makebox($talks[$ID]);
@@ -94,7 +148,10 @@
 		echo "</a>";
 
 		foreach ($talks as $talk) {
-			echo "<b>" . $talk['author'] . "</b>: " . $talk['shortTitle'];
+			echo '<b>';
+			render_authors_brief($talk);
+			echo '</b>: ' . $talk['shortTitle'];
+
 
 			if ($talk['abstract']) {
 				echo ' (<a href=#' .
@@ -103,7 +160,7 @@
 			}
 
 			if ($talk['slides']) {
-				echo " (<a href=" . $basedir . "/slides/" . $talk['slides'] . ">Slides</a>)";
+				echo " (<a target=_blank href=" . $basedir . "/slides/" . $talk['slides'] . ">Slides</a>)";
 			}
 
 			echo "<br>";

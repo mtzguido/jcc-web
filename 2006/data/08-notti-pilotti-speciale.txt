@@ -1,5 +1,5 @@
 Title: Diseño, Implementación y Evaluación de un Modelo de Optimización de Costos en Comunicaciones Telefónicas
-Author: Pablo Pilotti, Mauricio Notti y Pablo Speciale
+Authors: Pablo Pilotti, Mauricio Notti, Pablo Speciale
 ID: 2006-notti-pilotti-speciale
 Slides: 2006-notti-pilotti-speciale.pdf
 Abstract: En este trabajo se considera la resolución de un problema

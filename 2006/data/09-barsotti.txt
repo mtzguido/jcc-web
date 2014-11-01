@@ -1,5 +1,6 @@
 Title: Generación automática de invariantes para implementar eficientemente Regiones Críticas Condicionales
-Author: Damián Barsotti (UNC)
+Author: Damián Barsotti
+Institution: UNC
 ID: 2006-barsotti
 Slides: 2006-barsotti.pdf
 Abstract: La técnica de semáforos binarios divididos (SBS) brinda

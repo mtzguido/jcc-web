@@ -1,5 +1,6 @@
 Title: Context Aware Computing - Desafíos de una Implementación Práctica
-Author: Pablo Garralda (Intel)
+Author: Pablo Garralda
+Institution: Intel
 ID: 2007-garralda
 Abstract: El objetivo de esta presentación es introducir los conceptos
 básicos de "Context Aware Computing" y enumerar las problemáticas con

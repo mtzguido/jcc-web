@@ -1,10 +1,11 @@
 Author: Alejandro Díaz-Caro
+Institution: UNQ
+Link: http://www.diaz-caro.info
+
 ID: 2014-diazcaro
 Title: Lambda cálculo módulo isomorfismos de tipos
 ShortTitle: Lambda cálculo módulo isomorfismos de tipos
-Institution: UNQ
 Slides: 2014-diazcaro.pdf
-Link: http://www.diaz-caro.info
 Abstract: <p>Proponemos un sistema de pruebas para lógica proposicional
 en el cual proposiciones isomorfas son consideradas como iguales (en el
 sentido de que sus respectivas pruebas son intercambiables).</p>

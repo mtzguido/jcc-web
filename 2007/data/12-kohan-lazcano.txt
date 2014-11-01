@@ -1,5 +1,5 @@
 Title: Implementación de puntos de acceso gratuito WiFi utilizando Software Libre
-Author: Javier Kohan, Federico Lazcano
+Authors: Javier Kohan, Federico Lazcano
 ID: 2007-kohan-lazcano
 Slides: 2007-kohan-lazcano.pdf
 Abstract: Esta charla muestra los detalles del Piloto de acceso gratuito

@@ -1,10 +1,11 @@
 Author: Carlos Chesñevar
+Institution: UNS
+Link: http://cs.uns.edu.ar/~cic
+
 ID: 2014-cic
 Title: Inteligencia Artificial y Gobierno Electrónico: cómo procesar la opinión ciudadana en Twitter a través de argumentación y búsqueda en contexto
 ShortTitle: Inteligencia Artificial y Gobierno Electrónico
-Institution: UNS
 Slides: 2014-cic.pdf
-Link: http://cs.uns.edu.ar/~cic
 Abstract: <p>Hoy en día los gobiernos están adoptando tecnologías de
 la Web 2.0 para interactuar con los ciudadanos, empoderándolos para
 compartir sus visiones, opiniones y puntos de vista. En particular,

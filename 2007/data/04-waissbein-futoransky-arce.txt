@@ -1,5 +1,5 @@
 Title: Protección de Aplicaciones Web Usando «Taint Analysis» Dinámico
-Author: Ariel Waissbein, Ariel Futoransky, Iván Arce
+Authors: Ariel Waissbein, Ariel Futoransky, Iván Arce
 ID: 2007-waissbein-futoransky-arce
 Slides: 2007-waissbein-futoransky-arce.pdf
 Abstract: Las aplicaciones web son propensas a incluir vulnerabilidades

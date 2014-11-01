@@ -1,5 +1,5 @@
 Title: Brevísima Introducción a la Computación Cuántica
-Author: Alejandro Díaz Caro, Julián Samborski Forlese
+Authors: Alejandro Díaz Caro, Julián Samborski Forlese
 Slides: 2006-diazcaro-samborskiforlese.pdf
 ID: 2006-quantum
 Abstract: La progresiva miniaturización de los chips de computadoras

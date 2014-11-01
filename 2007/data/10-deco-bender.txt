@@ -1,5 +1,5 @@
 Title: Tendencias actuales de Investigación en Bases de Datos
-Author: Claudia Deco - Cristina Bender
+Authors: Claudia Deco, Cristina Bender
 ID: 2007-deco-bender
 Slides: 2007-deco-bender.pdf
 Abstract: El objetivo de esta charla es presentar un panorama de algunos

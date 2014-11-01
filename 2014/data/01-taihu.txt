@@ -1,9 +1,10 @@
 Author: Taihú Pire
+Institution: UBA
+Link: http://www.dc.uba.ar
+
 ID: 2014-taihu
 Title: Métodos de navegación basada en visión para robots móviles
 ShortTitle: Métodos de navegación basada en visión para robots móviles
-Institution: UBA
-Link: http://www.dc.uba.ar
 Abstract: <p>Hace ya varios años se han realizado importantes
 desarrollos en el área de robótica móvil debido a las ventajas que
 provee en diversos campos de aplicación, entre los que se pueden

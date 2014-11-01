@@ -1,10 +1,11 @@
 Author: Franco Luque
+Institution: FaMAF UNC
+Link: http://cs.famaf.unc.edu.ar/~francolq/
+
 ID: 2014-luque
 Title: IEPY: Una plataforma para Extracción de Información en Python
 ShortTitle: IEPY: Una plataforma para Extracción de Información en Python
-Institution: FaMAF, UNC
 Slides: 2014-luque.pdf
-Link: http://cs.famaf.unc.edu.ar/~francolq/
 Abstract: <p>En esta charla presentaré IEPY (Information Extraction
 for Python), una plataforma de software libre para el desarrollo
 de aplicaciones de Extracción de Información. La Extracción de

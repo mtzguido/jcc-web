@@ -1,10 +1,10 @@
 Author: Gustavo Grieco
+Institution: CIFASIS - CONICET
+Link: http://www.cifasis-conicet.gov.ar/
 ID: 2014-grieco
 Slides: 2014-grieco.pdf
 Title: Taller: Detectando corrupción de memoria con Ptrace en aplicaciones reales
 ShortTitle: Taller: Detectando corrupción de memoria con Ptrace en aplicaciones reales
-Institution: CIFASIS - CONICET
-Link: http://www.cifasis-conicet.gov.ar/
 Abstract: <p>Los errores de corrupción de memoria están entre los más
 frecuentes de los programadores de lenguajes como C o C++. Para colmo,
 presentan un gran desafío desde el punto de vista de la seguridad

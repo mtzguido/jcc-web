@@ -1,5 +1,5 @@
 Title: Aspectos Informáticos de un Dispositivo Hipermedial context-aware Dinámico para educación e investigación
-Author: Alejandro Sartorio, Patricia San Martin
+Authors: Alejandro Sartorio, Patricia San Martin
 ID: 2007-sartorio-sanmartin
 Slides: 2007-sartorio-sanmartin.pdf
 Abstract: Objetivos:

@@ -1,10 +1,11 @@
 Author: Maximiliano Cañellas
+Institution: Sinaptica
+Link: http://sinapticasecurity.com/
+
 ID: 2014-cañellas
 Slides: 2014-cañellas.html
 Title: Bitcoin en profundidad: Un viaje criptográfico
 ShortTitle: Bitcoin en profundidad: Un viaje criptográfico
-Institution: Sinaptica
-Link: http://sinapticasecurity.com/
 Abstract: <p>Bitcoin es una cryptodivisa digital creada en el año 2009 que usa 
 tecnología peer-to-peer y que opera sin una autoridad central, lo que 
 significa que no está producida ni sancionada por bancos o gobiernos.

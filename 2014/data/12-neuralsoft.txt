@@ -1,7 +1,8 @@
 Author: Gustavo Viceconti
+Institution: Neuralsoft
+Link: http://www.neuralsoft.com.ar
+
 ID: 2014-viceconti
 Title: Innovación tecnológica en Neuralsoft
 ShortTitle: Innovación tecnológica en Neuralsoft
-Institution: Neuralsoft
-Link: http://www.neuralsoft.com.ar
 Abstract: <p>Charla a cargo del CEO de Neuralsoft</p>

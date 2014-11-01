@@ -1,9 +1,10 @@
 Author: Sebastián Salvucci y Arzhan Kinzhalin
+Institution: Intel
+Link: http://www.intel.com/jobs/argentina
+
 ID: 2014-salvucci-kinzhalin
 Title: Desarrollo de aplicaciones móviles multi-plataforma con Intel&reg; XDK 
 ShortTitle: Desarrollo de aplicaciones móviles multi-plataforma con Intel&reg; XDK 
-Institution: Intel
-Link: http://www.intel.com/jobs/argentina
 Abstract: <p>La diversidad de plataformas para la creación y
 distribución de aplicaciones móviles hace que los costos de desarrollo
 y mantenemiento sean elevados por la necesidad de conocimientos e

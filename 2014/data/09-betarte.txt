@@ -1,10 +1,11 @@
 Author: Gustavo Betarte
+Institution: Universidad de la República - Uruguay
+Link: http://www.fing.edu.uy/~gustun
+
 ID: 2014-betarte
 Title: Certificación de algoritmos criptográficos <i>constant-time</i>
 ShortTitle: Certificación de algoritmos criptográficos <i>constant-time</i>
-Institution: Universidad de la República - Uruguay
 Slides: 2014-betarte.pdf
-Link: http://www.fing.edu.uy/~gustun
 Abstract: <p>Los <i>ataques basados en cache</i> constituyen una
 clase de ataques encubiertos que son particularmente efectivos cuando
 son realizados en ambientes virtualizados o en la cloud, donde son

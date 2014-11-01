@@ -1,5 +1,5 @@
 Title: Modelado y simulación con el formalismo DEVS
-Author: Ernesto Kofman, Federico Bergero
+Authors: Ernesto Kofman, Federico Bergero
 ID: 2008-kofman-bergero
 Slides: 2008-kofman-bergero.pdf
 Abstract: DEVS es un formalismo que permite representar y simular
