@@ -27,5 +27,5 @@ checkers disponibles y se mostrará el desarrollo de un checker simple
 que será incluido en la suite de compilación.</p>
 
 <p><b>Referencias:</b> <a target=_blank
-href="http://clang-analyzer.llvm.org/">http://clang-analyzer.llvm.org/</
-a></p>
+href="http://clang-analyzer.llvm.org/">http://clang-analyzer.llvm.org/</a>
+</p>
