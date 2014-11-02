@@ -2,6 +2,7 @@ Title: Análisis de imágenes: de los métodos tradicionales a las redes neurona
 Author: Pablo Granitto
 ID: 2012-granitto
 Video: http://www.youtube.com/watch?v=mr-giM_cz_w
+Slides: 2012-granitto.pdf
 
 Abstract: Las técnicas de Visión Computarizada van a pasar en un corto
 tiempo de un dominio actual de aplicación acotado y específico, a ser
