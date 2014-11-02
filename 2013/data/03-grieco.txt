@@ -1,8 +1,9 @@
 Title: Análisis Binario para Todos
 Author: Gustavo Grieco
-ID: 2013-grieco
 Institution: FCEIA-UNR
 Link: http://web.fceia.unr.edu.ar/
+ID: 2013-grieco
+Slides: 2013-grieco.pdf
 
 Abstract: "Symbolic Exploit Assistant" o SEA, es una herramienta para
 detectar vulnerabilidades de manera asistida en archivos binarios

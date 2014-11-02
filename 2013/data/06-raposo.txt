@@ -1,8 +1,9 @@
 Title: Introducción a los sistemas embebidos
 Author: Gonzalo Raposo
-ID: 2013-raposo
 Institution: GlobalLogic
 Link: http://www.globallogic.com.ar/
+ID: 2013-raposo
+Slides: 2013-raposo.pdf
 
 Abstract: En la actualidad los sistemas embebidos han cobrado una
 importante relevancia no sólo en un conjunto muy amplio de industrias

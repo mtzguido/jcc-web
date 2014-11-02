@@ -3,6 +3,7 @@ Authors: Lucía Ginart, Daniel Corbatta
 Institutions: , GlobalLogic
 Link: , http://www.globallogic.com.ar/
 ID: 2013-ginart-corbatta
+Slides: 2013-ginart-corbatta.pdf
 
 Abstract: Producto del avance del software embebido y las aplicaciones
 mas y mas complejas, se hace necesario contar con un marco de trabajo
