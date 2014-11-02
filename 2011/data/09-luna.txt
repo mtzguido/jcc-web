@@ -1,0 +1,31 @@
+Title: Verificando no interferencia y disponibilidad en un modelo idealizado (y certificado) de virtualización
+Author: Carlos Luna
+ID: 2011-luna
+Institution: UDELAR
+Link: http://www.fing.edu.uy/~cluna/
+
+Abstract: La tecnología de virtualización es un componente esencial
+para la provisión segura de lo que se ha denominado Infrastructure
+as a Service (IaaS) en cloud computing. En general, las plataformas
+de virtualización están siendo extensivamente usadas en sistemas
+embebidos, aeroespaciales y en varios otras dominios para proteger
+componentes críticos con altos requerimientos de integridad de la
+acción de sistemas no críticos y no confiables.
+
+Un hipervisor es un componente de software que permite que varios
+sistemas operativos puedan ejecutar sobre una misma plataforma de
+hardware compartiendo recursos. Por lo tanto, un desafío que se
+presenta es el de verificar que las plataformas de virtualización
+proveen sólidas garantías de que los sistemas que operan sobre las
+mismas lo hacen en forma aislada y segura.
+
+En esta presentación se describirá un modelo idealizado de un
+hipervisor que ha sido especificado usando el asistente de pruebas
+Coq y del que se ha formalmente verificado que garantiza propiedades
+de aislamiento entre los sistemas operativos que ejecutan sobre la
+plataforma de virtualización y que los requerimientos de los sistemas
+operativos son siempre atendidos.
+
+Este trabajo se enmarca en la actividad de investigación realizada
+en el proyecto de investigación fundamental VirtualCert (proyecto
+ANII-Fondo Clemente Estable 2009, Uruguay).

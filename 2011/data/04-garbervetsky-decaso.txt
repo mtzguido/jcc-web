@@ -1,0 +1,18 @@
+Title: Una imagen vale más que mil fórmulas
+Authors: Diego Garbervetsky, Guido de Caso
+Institutions: FCEyN-UBA, FCEyN-UBA
+Links: http://lafhis.dc.uba.ar/~diegog/, http://lafhis.dc.uba.ar/~gdecaso/
+ID: 2011-garbervetsky-decaso
+
+Abstract: Cada vez estamos más rodeados de artefactos de software
+que impactan directa o indirectamente en nuestra vida cotidiana. El
+incorrecto funcionamiento de estos artefactos puede ocasionar pérdidas
+que van desde dolores de cabeza multitudinarios hasta pérdidas
+irreparables. La verificación formal y el testing demostraron ser
+herramientas de suma utilidad, sin embargo seguimos encontrándonos con
+errores en el software que consumimos. La técnica de validación por
+excelencia es la revisión de código, pero es excesivamente costosa
+de aplicar en gran escala. En esta charla veremos una técnica de
+validación visual que, mediante abstracción y síntesis de modelos de
+comportamiento, permite descubrir problemas en artefactos de software de
+un vistazo.

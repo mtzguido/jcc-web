@@ -1,0 +1,17 @@
+Title: Introducción a la Programación con Tipos Dependientes
+Author: Mauro Jaskelioff
+ID: 2012-jaskelioff
+Institution: FCEIA-UNR
+
+Abstract: Los tipos dependientes permiten unificar la programación
+y la verificación de programas ya que los tipos pueden ser lo
+suficientemente precisos como para expresar una especificación.
+
+En este curso, veremos una introducción práctica a las
+características básicas de la programación con tipos dependientes
+usando el lenguaje funcional Agda y su entorno interactivo de
+desarrollo. Para ello, implementaremos algunos ejemplos simples pero
+interesantes.
+
+Requisitos: No es imprescindible, pero un poco de conocimientos de
+programación funcional ayudarían.

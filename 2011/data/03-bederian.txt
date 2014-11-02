@@ -1,0 +1,13 @@
+Title: Introducción a GPGPU
+Author: Carlos S. Bederian
+ID: 2011-bederian
+
+Abstract: La computación de propósito general en unidades de
+procesamiento gráfico (GPGPU) ha cobrado peso en los últimos años en
+el ámbito de la computación de alto desempeño (HPC) por combinar alto
+poder de cómputo y eficiencia a precios razonables.
+
+En esta charla hablaré de cómo una GPU obtiene su performance desde
+un punto de vista arquitectónico comparándola con una CPU, para
+contrastar las decisiones de diseño tomadas y mostrar las dificultades
+que estas decisiones conllevan a la hora de implementar algoritmos.

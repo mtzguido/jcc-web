@@ -1,0 +1,19 @@
+Title: GoLang
+Author: Julián Gutierrez
+ID: 2012-gutierrez
+Video: http://www.youtube.com/watch?v=Xvh_x2y24V4
+
+Abstract: Software development is facing a big challenge, the free lunch
+is over and our tools not longer apply to the scale shift we are seeing
+nowadays. There's a need for new tools on the fields of concurrency and
+distributed systems to scale up and out beyond what threads and locks
+can provide us. Program source code can easily reach a million lines of
+code and large collaboration teams. When they grow in size, types don't
+easily fall into "is-a" hierarchies.
+
+We're presenting Go, a programming language designed for dealing with
+concurrency problems and well suited for systems programming. Created
+at Google by Ken Thompson and Rob Pike as a replacement for C++, Go has
+being developed in an open source model since it's beginning, supported
+by a large active community. In this talk, we'll walk through the
+language basics, concurrency patterns and design examples.

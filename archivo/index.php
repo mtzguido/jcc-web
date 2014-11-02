@@ -52,6 +52,12 @@
 			echo '</p>';
 		}
 
+		if ($talk['video'] != "") {
+			echo '<p>';
+			echo '<a target=_blank href="' . $talk['video'] . '" >Video</a>';
+			echo '</p>';
+		}
+
 		echo "</div>";
 	}
 
@@ -120,6 +126,7 @@
 			$title =	extract_attr($contents, "Title");
 			$shtitle =	extract_attr($contents, "ShortTitle");
 			$slides =	extract_attr($contents, "Slides");
+			$video =	extract_attr($contents, "Video");
 			$abstract =	extract_attr_multiline($contents, "Abstract");
 
 
@@ -136,6 +143,7 @@
 				$talks[$ID]['shortTitle'] = $shtitle;
 				$talks[$ID]['abstract'] = $abstract;
 				$talks[$ID]['slides'] = $slides;
+				$talks[$ID]['video'] = $video;
 
 				makebox($talks[$ID]);
 			}
@@ -163,6 +171,10 @@
 
 			if ($talk['slides']) {
 				echo " (<a target=_blank href=" . $basedir . "/slides/" . $talk['slides'] . ">Slides</a>)";
+			}
+
+			if ($talk['video']) {
+				echo ' (<a target=_blank href="' . $talk['video'] . '">Video</a>)';
 			}
 
 			echo "<br>";

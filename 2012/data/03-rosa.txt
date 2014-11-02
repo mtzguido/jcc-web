@@ -1,0 +1,18 @@
+Title: SimGridMC: verificación dinámica de sistemas distribuidos
+Author: Cristian Rosa
+Video: http://www.youtube.com/watch?v=GPKqvIhSTB8
+ID: 2012-rosa
+
+Abstract: Los sistemas distribuidos son la base de los actuales sistemas
+de información. Se ha vuelto estándar utilizar múltiples unidades de
+procesamiento para mejorar el rendimiento de las aplicaciones, ayudar
+a tolerar fallas en los componentes, o resolver problemas que son
+demasiado grandes para tratar con una única computadora. El diseño
+de algoritmos adaptados al contexto distribuido es particularmente
+desafiante, debido a la asincronía, y el no determinismo que
+caracteriza estos sistemas. En esta presentación se introduce el área
+de verificación dinámica, una técnica formal basada en model checking
+que intenta descubrir errores en programas distribuidos. Además, se
+presenta SimGridMC una herramienta que utiliza dicho enfoque y es capaz
+de encontrar errores en programas paralelos MPI sin modificaciones,
+junto con los resultados de algunas experiencias efectuadas.

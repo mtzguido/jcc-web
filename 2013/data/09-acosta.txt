@@ -1,0 +1,27 @@
+Title: FUN: una herramienta didáctica para la derivación de programas funcionales
+Author: Araceli Acosta
+ID: 2013-acosta
+Institution: FaMAF-UNC
+Link: http://www.famaf.unc.edu.ar/
+
+Abstract: En su artículo “Sobre la crueldad de verdaderamente
+enseñar ciencias de la computación”, Edsger W. Dijkstra nos invita
+a pensar una forma de enseñar programación en un curso introductorio:
+"Desde el comienzo, y a través de todo el curso, enfatizamos que la
+tarea del programador no es sólo escribir un programa, sino que su
+tarea principal es dar una prueba formal de que el programa que propone
+cumple la especificación funcional (igualmente formal). Mientras
+se diseñan demostraciones y programas conjuntamente, el estudiante
+adquiere una amplia oportunidad de perfeccionar su destreza manipulativa
+con el cálculo de predicados".
+
+Persiguiendo la filosofía de enseñanza de Dijkstra, un grupo
+de docentes y estudiantes de FaMAF de la Universidad Nacional de
+Córdoba desarrollamos FUN con el objetivo de hacer una herramienta
+que acompañe al estudiante en el aprendizaje de la programación.
+Esta herramienta consiste en un IDE (entorno de desarrollo integrado)
+para escribir programas y pruebas en un lenguaje que permite definir
+programas funcionales, u su especificación, además de realizar
+pruebas matemáticas utilizando lógica proposicional y de predicados,
+y realizar derivaciones; las pruebas y derivaciones son verificadas
+automáticamente por el software.

@@ -1,0 +1,20 @@
+Title: Análisis de imágenes: de los métodos tradicionales a las redes neuronales profundas
+Author: Pablo Granitto
+ID: 2012-granitto
+Video: http://www.youtube.com/watch?v=mr-giM_cz_w
+
+Abstract: Las técnicas de Visión Computarizada van a pasar en un corto
+tiempo de un dominio actual de aplicación acotado y específico, a ser
+esenciales para cientos de aplicaciones de la vida diaria. Los métodos
+de Análisis de Imágenes son el núcleo de la Visión Computarizada. Se
+pueden distinguir en general dos estrategias conceptualmente diferentes
+para el análisis. Las técnicas más tradicionales implementan
+por separado la extracción de características y la posterior
+utilización de las mismas, usando información externa provista
+por un experto humano. Las nuevas estrategias intentan desarrollar
+métodos de modelado que actúen directamente sobre la imagen sin
+ningún tipo de procesamiento predefinido y den como resultado final la
+información buscada. Estos métodos directos han cobrado importancia
+muy recientemente con la introducción de las arquitecturas profundas de
+redes neuronales. La charla busca dar un panorama general del problema,
+discutiendo las dos estrategias mencionadas.

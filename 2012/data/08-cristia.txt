@@ -1,0 +1,23 @@
+Title: Evaluación de SMT y Constraint solvers como generadores de casos de prueba para el Test Template Framework
+Author: Maximiliano Cristiá
+ID: 2012-cristia
+Video: https://www.youtube.com/watch?v=IYD80zLDhwE&list=UU-CReVEx4-3AfJOH1Tr-udw
+
+Abstract: El Test Template Framework (TTF) es un método de testing
+basado en modelos que utiliza la notación Z y está especialmente
+orientado a testing de unidad. En el TTF, los casos de prueba se
+generan a partir de especificaciones de test, las cuales son predicados
+escritos en Z. A su vez, la notación Z se basa en lógica de primer
+orden con igualdad y la teoría de conjuntos de Zermelo-Fraenkel.
+De esta forma, un caso de prueba es un testigo que satisface una
+fórmula en esa teoría. Satisfiability Modulo Theory (SMT) solvers y
+Constraint Solvers son programas que deciden la satisfacibilidad de
+fórmulas pertenecientes a muchas teorías lógicas. En esta charla
+se presentarán los primeros resultados obtenidos al aplicar tres SMT
+solvers, Yices, CVC3 y Z3, y dos Constraint Solvers, ProB y {log},
+como generadores de casos de prueba para el TTF. Con este fin se
+presentarán codificaciones superficiales (shallow embeddings) de una
+parte significativa de la notación Z en los lenguajes de entrada de
+esas herramientas. También se mostrarán los resultados de varios
+experimentos para evaluar la eficacia y eficiencia de las herramientas y
+las codificaciones superficiales.

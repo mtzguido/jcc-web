@@ -1,0 +1,13 @@
+Title: Introducción a los sistemas de tiempo real
+Authors: Lucía Ginart, Daniel Corbatta
+Institutions: , GlobalLogic
+Link: , http://www.globallogic.com.ar/
+ID: 2013-ginart-corbatta
+
+Abstract: Producto del avance del software embebido y las aplicaciones
+mas y mas complejas, se hace necesario contar con un marco de trabajo
+que le permita al usuario manejar de una forma medianamente transparente
+y eficiente decenas de tareas en forma concurrente, cada una con
+deadlines de tiempo y penalidades de distinta escala al hecho de no
+cumplir el requisito temporal, desde una llamada perdida hasta el
+hundimiento de un barco de decenas de millones de dolares.

@@ -1,0 +1,17 @@
+Title: ¿Cuándo un sistema (no) computa?
+Author: Javier Blanco
+ID: 2011-blanco
+Institution: FaMAF-UNC
+
+Abstract: Un problema que aparece en cualquier definición de
+computación, es su capacidad para distinguir sistemas que computan
+de aquellos que no. Varios autores postulan la ausencia de rasgos
+específicos en la idea de computación, el pan-computacionalismo:
+"todo computa"; a veces expresado como relativismo semántico: "la
+computación está en el ojo del observador".
+
+En la charla propuesta sugeriré que las nociones de interprete y
+programa pueden dar cuenta de algunas de las propuestas acerca de
+la noción de cómputo que considero más apropiadas. A su vez la
+noción de interprete y programa presenta algunas ventajas conceptuales
+significativas en relación con otras propuestas

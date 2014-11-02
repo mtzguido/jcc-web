@@ -1,0 +1,12 @@
+Title: Base de Datos Métricas
+Author: Nora Reyes
+ID: 2012-reyes
+Video: http://www.youtube.com/watch?v=5E1KiLeFcE4
+
+Abstract: En esta charla se presentarán los conceptos fundamentales
+para las Bases de Datos Métricas, describiendo además algunos de los
+índices más conocidos para resolver las búsquedas por similitud
+y algunas otras operaciones como el "join por similitud". Además
+presentaré algunos de los temas que puedan ser de interés para quienes
+quieran iniciar su investigación en esta área y una muestra de los
+aportes de nuestro grupo de investigación.

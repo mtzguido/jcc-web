@@ -1,0 +1,18 @@
+Title: Introducción a los sistemas embebidos
+Author: Gonzalo Raposo
+ID: 2013-raposo
+Institution: GlobalLogic
+Link: http://www.globallogic.com.ar/
+
+Abstract: En la actualidad los sistemas embebidos han cobrado una
+importante relevancia no sólo en un conjunto muy amplio de industrias
+(militar, automotriz, espacial, robotica, etc) sino que también lo
+ha hecho en la vida cotidiana de las personas. Basta con imaginar
+un día típico y los objetos con los que interactuamos para darnos
+cuenta de esto : Microondas, DVD, reproductores de música, celulares,
+automoviles, decodificadores, etc.
+
+Vamos a introducir los conceptos básicos del desarrollo de software
+embebido, sus ventajas, limitantes, tecnología disponible y las
+principales características que lo diferencian de un desarrollo para un
+sistema no embebido.

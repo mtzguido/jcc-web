@@ -1,0 +1,41 @@
+Title: Linux Device Driver for Dummies (L-D3)
+Author: Ezequiel García
+Institution: VanguardiaSur
+Link: http://www.vanguardiasur.com.ar/
+ID: 2013-garcia
+
+Abstract: Un primer acercamiento al desarrollo de drivers para el
+kernel Linux. El curso consiste en dos jornadas de dos y tres horas
+respectivamente.
+
+Requisitos:
+Manejo fluído oral y escrito de lenguaje C
+Manejo fluído del shell típico en entornos UNIX
+Carencia de miedo a ejercer el pensamiento crítico
+Sentido del humor y la ironía :-)
+Programa tentativo:
+
+Día 1:
+Introducción al kernel, source tree, repositorio git
+Concepto de device, files y llamadas de sistema. Strace.
+Mi primer módulo de kernel: Hello world!
+Char device vs. Block device. Implementación de un device char.
+Día 2:
+API interna. El concepto de API inestable.
+Estructura de datos. Listas enlazadas.
+Implementación de módulo "blackhole".
+Usamos el driver blackhole para comer toda la RAM y nos sentamos a ver como el kernel se muere.
+Bonus track #1: un diseño controvertido: el OOM killer.
+Bonus track #2: kmemleak: un recolector de basura, que no recolecta nada.
+Bibliografía:
+[1] "Linux Device Drivers" 3rd edition.
+Jonathan Corbet, Alessandro Rubini and Greg Kroah-Hartman
+
+[2] "When Linux Runs Out of Memory"
+Mulyadi Santosa
+
+[3] "Detecting kernel memory leaks"
+Jonathan Corbet
+Repositorio Git:
+
+https://github.com/ezequielgarcia/lddfd/

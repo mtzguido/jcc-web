@@ -1,0 +1,27 @@
+Title: Implementación eficiente de construcciones de alto nivel para la programación concurrente
+Author: Damián Barsotti
+ID: 2011-barsotti
+Institution: FaMAF-UNC
+Link: http://www.cs.famaf.unc.edu.ar/~damian/
+
+Abstract: La reciente popularidad de arquitecturas de hardware de
+tipo paralelas (CMP's) hace necesario el estudio de construcciones de
+alto nivel que faciliten la programación de carácter concurrente.
+Propuestas en este sentido se han venido desarrollando desde hace más
+de 20 años, donde se destacan las regiones críticas condicionales
+y lo monitores con señalamiento automático. Estas construcciones
+son herramientas interesantes para desarrollar programas concurrentes
+de manera simple y de forma correcta. Lamentablemente no han sido
+incluidas como parte del diseño de los lenguajes de programación
+debido principalmente a problemas de eficiencia en sus implementaciones.
+
+Nuestro trabajo desarrolla métodos totalmente automáticos para
+mejorar las implementaciones de estas construcciones mediante el uso
+de probadores de teoremas del tipo SMT solver (CVC3) y probadores de
+lógica de alto orden (Isabelle/Isar), utilizados dentro de técnicas
+de interpretación abstracta. En el caso de regiones críticas
+condicionales la propuesta se aplica a implementaciones automáticas
+producidas por la técnica de Semáforos Binarios Divididos desarrollada
+por E.W.Dijkstra. En el caso de monitores con señalamiento automático,
+el método mejora implementaciones con monitores de señalamiento
+explícito.

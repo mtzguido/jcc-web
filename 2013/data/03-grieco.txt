@@ -1,0 +1,23 @@
+Title: Análisis Binario para Todos
+Author: Gustavo Grieco
+ID: 2013-grieco
+Institution: FCEIA-UNR
+Link: http://web.fceia.unr.edu.ar/
+
+Abstract: "Symbolic Exploit Assistant" o SEA, es una herramienta para
+detectar vulnerabilidades de manera asistida en archivos binarios
+ejecutables (cuyo código fuente no está disponible). A grandes rasgos,
+SEA funciona analizando la propagación de los datos provisto de entrada
+y puede identificar potenciales problemas de seguridad directamente en
+el archivo ejecutable, permitiendo a un analista, determinar bajo que
+condiciones se podrían aprovechar errores del programa. Una abstract
+extendido aceptado en CSTVA 2013 con detalles técnicos sobre el
+funcionamiento de la herramienta está disponible aquí
+
+Esta herramienta se está desarrollando íntegramente en Python y apunta
+a tener una arquitectura modular de manera de permitir el agregado de
+nuevas funcionalidades, en forma de tipos de vulnerabilidades comunes.
+Este proyecto se realiza de manera conjunta entre el instituto argentino
+CIFASIS (Universidad Nacional de Rosario) y el instituto francés
+VERIMAG (Universidad de Grenoble).
+

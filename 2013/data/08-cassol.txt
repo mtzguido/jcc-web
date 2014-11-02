@@ -1,0 +1,24 @@
+Title: Heurísticas para la obtención de un modelo de datos en sistemas estructurados
+ID: 2013-cassol
+Author: Ignacio Cassol
+Institution: Universidad Austral
+Link: http://www.austral.edu.ar/ingenieria/
+Video: https://www.youtube.com/watch?v=wTrxiaht_9c
+
+Abstract: Durante el proceso de mantenimiento de un sistema heredado, la
+obtención de la arquitectura del mismo es una tarea relevante ya que
+aporta información acerca de su diseño. La necesidad de mantenimiento
+de estos sistemas surge porque los mismos evolucionan por diferentes
+tecnologías, nuevas plataformas o requerimientos cambiantes. Sin
+embargo, este proceso no se realiza en forma rigurosa, y el impacto se
+ve en una documentación parcial o incompleta. La documentación es
+vital pues permite comprender cuál es el diseño del sistema analizado
+y de esta manera, planificar posibles modificaciones o actualización
+del mismo. Las metodologías actuales en la recuperación del diseño
+no son adecuadas para los sistemas existentes. La disertación tendrá
+el objetivo de mostrar los estudios relacionados al desarrollo de una
+herramienta que ayude a analizar y comprender el código heredado. El
+resultado esperado consiste en una modelo gráfico de datos bajo el
+paradigma de Orientación a Objetos. Esta instancia del proyecto aborda
+código en lenguaje Ansi C y proyecta generar un conjunto de clases que
+resultarán de utilidad para construir un modelo de datos.

@@ -1,0 +1,24 @@
+Title: Complejidad de Kolmogorov, aleatoriedad y otras yerbas
+Author: Santiago Figueira
+ID: 2011-figueira
+Institution: FCEyN-UBA
+Link: http://www.glyc.dc.uba.ar/santiago/
+
+Abstract: Cuando vemos la secuencia 10101010101010101010 y la secuencia
+11011010010000110101 tenemos la sensación de que la segunda es "más
+aleatoria" que la primera. Sin embargo, si se generaron tirando
+una moneda y anotando 0 para ceca y 1 para cara, en términos de
+probabilidad, cada una es igual de probable. Entender por qué algunas
+secuencias parecen aleatorias pero otras no, es una cuestión profunda y
+fundamental. Desde principios del siglo 20 se empezó a pensar en este
+problema. Pero cómo transformar nuestra intuición de lo "aleatorio"
+en una definición matemática con sentido no fue una tarea fácil. Al
+final, las definiciones que se encontraron terminaron estando todas muy
+relacionadas con la teoría de la computabilidad.
+
+En esta charla voy a presentar algunas formas de definir formalmente a
+las secuencias aleatorias según distintos enfoques. Voy a hablar de la
+complejidad de Kolmogorov, del número Omega de Chaitin y del problema
+de la detención. Voy a terminar contándoles un proyecto nuevo que
+relaciona la complejidad de Kolmogorov con experimentos en neurociencia
+(sí, leyó bien: neurociencia).

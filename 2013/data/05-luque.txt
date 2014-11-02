@@ -1,0 +1,20 @@
+Title: Introducción al Análisis de Lenguaje Natural basado en Corpus
+Author: Franco Luque
+Institution: FaMAF-UNC
+Link: http://www.famaf.unc.edu.ar/
+ID: 2013-luque
+Video: https://www.youtube.com/watch?v=EvdRRlhaUcI
+
+Abstract: El Procesamiento de Lenguaje Natural (PLN) es el área que
+estudia algoritmos que procesan lenguaje humano. Las tareas de PLN van
+desde el reconocimiento del habla hasta la extracción de información
+semántica, pasando por la segmentación de palabras y oraciones,
+y el análisis sintáctico, entre otras. A mediados de los 90, la
+introducción del uso de corpus anotados y de modelos estadísticos
+produjo una revolución en la performance de los sistemas de PLN.
+
+En esta charla daré una introducción al PLN basado en corpus, con
+especial énfasis en la tarea de análisis sintáctico. Para ello
+introduciré conceptos de gramáticas probabilísticas, algoritmos de
+estimación basada en corpus, y algoritmos de análisis sintáctico
+(parsing) de oraciones.

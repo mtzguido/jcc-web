@@ -1,0 +1,24 @@
+Title: Procesamiento Audio-Visual de Señales de Voz
+Author: Lucas Terissi
+ID: 2011-terissi
+
+Abstract: La comunicación entre humanos es por naturaleza multi-modal,
+predominantemente bimodal (audio-visual), en el sentido que son de
+fundamental importancia tanto la información acústica de la señal
+emitida por la persona que está hablando, como la información visual
+de los gestos que esa persona está realizando. En particular, la
+información visual del movimiento de labios, y otros músculos faciales
+posibilita una mejor comprensión del mensaje que se quiere transmitir.
+
+Por tal motivo, en las últimas dos décadas ha habido un creciente
+interés en el estudio, desarrollo e implementación de nuevas
+tecnologías que utilicen información audio-visual. En este
+trabajo se aborda el problema de representación y modelado de
+información audio-visual relacionada con el habla. En particular, esta
+investigación se orienta al estudio, desarrollo e implementación
+de algoritmos de procesamiento audio-visual de señales de voz.
+Los métodos y técnicas propuestas en este trabajo corresponden a
+tres áreas de investigación diferentes, a saber, extracción de
+características de la señal de voz y de la expresión facial, modelado
+de la información audio-visual y animación de modelos de rostro
+virtuales.

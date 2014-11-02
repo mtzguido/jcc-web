@@ -1,0 +1,8 @@
+Title: Erlang
+Author: Guido Macchi
+Institution: FCEIA-UNR
+ID: 2011-macchi
+
+Abstract: Se presenta Erlang, un lenguaje funcional con primitivas para
+concurrencia, procesos livianos y una plataforma adecuada para sistemas
+tolerantes a fallas y alta disponsibilidad. Al final se servirá café.

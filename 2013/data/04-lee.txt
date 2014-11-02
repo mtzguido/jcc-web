@@ -1,0 +1,17 @@
+Title: Breve Introducción a Semánticas de Procesos
+Author: Matías Lee
+ID: 2013-lee
+Institution: FaMAF-UNC
+Link: http://www.famaf.unc.edu.ar/
+Video: https://www.youtube.com/watch?v=eYlpqJTLDUU
+
+Abstract: Un proceso es una representación abstracta de una entidad
+que interactúa con otras entidades. La semántica de procesos es la
+rama de la ciencia de la computación que se encarga de definir el
+comportamiento observable de estos objetos. De esta forma es posible
+decidir cuando dos procesos son iguales. En esta charla explicaremos
+cómo se definen estas igualdades. Además presentaremos cómo se define
+un lenguaje para especificar procesos utilizando semántica operacional
+estructurada.
+
+

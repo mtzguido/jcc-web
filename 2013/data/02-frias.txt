@@ -1,0 +1,14 @@
+Title: BLISS: Bounded Lazy Initialization with SAT-Support
+Author: Marcelo Frías
+ID: 2013-frias
+Institution: ITBA
+Link: http://www.itba.edu.ar/
+Video: https://www.youtube.com/watch?v=PPrNdUtUqdg
+
+Abstract: En esta charla introduciré el estado del arte en los temas de
+análisis automático de código con contratos, tanto secuencial como
+paralelo, y presentaré la investigación que mi grupo realiza en el
+área. Para los intresados habrá también demos de las herramientas
+desarrolladas. Finalmente, presentaré temas que pueden ser de interés
+para quienes tengan interés en iniciarse en la investigación en esta
+disciplina.

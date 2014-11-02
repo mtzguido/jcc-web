@@ -1,0 +1,18 @@
+Title: Algo sobre visión en robótica o ¿Cómo diablos ve Wall-e?
+Author: Pablo de Cristoforis 
+ID: 2012-de-cristoforis
+Video: http://www.youtube.com/watch?v=UsCjdLnGXck
+
+Abstract: Los robots día a día ganan más espacio entre nuestras
+vidas. Para recolectar información del ambiente necesitan de los
+sentidos al igual que los humanos o tantos otros animales. En el mundo
+de la electrónica los llamamos sensores y los hay de muy diverso
+tipo. En esta charla vamos a concentrarnos en explicar cómo pueden
+utilizarse las cámaras como sensores de visión para robots móviles.
+Veremos cómo es posible procesar toda la información provista por las
+imágenes para que el robot pueda construir un modelo del ambiente y
+así interactuar en el mismo. Diversos métodos que utilizan una, dos o
+más cámaras se han desarrollado para alcanzar la navegación autónoma
+en robots móviles. En esta charla vamos a mostrar un poco de lo que
+estamos haciendo en el Laboratorio de Robótica y Sistemas Embebidos del
+DC, donde utilizamos visión en robots terrestres y voladores.

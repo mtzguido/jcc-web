@@ -1,0 +1,30 @@
+Title: Algoritmos y Estructuras de Datos I: crónicas del experimento
+Author: Eric Biagioli
+ID: 2011-biagioli
+Institution: FCEIA-UNR
+
+Abstract: En el dictado de Algoritmos y Estructuras de Datos I de la
+LCC, se han introducido problemas de ACM, Google Code Jam, USACO, etc.
+en las clases de todos los días. Habitualmente este tipo de problemas
+son mas bien extra curriculares. Se ha llevado al día a día este
+tipo de problemas y se ha intentado introducir una forma de conseguir
+que los conocimientos sean adquiridos de manera "implícita", como
+parte de un objetivo mayor: resolver problemas. Esta forma de plantear
+la materia mostró tener algunas consecuencias interesantes; una de
+estas consecuencias fue que el interés y la motivación por "ir mas
+allá de lo que se ve en la clase" que se despertó en el promedio del
+curso fue muy alta. Varios alumnos espontáneamente decidieron aprender
+cosas de diferentes áreas (conceptos de teoría de números, conceptos
+de topología algebraica, conceptos de criptografía) porque estos
+problemas logran que los alumnos se "empecinen" en querer resolverlos.
+
+Al punto de aprender lo que sea necesario para poder resolverlos.
+Otra de las consecuencias que tuvo fue que requirió un gran esfuerzo
+de parte de la cátedra, y eso desembocó en el diseño de algunas
+herramientas que se desarrollaron para el dictado. En esta charla
+se pretende mostrar con un poco mas de detalle este experimento;
+explicar el motivo en el cual se basó la decisión de guiar la
+materia a través de problemas y que los contenidos sean cuestiones
+implícitas, la motivación que se generó en los chicos, comentar un
+poco los "cuidados" que requirió hacerlo de esta manera, mostrar las
+herramientas que surgieron, etc.

@@ -1,0 +1,9 @@
+Title: Hagalo usted mismo: un asistente de prueba
+Authors: Exequiel Rivas, Guido Genzone
+ID: 2012-rivas-genzone
+
+Abstract: Siguiendo la correspondencia de Curry-de Bruijn-Howard,
+presentaremos una teoría minimal que formaliza las pruebas
+constructivas de HOL (Higher order logic).Se presentaran los detalles
+teóricos, y el código de un asistente de prueba para esta teoría.
+Finalmente se tratarán posibles extensiones de este cálculo.

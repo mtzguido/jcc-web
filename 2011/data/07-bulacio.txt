@@ -1,0 +1,20 @@
+Title: Tratamiento de datos para aplicaciones agro-biotecnológicas
+Author: Pilar Bulacio
+ID: 2011-bulacio
+Institution: CIFASIS-CONICET
+
+Abstract: En busca de aportar nuevas soluciones, las tecnologías
+asociadas al tratamiento de datos sufren cambios vertiginosos generando
+nuevos desafíos de aprendizaje y una búsqueda constante de nuevas
+aplicaciones. Este es el caso de las tecnologías de sensado masivo
+y paralelo que están revolucionando la Biología, la Medicina, la
+Biotecnología y la Agricultura. La capacidad de observación de grandes
+volúmenes de datos complejos (datos con elevada dimensionalidad,
+correlación, ruido, y/o insuficientes número de muestras) trae consigo
+una nueva generación de problemas computacionales, cuyo abordaje en
+algunos casos requiere cuidadosas propuestas de adaptación y en la gran
+mayoría, el diseño de soluciones completamente novedosas. Asimismo,
+debemos recalcar que los proyectos sobre datos complejos requieren de un
+aporte multidisciplinar mediante la mirada conjunta de especialistas de
+diversas áreas: ingenieros, biólogos, agrónomos, estadísticos, etc.
+
