@@ -1,0 +1,14 @@
+Title: Construcción modular de mónadas con operaciones
+Author: Mauro Jaskelioff
+Institution: UNR
+ID: 2010-jaskelioff
+Slides: 2010-jaskelioff.pdf
+
+Abstract: Las mónadas son una herramienta muy poderosa para estructurar
+programas y semánticas denotacionales con efectos computacionales.
+
+En esta charla veremos como combinar mónadas usando transformadores
+y el problema de llevar las operaciones asociadas a la mónada, que
+permiten manipular los efectos computacionales, de la mónada subyacente
+a la mónada transformada. Se propondrá un nuevo enfoque que permite
+resolver el problema en forma uniforme.

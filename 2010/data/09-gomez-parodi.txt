@@ -1,0 +1,12 @@
+Title: Presentación del Multimedia Research Group, Laboratorio de Sistemas Dinámicos y Procesamiento de la Información
+Authors: Juan Carlos Gómez, Marianela Parodi
+Institutions: , UNR
+Links: , http://www.fceia.unr.edu.ar/~jcgomez/
+ID: 2010-gomez-parodi
+Slides: 2010-gomez.pdf, 2010-parodi.pdf
+
+Abstract: En esta charla se describirán las distintas líneas de
+investigación que lleva a cabo el Multimedia Research Group en las
+áreas de Procesamiento Audio-Visual de Habla, Watermarking Digital,
+Verificación Automática de Firmas Manuscritas y Procesamiento de
+Imágenes de Microarrays.

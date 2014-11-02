@@ -1,0 +1,19 @@
+Title: Programas en los cursos: algunas herramientas informáticas para la educación
+Author: Luis Sierra
+Institution: UDELAR
+Link: http://www.universidad.edu.uy/
+ID: 2010-sierra
+
+Abstract: El uso de informática en las aulas constituye una situación
+de hecho sobre la cuál se manejan distintas ideas. La variedad en las
+propuestas suele ser muy amplia, y no hay acuerdos claros acerca de su
+uso y objetivos. Entiendo que es posible y deseable intensificar el uso
+de la informática en las aulas, agregando actividades de programación
+en la medida de lo posible.
+
+Los cursos de grado de informática constituyen un buen lugar dónde
+experimentar, ya que se combina el objeto de estudio con la herramienta
+de aprendizaje. En esta presentación señalará algunos elementos que
+considero relevantes para explotar esta situación. Se mostrarán un par
+de ejemplos con los que he interactuado recientemente; interfases web y
+visualización de algoritmos sobre grafos.

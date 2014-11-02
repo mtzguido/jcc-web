@@ -1,0 +1,24 @@
+Title: Metaprogramación: computando en tiempo de compilación
+Author: Marcelo Arroyo
+Institution: UNRC
+Link: http://dc.exa.unrc.edu.ar/docentes/marroyo/
+ID: 2010-arroyo
+Slides: 2010-arroyo.pdf
+
+Abstract: La metaprogramación es un conjunto de técnicas y
+herramientas de programación que permiten realizar computaciones en
+tiempo de compilación. Un metaprograma genera código, en tiempo de
+compilación. Algunos lenguajes de programación proveen mecanismos para
+la generación de código durante la compilación, que pueden tomar la
+forma de macros, plantillas o constructores del lenguaje para manipular
+representaciones de código estáticamente.
+
+Sus aplicaciones pueden ser variadas, desde bloques de código con
+compilación condicional hasta la generación de datos, optimización de
+código y definición de lenguajes de dominios específicos.
+
+En esta charla se analizarán diferentes mecanismos presentes en
+diferentes lenguajes de programación como C++, Template Haskell y
+Converge, entre otros, sus aplicaciones prácticas y también los
+problemas generados en cuanto a la definición del lenguaje y su
+implementación.

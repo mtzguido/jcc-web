@@ -1,0 +1,20 @@
+Title: Una introducción a las lógicas híbridas
+Author: Carlos Areces
+Institution: UNC
+Link: http://www.loria.fr/~areces/
+ID: 2010-areces
+Slides: 2010-areces.pdf
+
+Abstract: Las lógicas híbridas son una familia de lógicas modales
+que permite hacer referencia directa a elementos del modelo y expresar
+una forma limitada de igualdad. En los últimos años hemos investigado
+esta familia de lógicas en detalle, mapeando su poder expresivo, la
+complejidad del problema de satisfiabilidad (SAT), y hemos diseñado e
+implemendado diferentes algoritmos de decisión para SAT.
+
+En esta charla dare una breve introdución a las lógicas modales
+para luego presentar las lógicas híbridas, y comentar sobre sus
+propiedades más interesantes. La charla será autocontenida y no asume
+conocimientos previos de lógicas modales, pero sí conocimientos
+básicos sobre lógica. (Y los que no tengan conocimientos basicos de
+logica, siempre pueden venir para ver si se entiende algo :)).

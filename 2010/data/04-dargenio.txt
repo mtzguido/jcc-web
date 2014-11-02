@@ -1,0 +1,21 @@
+Title: Verificación cuantitativa de sistemas concurrentes
+Author: Pedro R. D'Argenio
+Institution: UNC
+ID: 2010-dargenio
+Slides: 2010-dargenio.pdf
+
+Abstract: En esta charla presentaré a nuestro grupo de investigación,
+el cual es parte de la Sección de Ciencias de la Computación en la
+FaMAF, UNC.
+
+Primeramente describiré la tarea de verificación dentro del proceso
+de Ingeniería del Software, en particular haciendo incapié en las
+distintas técnicas que estudiamos dentro del grupo. Describiré
+brevemente el grupo y las colaboraciones que éste lleva a cabo al
+momento.
+
+A continuación, hablaré con más especificidad sobre una de las
+áreas que estamos estudiando y que involucra el poder cuantificar
+probabilísticamente tanto el modelo operacional del sistema como la
+validez de las propiedades funcionales de éste. Describiré el trabajo
+actual y el plan a futuro en éste área.

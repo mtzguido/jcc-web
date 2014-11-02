@@ -1,0 +1,32 @@
+Title: Fundamentos formales de especificaciones algebraicas heterogéneas
+Author: Carlos López Pombo
+Institution: UBA
+ID: 2010-lopez-pombo
+Slides: 2010-lopez-pombo.pdf
+
+Abstract: El mundo del desarrollo de software se ha vuelto
+intrínsecamente heterogéneo. Por un lado, se han desarrollado gran
+cantidad de lenguajes y notaciones para ayudar a los analistas y
+diseñadores a capturar y modelar diferentes aspectos involucrados
+en las piezas de software. Por ejemplo, UML ofrece gran variedad de
+notaciones diagramáticas, desde diagramas de clases a máquinas de
+estado, diagramas de colaboración, etc. Esta proliferación refleja la
+necesidad de reducir la complejidad del desarrollo de grandes sistemas,
+dado que cada lenguaje permite a (equipos de) ingenieros enfrentar
+vistas específicas o etapas del proceso de desarrollo. En resumen, el
+escenario que se enfrenta hoy es el de una multitud de lenguajes de
+modelado y lógicas para soportarlos, y herramientas para procesar estos
+lenguajes y razonar en las lógicas subyacentes.
+
+La heterogeneidad es origen de una gran complejidad al momento de
+desarrollar software pues hace muy difícil, incluso imposible, que
+los ingenieros entiendan cómo estos se comportarán o interactuarán
+con personas u otros sistemas. Esta es la razón por la cual, en los
+últimos años, las ciencias de la computación han experimentado un
+creciente interés en este campo.
+
+En el curso abordaremos el estudio de algunas herramientas formales
+que permiten la construcción y manipulación de especificaciones
+algebraicas heterogéneas de forma que resulta posible la
+reconstrucción de un sistema a partir de las vistas parciales
+expresadas en lenguajes diferentes.

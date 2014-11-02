@@ -1,0 +1,16 @@
+Title: Simulación de sistemas por cuantificación de estados
+Authors: Ernesto Kofman, Federico Bergero
+Institutions: , UNR
+ID: 2010-kofman-bergero
+Slides: 2010-kofman-bergero.pdf
+
+Abstract: En esta charla presentaremos en detalle los métodos de
+integración por cuantificación de estados[1] como una alternativa a
+los métodos clásicos de integración. Estos nuevos métodos conllevan
+también una nueva metodología de discretización de señales y
+de procesado asincrónico de señales. Se discutirán ventajas,
+desventajas, aplicaciones y su implementación tanto en tiempo real como
+off-line.
+
+[1] Continuous System Simulation. Francois E. Cellier and Ernesto
+Kofman. Springer, New York, 2006.

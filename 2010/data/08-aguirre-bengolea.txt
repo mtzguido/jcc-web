@@ -1,0 +1,28 @@
+Title: Algunas técnicas de generación automática de casos de test para estructuras complejas alojadas en memoria dinámica
+Authors: Nazareno Aguirre, Valeria Bengolea
+Institutions: , UNRC
+ID: 2010-aguirre-bengolea
+Slides: 2010-aguirre-bengolea.pdf
+
+Abstract: La generación automática de casos de test es una área
+de investigación muy activa en la actualidad, dentro de la cual la
+generación de casos de test para estructuras complejas alojadas en
+memoria dinámica, tales como árboles balanceados, grafos, etc., es
+particularmente difícil. La tarea de generación de casos de test
+para este tipo de estructuras trae aparejados un número de desafíos
+técnicos importantes, tales como la eliminación de estructuras
+isomorfas y la búsqueda de formas efectivas de exploración del espacio
+de casos de test, y la enumeración de los mismos.
+
+En esta charla discutiremos algunos de estos problemas en el contexto de
+algunas técnicas efectivas para la generación de casos de test para
+estructuras en memoria dinámica. Las técnicas abarcadas serán las
+basadas en búsqueda (backtracking), model checking y satisfactibilidad
+booleana, con cierto énfasis en la primera de éstas.
+
+Culminaremos la charla discutiendo algunos avances(*) conseguidos
+mediante estrategias de mejora en la generación de casos de test,
+guiando la misma con criterios de test.
+
+(*) Investigación conjunta con Marcelo Frias (ITBA, Buenos Aires) y
+Juan Pablo Galeotti (UBA).
