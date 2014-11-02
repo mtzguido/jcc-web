@@ -10,7 +10,9 @@
 
 	function render_authors_brief($talk) {
 		for ($i = 0; $i < count($talk['authors']); ++$i) {
-			if ($i != 0)
+			if ($i > 0 && $i == count($talk['authors']) - 1)
+				echo " y ";
+			else if ($i != 0)
 				echo ", ";
 
 			if ($talk['insts'][$i] == "" && $talk['links'][$i] == "") {
