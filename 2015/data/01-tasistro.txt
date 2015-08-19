@@ -1,0 +1,29 @@
+Author: Álvaro Tasistro
+Institution: Universidad ORT - Uruguay
+Link: http://www.ort.edu.uy/
+ID: 2015-tasistro
+Title: Sobre enseñanza de Matemática y Programación en una carrera de Ingeniería de Software.
+Abstract: <p>La intención es presentar y discutir propuestas y experiencias
+acerca de cursos fundamentales de Matemática y Programación en el contexto de
+carreras de Ingeniería de Software, así como sus premisas
+iniciales, de las cuales las principales son:</p>
+
+<ul>
+<li>Que la Ingeniería de Software se beneficiaría de la incorporación
+de una teoría que habilitara a los practicantes a razonar metódica
+y explícitamente sobre los programas; es decir, una matemática de
+los programas, en contraposición al tratamiento de éstos como "cajas
+negras". (Llamamos a esto "Programación como Matemática".)</li>
+
+<li>Que es interesante investigar el desarrollo de una Matemática
+cuyos objetos son datos y programas, siendo sus nociones básicas
+la de tipo de dato y algoritmo. (Llamamos a esto "Matemática como
+Programación".)</li>
+</ul>
+
+<p>Siendo que ninguna de esas dos ideas es enteramente novedosa,
+quizá lo sea su puesta en obra en el plano de la educación en cursos
+concretos basados en la Programación Funcional y la Matemática
+fundamentada en ella. Esta experiencia se pondrá a consideración en la
+charla.</p>
+
