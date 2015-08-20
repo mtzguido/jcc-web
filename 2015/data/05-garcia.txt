@@ -9,8 +9,9 @@ Abstract: <p>Hace ya varios años que el kernel Linux soporta
 arquitecturas sin MMU. En particular, el soporte para ARM cortex-M fue
 agregado oficialmente en 2013 y el soporte para NXP LPC43xx en 2015.</p>
 
-<p>Esta charla se divide en tres partes. En primer lugar, haremos un
-repaso de los componentes que permiten correr Linux en la CIAA.</p>
+<p>Esta charla se divide en tres partes. En primer lugar, haremos
+un repaso de los componentes que permiten correr Linux en la <a
+href="http://www.proyecto-ciaa.com.ar/">CIAA</a>.</p>
 
 <p>Luego, se analizarán las limitaciones que surgen de correr un
 sistema basado en Linux sobre una arquitectura sin MMU.</p>
