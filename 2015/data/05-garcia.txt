@@ -1,0 +1,19 @@
+Author: Ezequiel García
+Institution: VanguardiaSur
+ID: 2015-garcia
+Link: http://vanguardiasur.com.ar/
+Title: CIAA NXP: Alcances y limitaciones de un port basado en Buildroot/Linux
+Slides: 2015-garcia.pdf
+
+Abstract: <p>Hace ya varios años que el kernel Linux soporta
+arquitecturas sin MMU. En particular, el soporte para ARM cortex-M fue
+agregado oficialmente en 2013 y el soporte para NXP LPC43xx en 2015.</p>
+
+<p>Esta charla se divide en tres partes. En primer lugar, haremos un
+repaso de los componentes que permiten correr Linux en la CIAA.</p>
+
+<p>Luego, se analizarán las limitaciones que surgen de correr un
+sistema basado en Linux sobre una arquitectura sin MMU.</p>
+
+<p>Finalmente, relevaremos el estado actual del soporte, tanto del
+kernel como del stack en espacio de usuario.</p>
