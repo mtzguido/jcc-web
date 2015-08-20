@@ -1,0 +1,18 @@
+Author: Marcelo Frias
+Institution: FCEyN - UBA
+ID: 2015-frias
+Link: http://exactas.uba.ar/
+Title: Localización y Reparación Automática de Fallas
+
+Abstract: <p>En esta charla presentaré trabajo reciente sobre
+localización automática de fallas a partir de código con contratos,
+así como técnicas para la reparación automática de las mismas
+utilizando mutación de código. En la charla discutiré los fundamentos
+de las técnicas y presentaré demos de herramientas que las
+implementan. Presentaré también temas de trabajo dentro del grupo que
+pueden ser de interés para estudiantes que deseen continuar estudios de
+posgrado.</p>
+
+<p>Trabajo conjunto con Luciano Zemín, Santiago Bermúdez, Nazareno
+Aguirre, Simón Gutierrez Brida y Santiago Perez de Rosso.</p>
+
