@@ -1,7 +1,7 @@
 Author: Marcelo Frias
-Institution: FCEyN - UBA
+Institution: ITBA
 ID: 2015-frias
-Link: http://exactas.uba.ar/
+Link: http://itba.edu.ar/
 Title: Localización y Reparación Automática de Fallas
 
 Abstract: <p>En esta charla presentaré trabajo reciente sobre
