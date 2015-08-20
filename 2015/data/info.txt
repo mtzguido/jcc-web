@@ -1,0 +1,4 @@
+Year: 2015
+Name: JCC XIII
+LongName: XIII Jornadas de Ciencias de la Computación
+Date: 21, 22 y 23 de Octubre de 2015
