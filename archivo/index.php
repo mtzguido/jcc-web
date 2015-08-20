@@ -221,7 +221,8 @@
 <div id="body" class="row">
 	<div class="column unica" id="cont">
 		<?php
-			$years = scandir("../", SCANDIR_SORT_DESCENDING);
+			/* 1 is descending order */
+			$years = scandir("../", 1);
 			foreach ($years as $dir) {
 				if ($dir == '.' || $dir == '..')
 					continue;
