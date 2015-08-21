@@ -222,7 +222,7 @@
 			<div class="cont">
 				<h3>Contacto</h3>
 				<ul>
-					<li><strong>Dirección:</strong> Pellegrini 250 - Rosario, Santa Fe, Argentina <a target="_blank" href=http://goo.gl/YsiHGS>(mapa)</a></li>
+					<li><strong>Dirección:</strong> Pellegrini 250 - Rosario, Santa Fe, Argentina <a target="_blank" href=https://goo.gl/XNFsQ3>(mapa)</a></li>
 					<li><strong>Teléfono:</strong> 0341-48026 49 al 59 int 231 (de 8 a 14hs)</li>
 					<li><strong>Fax:</strong> 0341-4802654</li>
 					<li><strong>E-mail:</strong> <tt>jcc [@] fceia.unr.edu.ar</tt></li>
