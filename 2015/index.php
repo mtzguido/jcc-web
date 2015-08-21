@@ -166,7 +166,7 @@
 
 					if ($charla['slides'] != "") {
 						echo '<p>';
-						echo '<a href="slides/' . $charla['slides'] . '" >Slides</a>';
+						echo '<a href="slides/' . $charla['slides'] . '" ><b>Slides</b></a>';
 						echo '</p>';
 					}
 
