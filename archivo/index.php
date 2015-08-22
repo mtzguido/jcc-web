@@ -39,7 +39,7 @@
 		echo "</p>";
 	}
 
-	function makebox($talk) {
+	function makebox($talk, $year) {
 		echo '<div id="' . $talk['id'] . '" class="descr-charla">';
 		echo '<h3>' . $talk['title'] . '</h3>';
 		echo $talk['abstract'];
@@ -48,7 +48,7 @@
 
 		if ($talk['slides'] != "") {
 			echo '<p>';
-			echo '<a target=_blank href="slides/' . $talk['slides'] . '" >Slides</a>';
+			echo '<a target=_blank href="../' . $year . '/slides/' . $talk['slides'] . '" >Slides</a>';
 			echo '</p>';
 		}
 
@@ -83,7 +83,7 @@
 		return trim($matches[2]);
 	}
 
-	function setup($basedir, $info) {
+	function setup($basedir, $info, $year) {
 		global $talks;
 		$talks = array();
 		$talks_dir = scandir($basedir . "/data/");
@@ -145,7 +145,7 @@
 				$talks[$ID]['slides'] = $slides;
 				$talks[$ID]['video'] = $video;
 
-				makebox($talks[$ID]);
+				makebox($talks[$ID], $year);
 			}
 		}
 	}
@@ -238,7 +238,7 @@
 				$info['year'] = extract_attr($contents, "Year");
 				$info['name'] = extract_attr($contents, "Name");
 
-				setup("../" . $dir, $info);
+				setup("../" . $dir, $info, $info['year']);
 				render_info("../" . $dir, $info);
 			}
 		?>
