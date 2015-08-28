@@ -8,7 +8,7 @@ Title: Programación Competitiva
 Abstract: <p>La Programación Competitiva ha cobrado popularidad en los
 últimos años. Es una forma muy amena de profundizar en el uso y
 entendimiento de Estructuras de Datos y Algoritmos. El objetivo de la
-charla es iniciar a quién poco (o ningún) contacto a tenido con el tema,
+charla es iniciar a quién poco (o ningún) contacto ha tenido con el tema,
 y encauzar a quienes estén interesados a entrenar e incentivar la
 participación. Se introducirá el tipo de problemas que se trata y la
 metodología con la que se trabaja a la hora de entrenar algoritmia para
