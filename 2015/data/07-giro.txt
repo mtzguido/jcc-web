@@ -1,7 +1,7 @@
 Autor: Sergio Giro
 ID: 2015-giro
 Institution: Google
-Link: http://www.google.com.ar
+Link: http://www.google.com.ar/
 Title: Finding scalable solution for a worldwide audience
 
 Abstract: <p>Because of worldwide massive impact, Google engineers face
