@@ -187,7 +187,7 @@
 			<h2>Patrocinan</h2>
 			<table class="tabla-spons-auspic">
 				<tr>
-					<td><a target=_blank title="Google" href="http://www.google.com"><img src="logos/logo-google.png" width=350 /></a></td>
+					<td><a target=_blank title="Google" href="http://www.google.com"><img src="logos/logo-google.png" width=300 /></a></td>
 					<td><a target=_blank title="Fundación Sadosky" href="http://www.fundacionsadosky.org.ar/"><img src="logos/logo-sadosky.png" width=250 /></a></td>
 				</tr>
 			</table>
