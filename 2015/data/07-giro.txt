@@ -1,4 +1,4 @@
-Autor: Sergio Giro
+Author: Sergio Giro
 ID: 2015-giro
 Institution: Google
 Link: http://www.google.com.ar/
