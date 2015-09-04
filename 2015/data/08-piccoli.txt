@@ -1,0 +1,33 @@
+Author: María Fabiana Piccoli
+ID: 2015-piccoli
+Institution: FCFMyN - UNSL
+Link: http://www.dirinfo.unsl.edu.ar/
+Title: La Computación en Tiempos de Paralelismo
+
+Abstract: <p>El auge y popularidad de nuevas tecnologías y la constante
+demanda de rápidos resultados en las aplicaciones hizo imprescindible el
+estudio de nuevas técnicas y metodologías de programación, la computación
+paralela es una de ellas.</p>
+
+<p>Resolver un problema aplicando técnicas de computación paralela implica
+plantear una solución computacional donde varias unidades de procesamiento
+(hardware y software) trabajan cooperativamente y al mismo tiempo para
+obtener resultados más rápido que en la CPU o en un tiempo razonable.</p>
+
+<p>Varios aspectos deben ser considerados en una solución paralela,
+pudiendo existir varias o incluso ninguna, todo depende de la naturaleza
+del problema a resolver.</p>
+
+<p>Hoy en día, los recursos computacionales existentes nos ofrecen un
+ambiente apto para el desarrollo de computación paralela. Esto no se limita
+a las arquitecturas multi-core, sino también a otros distintos dispositivos.
+Un ejemplo de ello son las placas de video o co-procesadores gráficos (GPUs).
+Ellos constituyen una arquitectura paralela, de bajo costo y alto rendimiento,
+capaz de resolver problemas de propósito general aplicando técnicas
+paralelas.</p>
+
+<p>La presente charla tiene como objetivo exponer la necesidad de incluir
+técnicas paralelas en la soluciones computacionales de problemas de propósito
+general, mostrando que las GPUs constituyen una opción válida a la hora de
+pensar en arquitecturas paralelas de cómputo masivo. Finalmente resultados de
+su utilización son detallados.</p>
