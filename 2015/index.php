@@ -191,7 +191,8 @@
 					<td><a target=_blank title="Fundación Sadosky" href="http://www.fundacionsadosky.org.ar/"><img src="logos/logo-sadosky.png" width=250 /></a></td>
 				</tr>
 				<tr>
-					<td colspan=2><a target=_blank title="Brightsector" href="http://www.brightsector.com/"><img src="logos/logo-brightsector.png" width=300 /></a></td>
+					<td><a target=_blank title="Brightsector" href="http://www.brightsector.com/"><img src="logos/logo-brightsector.png" width=300 /></a></td>
+					<td><a target=_blank title="NeuralSoft" href="http://www.neuralsoft.com.ar"><img src="logos/logo-neuralsoft.png" width=350 /></a></td>
 				</tr>
 			</table>
 		</div>
