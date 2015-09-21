@@ -1,0 +1,15 @@
+Author: Beta Ziliani
+ID: 2015-ziliani
+Institution: FaMAF - UNC
+Link: http://liis.famaf.unc.edu.ar/
+Title: Introducción a la demostración interactiva de teoremas y a sus desafíos
+
+Abstract: <p>Los demostradores interactivos de teoremas (ITP, por sus
+siglas en inglés) son herramientas que nos permiten construir nuestras
+pruebas paso a paso, interactuando con el entorno para saber qué se
+debe demostrar en cada paso. Su utilidad ya no es discutida, como lo
+muestran las miles de pruebas verificadas en ITPs, en áreas tales como
+álgebra y verificación de sistemas. Sin embargo, no existe al día de
+hoy una cultura de su uso, tanto en la academia como en la industria. En
+esta charla se discutirá el estado del arte de los ITPs, haciendo foco
+en el ITP denominado Coq.</p>
