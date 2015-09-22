@@ -2,8 +2,7 @@ Author: Pablo Factorovich
 ID: 2015-sadosky
 Institution: Fundación Sadosky
 Link: http://www.fundacionsadosky.org.ar/
-Title: Ciencias dela Computación en la escuela Argentina. Últimos
-avances y desafíos pendientes.
+Title: Ciencias dela Computación en la escuela Argentina. Últimos avances y desafíos pendientes.
 
 
 Abstract: <p>La iniciativa interministerial Program.AR ha conseguido
