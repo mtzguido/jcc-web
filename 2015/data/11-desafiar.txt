@@ -6,5 +6,5 @@ Title: Historia Desafiar
 
 Abstract: <p>Desafiar es un juego de simulacion de negocios
 desarrollado por alumnos de la carrera. Busca inventar el espíritu
-emprendedor y capacitarlos en el camino. Se base en gamification, es
+emprendedor y capacitarlos en el camino. Se basa en gamification, es
 decir, que aprendan jugando.</p>
