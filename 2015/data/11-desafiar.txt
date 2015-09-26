@@ -1,0 +1,10 @@
+Author: Pellejero Nicolas, Baruffaldi Juan Manuel y Santiago Iwakawa
+ID: 2015-Desafiar
+Institution: FCEIA - UNR
+Link: http://www.desafiar.com.ar/
+Title: Historia Desafiar
+
+Abstract: <p>Desafiar es un juego de simulacion de negocios
+desarrollado por alumnos de la carrera. Busca inventar el espíritu
+emprendedor y capacitarlos en el camino. Se base en gamification, es
+decir, que aprendan jugando.</p>
