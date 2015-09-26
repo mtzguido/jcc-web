@@ -1,6 +1,6 @@
-Author: Pellejero Nicolas, Baruffaldi Juan Manuel y Santiago Iwakawa
+Author: Baruffaldi Juan Manuel y Santiago Iwakawa
 ID: 2015-Desafiar
-Institution: FCEIA - UNR
+Institution: DesafiAR
 Link: http://www.desafiar.com.ar/
 Title: Historia Desafiar
 

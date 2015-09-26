@@ -1,6 +1,6 @@
 Author: Pellejero Nicolas, Baruffaldi Juan Manuel y Santiago Iwakawa
 ID: 2015-Disruptive
-Institution: FCEIA - UNR
+Institution: Disruptive SCience
 Link: http://www.fundacity.com/disruptive-science/
 Title: Historia Disruptive SCience
 
