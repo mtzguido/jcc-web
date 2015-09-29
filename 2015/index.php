@@ -203,7 +203,7 @@
 			<h2>Auspiciantes</h2>
 			<table class="tabla-spons-auspic">
 				<tr>
-					<td><a target=_blank title="CIFASIS" href="http://www.cifasis-conicet.gov.ar/"><img src="logos/logo-cifasis-nuevo.png" height=120 /></a></td>
+					<td><a target=_blank title="CIFASIS" href="http://www.cifasis-conicet.gov.ar/"><img src="logos/logo-cifasis.png" height=120 /></a></td>
 					<td><a target=_blank title="Facultad de Ciencias Exactas, Ingeniería y Agrimensura" href="http://www.fceia.unr.edu.ar/"><img src="logos/logo-fceia.png" /></a></td>
 					<td><a target=_blank title="Universidad Nacional de Rosario" href="http://www.unr.edu.ar/"><img src="logos/unr.png" /></a></td>
 				</tr>
