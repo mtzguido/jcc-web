@@ -1,6 +1,7 @@
 Author: Alejandro Díaz-Caro
 Institution: UNQ
 Link: http://www.diaz-caro.info
+Video: https://www.youtube.com/watch?v=HKcnwZrs5L0
 
 ID: 2014-diazcaro
 Title: Lambda cálculo módulo isomorfismos de tipos

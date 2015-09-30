@@ -1,6 +1,7 @@
 Author: Gabriel Tolosa
 Institution: UNLU
 Link: http://www.tyr.unlu.edu.ar/tolosoft/
+Video: https://www.youtube.com/watch?v=a3mmvs1J3XQ
 
 ID: 2014-tolosa
 Title: Recuperación de Información de Gran Escala: Conceptos y algoritmos detrás de los motores de búsqueda web
