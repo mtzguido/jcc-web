@@ -230,7 +230,7 @@
 					<td colspan=3>Coffee Break</td>
 				</tr>
 				<tr class="altura-1h">
-					<td class="td_horarios">17:30 - 18:40</td>
+					<td class="td_horarios">17:30 - 18:30</td>
 					<td>¿Para qué estudiar Ciencias de la Computación?</td>
 					<td><?php tituloCharla("2015-dargenio") ?></td>
 					<td><?php tituloCharla("2015-garcia") ?></td>
