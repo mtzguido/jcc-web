@@ -3,6 +3,7 @@ ID: 2015-Disruptive
 Institution: Disruptive SCience
 Link: http://www.fundacity.com/disruptive-science/
 Title: Historia Disruptive SCience
+ShortTitle: Historia Disruptive SCience
 
 Abstract: <p>Emprendimiento que busca mejorar las relaciones de los
 clientes con las marcas por medio de la ciencia. Utiliza

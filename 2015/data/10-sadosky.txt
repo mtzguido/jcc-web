@@ -3,6 +3,7 @@ ID: 2015-sadosky
 Institution: Fundación Sadosky
 Link: http://www.fundacionsadosky.org.ar/
 Title: Ciencias de la Computación en la escuela Argentina: Últimos avances y desafíos pendientes
+ShortTitle: Ciencias de la Computación en la escuela Argentina
 
 Abstract: <p>La iniciativa interministerial Program.AR ha conseguido
 importantes avances en pos de la inclusión de contenidos de ciencias

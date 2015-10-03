@@ -3,6 +3,7 @@ ID: 2015-NeuralSoft
 Institution: NeuralSoft
 Link: http://www.neuralsoft.com.ar
 Title: Innovación tecnológica en NeuralSoft
+ShortTitle: Innovación tecnológica en NeuralSoft
 
 Abstract: <p>NeuralSoft, desde sus inicios, se ha caracterizado por la búsqueda de soluciones
 tecnológicas creativas e innovadoras que mejoren el modo de gestionar las empresas. </p>

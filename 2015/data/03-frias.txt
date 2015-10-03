@@ -3,6 +3,7 @@ Institution: ITBA
 ID: 2015-frias
 Link: http://itba.edu.ar/
 Title: Localización y Reparación Automática de Fallas
+ShortTitle: Localización y Reparación Automática de Fallas
 
 Abstract: <p>En esta charla presentaré trabajo reciente sobre
 localización automática de fallas a partir de código con contratos,

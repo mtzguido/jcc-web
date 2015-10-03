@@ -3,6 +3,7 @@ ID: 2015-giro
 Institution: Google
 Link: http://www.google.com.ar/
 Title: Finding scalable solution for a worldwide audience
+ShortTitle: Finding scalable solution for a worldwide audience
 
 Abstract: <p>Because of worldwide massive impact, Google engineers face
 unique engineering problems every day. As a smart community, once they

@@ -3,6 +3,7 @@ ID: 2015-piccoli
 Institution: FCFMyN - UNSL
 Link: http://www.dirinfo.unsl.edu.ar/
 Title: La Computación en Tiempos de Paralelismo
+ShortTitle: La Computación en Tiempos de Paralelismo
 
 Abstract: <p>El auge y popularidad de nuevas tecnologías y la constante
 demanda de rápidos resultados en las aplicaciones hizo imprescindible el

@@ -3,6 +3,7 @@ ID: 2015-acm
 Institution: FCEIA - UNR
 Link: http://www.fceia.unr.edu.ar/
 Title: Programación Competitiva
+ShortTitle: Programación Competitiva
 
 
 Abstract: <p>La Programación Competitiva ha cobrado popularidad en los

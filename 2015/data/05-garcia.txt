@@ -3,6 +3,7 @@ Institution: VanguardiaSur
 ID: 2015-garcia
 Link: http://vanguardiasur.com.ar/
 Title: CIAA NXP: Alcances y limitaciones de un port basado en Buildroot/Linux
+ShortTitle: CIAA NXP: Alcances y limitaciones de un port basado en Buildroot/Linux
 Slides: 2015-garcia.pdf
 
 Abstract: <p>Hace ya varios años que el kernel Linux soporta

@@ -3,6 +3,7 @@ ID: 2015-Desafiar
 Institution: DesafiAR
 Link: http://www.desafiar.com.ar/
 Title: Historia Desafiar
+ShortTitle: Historia Desafiar
 
 Abstract: <p>Desafiar es un juego de simulacion de negocios
 desarrollado por alumnos de la carrera. Busca inventar el espíritu

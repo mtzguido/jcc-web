@@ -131,8 +131,6 @@
 			año a año y constituye un logro significativo del cuerpo de docentes y de estudiantes de la
 			carrera Licenciatura en Ciencias de la Computación.</p>
 
-			<p>Próximamente estaremos publicando más información acerca de esta edición de las jornadas.</p>
-
 		</div>
 		<div class="cont">
 			<h2>Charlas confirmadas</h2>
@@ -176,11 +174,86 @@
 		?>
 		<div id="cena" class="descr-charla">
 			<h3>Cena de camaradería</h3>
-			<p>
-			<b>Lugar:</b> </p>
+			<p><b>Valor:</b> $160</p>
+			<p><b>Lugar:</b> Salón de Fiestas "Orión". 27 de Febrero 1228</p>
+			<p><b>Las entradas estarán a la venta hasta el día Lunes 19 de Octubre</b></p>
+			<p>Para consultas, contactarse con la organización: <tt>jcc [@] fceia.unr.edu.ar</tt></p>
+		</div>
+		<div id="diplomas" class="descr-charla">
+			<h3>Entrega de diplomas</h3>
+			<p>El Departamento de Ciencias de la Computación reconoce a aquellos alumnos que han completado el cursado de la Licenciatura en Ciencias de la Computación en el año 2015</p>
 		</div>
 		<div class="cont">
-
+			<h2>Cronograma</h2>
+			<table id="tabla_cronograma">
+				<tr>
+					<td class="td_horarios">&darr; Hora &nbsp; Día &rarr;</td><td>Miércoles</td><td>Jueves</td><td>Viernes</td>
+				</tr>
+				<tr class="altura-2h">
+					<td class="td_horarios">09:00 - 12:00</td>
+					<td></td>
+					<td colspan=2><?php tituloCharla("2015-acm") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">12:00 - 13:00</td>
+					<td></td>
+					<td colspan=2>Almuerzo</td>
+				</tr>
+				<tr class="altura-45m">
+					<td class="td_horarios">13:00 - 13:45</td>
+					<td></td>
+					<td rowspan=4 colspan=2><?php tituloCharla("2015-jano") ?></td>
+				</tr>
+				<tr></tr>
+				<tr class="altura-15m">
+					<td class="td_horarios">13:45 - 14:00</td>
+					<td>Acto de apertura</td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">14:00 - 15:00</td>
+					<td><?php tituloCharla("2015-sadosky") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">15:00 - 16:00</td>
+					<td><?php tituloCharla("2015-giro") ?></td>
+					<td><?php tituloCharla("2015-piccoli") ?></td>
+					<td><?php tituloCharla("2015-tasistro") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">16:00 - 17:00</td>
+					<td><?php tituloCharla("2015-NeuralSoft") ?></td>
+					<td><?php tituloCharla("2015-ziliani") ?></td>
+					<td><?php tituloCharla("2015-frias") ?></td>
+				</tr>
+				<tr class="altura-45m">
+					<td class="td_horarios">17:00 - 17:30</td>
+					<td colspan=3>Coffee Break</td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">17:30 - 18:40</td>
+					<td>¿Para qué estudiar Ciencias de la Computación?</td>
+					<td><?php tituloCharla("2015-dargenio") ?></td>
+					<td><?php tituloCharla("2015-garcia") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">18:30 - 19:30</td>
+					<td><?php tituloCharla("2015-Desafiar") ?> e <?php tituloCharla("2015-Disruptive") ?></td>
+					<td><?php tituloCharla("2015-paredes") ?></td>
+					<td><?php tituloCharla("2015-historia") ?></td>
+				</tr>
+				<tr class="altura-45m">
+					<td class="td_horarios">19:30 - 20:00</td>
+					<td></td>
+					<td></td>
+					<td><a href="#diplomas" class='facebox-frame'>Entrega de diplomas</a></td>
+				</tr>
+				<tr class="altura-2h">
+					<td class="td_horarios">21:00 - <span style="font-family: Verdana;">&infin;</span></td>
+					<td></td>
+					<td></td>
+					<td><a href="#cena" class='facebox-frame'>Cena de camaradería</a></td>
+				</tr>
+			</table>
 		</div>
 
 		<div class="cont">

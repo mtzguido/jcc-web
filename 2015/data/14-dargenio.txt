@@ -1,0 +1,8 @@
+Author: Pedro D'Argenio
+ID: 2015-dargenio
+Institution: FaMAF - UNC
+Link: http://www.cs.famaf.unc.edu.ar/~dargenio/
+Title: Análisis de resiliencia en sistemas embebidos
+ShortTitle: Análisis de resiliencia en sistemas embebidos
+
+Abstract: <p></p>
