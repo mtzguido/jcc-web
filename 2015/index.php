@@ -237,7 +237,7 @@
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">18:30 - 19:30</td>
-					<td><?php tituloCharla("2015-Desafiar") ?> e <?php tituloCharla("2015-Disruptive") ?></td>
+					<td><?php tituloCharla("2015-acm") ?>, <?php tituloCharla("2015-Desafiar") ?> e <?php tituloCharla("2015-Disruptive") ?></td>
 					<td><?php tituloCharla("2015-paredes") ?></td>
 					<td><?php tituloCharla("2015-kantor-degrati") ?></td>
 				</tr>
