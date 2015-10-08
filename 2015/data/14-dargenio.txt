@@ -25,13 +25,13 @@ simulación de eventos raros.  Debido a su generalidad, nosotros hemos
 escogido enfocarnos en las denominadas técnicas por división de
 importancia.  La efectividad de esta técnica radica precisamente en
 encontrar buenas funciones de importancias que reflejen adecuadamente
-la cercanía del evento raro.
+la cercanía del evento raro.</p>
 
-En esta charla explicaré la técnicas por división de importancia para
-simulación de eventos raros y nuestro trabajo actual en la derivación
-automática de funciones de importancia.
+<p>En esta charla explicaré la técnicas por división de importancia
+para simulación de eventos raros y nuestro trabajo actual en la
+derivación automática de funciones de importancia.</p>
 
-Completaré la charla con un breve resumen de nuestro grupo de
+<p>Completaré la charla con un breve resumen de nuestro grupo de
 investigación (http://dsg.famaf.unc.edu.ar) y de las actividades
 relacionadas a este proyecto específico de análisis de
 resiliencia.</p>
