@@ -231,7 +231,7 @@
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">17:30 - 18:30</td>
-					<td>¿Para qué estudiar Ciencias de la Computación?</td>
+					<td><?php tituloCharla("2015-ceresa-escarra")?></td>
 					<td><?php tituloCharla("2015-dargenio") ?></td>
 					<td><?php tituloCharla("2015-garcia") ?></td>
 				</tr>
