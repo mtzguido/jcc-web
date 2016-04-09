@@ -3,7 +3,6 @@ ID: 2015-ziliani
 Institution: FaMAF - UNC
 Link: http://liis.famaf.unc.edu.ar/
 Title: Introducción a la demostración interactiva de teoremas y a sus desafíos
-ShortTitle: Introducción a la demostración interactiva de teoremas y a sus desafíos
 
 Abstract: <p>Los demostradores interactivos de teoremas (ITP, por sus
 siglas en inglés) son herramientas que nos permiten construir nuestras

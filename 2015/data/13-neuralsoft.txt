@@ -3,21 +3,25 @@ ID: 2015-NeuralSoft
 Institution: NeuralSoft
 Link: http://www.neuralsoft.com.ar
 Title: Innovación tecnológica en NeuralSoft
-ShortTitle: Innovación tecnológica en NeuralSoft
 
-Abstract: <p>NeuralSoft, desde sus inicios, se ha caracterizado por la búsqueda de soluciones
-tecnológicas creativas e innovadoras que mejoren el modo de gestionar las empresas. </p>
-<p>Al cabo de 26 años de trayectoria, la empresa rosarina se ha convertido en la
-principal fábrica de software ERP del país y es pionera y líder en Cloud Computing. 
-Uno de sus principales logros ha sido acercar a las Pymes una tecnología de avanzada
-que hasta entonces sólo estaba disponible para grandes corporaciones.</p>
-<p>
-NeuralSoft invierte casi  el 20% de su facturación en Investigación y Desarrollo e
-incorpora mejoras tecnológicas continuas a sus productos.</p>
-<p>
-En permanente alianza con consultores y desarrolladores internacionales, hoy la
-empresa se prepara para la expansión global con el lanzamiento de una nueva
-plataforma tecnológica que tiene por objetivo generar un cambio en el paradigma
-clásico del software ERP para que el usuario pueda anticiparse a los posibles
-escenarios mediante técnicas de inteligencia artificial y simulación.
-Esto marcará un antes y un después en el modo de gestionar las empresas.</p>
+Abstract: <p>NeuralSoft, desde sus inicios, se ha caracterizado por
+la búsqueda de soluciones tecnológicas creativas e innovadoras que
+mejoren el modo de gestionar las empresas. </p>
+
+<p>Al cabo de 26 años de trayectoria, la empresa rosarina se ha
+convertido en la principal fábrica de software ERP del país y es
+pionera y líder en Cloud Computing. Uno de sus principales logros ha
+sido acercar a las Pymes una tecnología de avanzada que hasta entonces
+sólo estaba disponible para grandes corporaciones.</p>
+
+<p> NeuralSoft invierte casi el 20% de su facturación en Investigación
+y Desarrollo e incorpora mejoras tecnológicas continuas a sus
+productos.</p>
+
+<p> En permanente alianza con consultores y desarrolladores
+internacionales, hoy la empresa se prepara para la expansión global
+con el lanzamiento de una nueva plataforma tecnológica que tiene por
+objetivo generar un cambio en el paradigma clásico del software ERP
+para que el usuario pueda anticiparse a los posibles escenarios mediante
+técnicas de inteligencia artificial y simulación. Esto marcará un
+antes y un después en el modo de gestionar las empresas.</p>

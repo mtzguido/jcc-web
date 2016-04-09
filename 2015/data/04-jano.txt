@@ -3,7 +3,6 @@ Institution: UNQ
 ID: 2015-jano
 Link: http://www.unq.edu.ar/
 Title: Introducción a la computación cuántica
-ShortTitle: Introducción a la computación cuántica
 
 Abstract: <p>La computación cuántica es un paradigma de computación
 basado en la física cuántica. La idea es tomar la descripción de la
@@ -18,6 +17,6 @@ mini-curso de dos días se verá una introducción a la computación
 cuántica, así como algunos ejemplos de algoritmos y una aplicación a
 criptografía.</p>
 
-<p><a href="slides/2015-jano-1.pdf" ><b>Slides día 1</b></a></p>
-<p><a href="slides/2015-jano-2.pdf" ><b>Slides día 2</b></a></p>
-<p><a href="slides/2015-jano-apunte.pdf" ><b>Apunte del curso</b></a></p>
+<p><a href="slides/2015-jano-1.pdf"><b>Slides día 1</b></a></p>
+<p><a href="slides/2015-jano-2.pdf"><b>Slides día 2</b></a></p>
+<p><a href="slides/2015-jano-apunte.pdf"><b>Apunte del curso</b></a></p>

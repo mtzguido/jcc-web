@@ -1,18 +1,16 @@
-Author: Mariano Crosetti, Pablo Zimmermann y Martín Villagra
+Author: Mariano Crosetti, Pablo Zimmermann, Martín Villagra
 ID: 2015-acm
-Institution: FCEIA - UNR
-Link: http://www.fceia.unr.edu.ar/
+Institution: ,,FCEIA - UNR
+Link: ,,http://www.fceia.unr.edu.ar/
 Title: Programación Competitiva
-ShortTitle: Programación Competitiva
 
-
-Abstract: <p>La Programación Competitiva ha cobrado popularidad en los
-últimos años. Es una forma muy amena de profundizar en el uso y
+Abstract: <p>La Programación Competitiva ha cobrado popularidad en
+los últimos años. Es una forma muy amena de profundizar en el uso y
 entendimiento de Estructuras de Datos y Algoritmos. El objetivo de la
-charla es iniciar a quién poco (o ningún) contacto ha tenido con el tema,
-y encauzar a quienes estén interesados a entrenar e incentivar la
-participación. Se introducirá el tipo de problemas que se trata y la
-metodología con la que se trabaja a la hora de entrenar algoritmia para
-competencias. Además los invitaremos a mantenerse en contacto con nosotros
-y el resto de la comunidad de Argentina y Latinoamérica para entrenar en
-conjunto.</p>
+charla es iniciar a quién poco (o ningún) contacto ha tenido con el
+tema, y encauzar a quienes estén interesados a entrenar e incentivar
+la participación. Se introducirá el tipo de problemas que se trata y
+la metodología con la que se trabaja a la hora de entrenar algoritmia
+para competencias. Además los invitaremos a mantenerse en contacto con
+nosotros y el resto de la comunidad de Argentina y Latinoamérica para
+entrenar en conjunto.</p>

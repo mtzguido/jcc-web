@@ -3,29 +3,28 @@ ID: 2015-dargenio
 Institution: FaMAF - UNC
 Link: http://www.cs.famaf.unc.edu.ar/~dargenio/
 Title: Análisis de resiliencia en sistemas embebidos
-ShortTitle: Análisis de resiliencia en sistemas embebidos
 
 Abstract: <p>El estado actual de la tecnología demanda que los
 sistemas de computación brinden servicios en los que se pueda confiar
 justificadamente. En consecuencia, un sistema como estos debe tolerar
-la ocurrencia inesperada de fallas, ataques o accidentes mientras que
-su ejecución normal continúa respondiendo aceptablemente a parámetros
-de eficiencia, disponibilidad, confiabilidad, etc. y, obviamente, sin
-alterar su funcionamiento correcto.  La mayoría de los eventos que
-comprometen el funcionamiento del sistema, al igual que muchas de las
-actividades en sus componentes, pueden cuantificarse
-probabilisticamente, lo cual permite hacer un análisis cuantitativo
-del sistema compuesto.  En muchos casos las propiedades a analizar
-requieren un alto grado de resiliencia. Una propiedad típica es
-solicitar 99.999% de disponibilidad (“cinco nueves”). Lograr
-determinar propiedades cuya probabilidad de falla sea muy baja en
-sistemas complejos puede ser computacionalmente muy demandante.  Para
-este tipo de problemas se idearon técnicas específicas para la
-simulación de eventos raros.  Debido a su generalidad, nosotros hemos
-escogido enfocarnos en las denominadas técnicas por división de
-importancia.  La efectividad de esta técnica radica precisamente en
-encontrar buenas funciones de importancias que reflejen adecuadamente
-la cercanía del evento raro.</p>
+la ocurrencia inesperada de fallas, ataques o accidentes mientras
+que su ejecución normal continúa respondiendo aceptablemente a
+parámetros de eficiencia, disponibilidad, confiabilidad, etc. y,
+obviamente, sin alterar su funcionamiento correcto. La mayoría de los
+eventos que comprometen el funcionamiento del sistema, al igual que
+muchas de las actividades en sus componentes, pueden cuantificarse
+probabilisticamente, lo cual permite hacer un análisis cuantitativo del
+sistema compuesto. En muchos casos las propiedades a analizar requieren
+un alto grado de resiliencia. Una propiedad típica es solicitar 99.999%
+de disponibilidad (“cinco nueves”). Lograr determinar propiedades
+cuya probabilidad de falla sea muy baja en sistemas complejos puede
+ser computacionalmente muy demandante. Para este tipo de problemas se
+idearon técnicas específicas para la simulación de eventos raros.
+Debido a su generalidad, nosotros hemos escogido enfocarnos en las
+denominadas técnicas por división de importancia. La efectividad
+de esta técnica radica precisamente en encontrar buenas funciones
+de importancias que reflejen adecuadamente la cercanía del evento
+raro.</p>
 
 <p>En esta charla explicaré la técnicas por división de importancia
 para simulación de eventos raros y nuestro trabajo actual en la

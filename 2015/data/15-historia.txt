@@ -3,6 +3,8 @@ ID: 2015-kantor-degrati
 Institution: UNR
 Link: http://www.fceia.unr.edu.ar/lcc
 Title: Ciencias de la Computación en la UNR: 20 años
-ShortTitle: Ciencias de la Computación en la UNR: 20 años
 
-Abstract: <p>El Dr. Raúl Kantor, primer Director de la carrera, junto al Lic. Martín Degrati, primer egresado de la Licenciatura en Cs. de la Computación en Rosario, comentarán sobre la historia de la carrera en Rosario.</p>
+Abstract: <p>El Dr. Raúl Kantor, primer Director de la carrera, junto
+al Lic. Martín Degrati, primer egresado de la Licenciatura en Cs. de la
+Computación en Rosario, comentarán sobre la historia de la carrera en
+Rosario.</p>

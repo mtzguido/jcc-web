@@ -3,13 +3,12 @@ ID: 2015-giro
 Institution: Google
 Link: http://www.google.com.ar/
 Title: Finding scalable solution for a worldwide audience
-ShortTitle: Finding scalable solution for a worldwide audience
 
 Abstract: <p>Because of worldwide massive impact, Google engineers face
 unique engineering problems every day. As a smart community, once they
 find a solution to an oft-recurring challenge they build a tool as to
 avoid reinventing the wheel every time. Tools are improved over time,
-and extended in order to fit new cases, leading to a mighty tool shed. In
-this talk I'll highlight some of these challenges and explain what our tools
-do to solve it, giving you a glance of how we work in this
+and extended in order to fit new cases, leading to a mighty tool shed.
+In this talk I'll highlight some of these challenges and explain what
+our tools do to solve it, giving you a glance of how we work in this
 environment.</p>

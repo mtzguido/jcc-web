@@ -6,9 +6,9 @@ Title: Ciencias de la Computación en la escuela Argentina: Últimos avances y d
 ShortTitle: Ciencias de la Computación en la escuela Argentina
 
 Abstract: <p>La iniciativa interministerial Program.AR ha conseguido
-importantes avances en pos de la inclusión de contenidos de ciencias
-de la computación dentro de los contenidos obligatorios de las
-escuelas argentinas. En este charla comentaremos dichos progresos, los
-pasos que esta iniciativa encara para el futuro, así como la
-importancia de la comunidad académica de las Ciencias de la
-Computación en esta problemática.</p>
+importantes avances en pos de la inclusión de contenidos de ciencias de
+la computación dentro de los contenidos obligatorios de las escuelas
+argentinas. En este charla comentaremos dichos progresos, los pasos
+que esta iniciativa encara para el futuro, así como la importancia
+de la comunidad académica de las Ciencias de la Computación en esta
+problemática.</p>

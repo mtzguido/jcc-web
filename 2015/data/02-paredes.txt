@@ -3,7 +3,6 @@ ID: 2015-paredes
 Institution: FCEyN - UBA
 Link: http://exactas.uba.ar/
 Title: Cotas Inferiores de Complejidad e Ingeniería de Software
-ShortTitle: Cotas Inferiores de Complejidad e Ingeniería de Software
 
 Abstract: <p>Una cota inferior de complejidad permite afirmar que todos
 los algoritmos que resuelven un problema dado, tienen al menos una
