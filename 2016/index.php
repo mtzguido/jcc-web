@@ -91,7 +91,7 @@
 	</div>
 	<div class="column der">
 	<h1>XIV Jornadas de Ciencias de la Computación</h1>
-	<div class="fechalugar">21, 22 y 23 de Octubre de 2016 - Rosario, Santa Fe, Argentina</div>
+	<div class="fechalugar">19, 20 y 21 de Octubre de 2016 - Rosario, Santa Fe, Argentina</div>
 	</div>
 </div>
 
@@ -118,9 +118,8 @@
 			mismo tiempo que nos permite mantenernos actualizados sobre las tendencias en investigación
 			y desarrollo que se realizan en la región.</p>
 
-			<p>La edición 2016 de las JCC se llevará a cabo los días 21, 22 y 23 de Octubre en
-			la Facultad de Ciencias Exactas, Ingeniería y Agrimensura de Rosario, en
-			el horario de 10:00 a 20:00</p>
+			<p>La edición 2016 de las JCC se llevará a cabo los días 19, 20 y 21 de Octubre en
+			la Facultad de Ciencias Exactas, Ingeniería y Agrimensura de Rosario</p>
 
 			<p>Las JCC se llevaron a cabo por primera vez en noviembre del año 2000. Año tras año
 			han participado decenas de personas provenientes de empresas de desarrollo
