@@ -45,6 +45,9 @@
 		$abstract =	extract_attr_multiline($contents, "Abstract");
 
 		if ($ID != ""){
+			if ($shtitle == "")
+				$shtitle = $title;
+
 			$charlas[$ID]['author'] = $author;
 			$charlas[$ID]['id'] = $ID;
 			$charlas[$ID]['title'] = $title;
