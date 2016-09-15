@@ -184,6 +184,15 @@
 		</div>
 
 		<div class="cont">
+			<h2>Patrocinan</h2>
+			<table class="tabla-spons-auspic">
+				<tr>
+					<td><a target=_blank title="Lotería Sta Fe" href="http://www.loteriasantafe.gov.ar/"><img src="logos/logo-loteria-sta-fe-siempre-ganas.png" width=350 /></a></td>
+					<td><a target=_blank title="NeuralSoft" href="http://www.neuralsoft.com.ar"><img src="logos/logo-neuralsoft.png" width=350 /></a></td>
+				</tr>
+			</table>
+		</div>
+		<div class="cont">
 			<h2>Auspiciantes</h2>
 			<table class="tabla-spons-auspic">
 				<tr>
