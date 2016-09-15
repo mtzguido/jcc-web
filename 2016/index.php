@@ -134,7 +134,7 @@
 			carrera Licenciatura en Ciencias de la Computación.</p>
 
 		</div>
-		<!--<div class="cont">
+		<div class="cont">
 			<h2>Charlas confirmadas</h2>
 			<ul id="exposiciones">
 			<?php
@@ -149,7 +149,7 @@
 				}
 			?>
 			</ul>
-		</div>-->
+		</div>
 
 		<?php
 			foreach($charlas as $charla){

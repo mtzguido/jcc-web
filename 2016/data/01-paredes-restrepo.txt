@@ -1,0 +1,32 @@
+Author: Andrés Rojas Paredes y Jheison López Restrepo
+Institution: 
+Link: 
+ID: 2016-paredes-restrepo
+Title: Teoría de la complejidad y Heurísticas: Problema de optimización combinatoria QAP
+ShortTitle: Teoría de la complejidad y Heurísticas: Problema de optimización combinatoria QAP
+Abstract: <p>En esta charla presentamos un resumen de lo que sucede cuando afrontamos un
+problema computacional desde el estudio de su complejidad hasta el diseño
+de soluciones.</p>
+<p>Vamos a considerar como ejemplo un clásico
+problema de optimización
+combinatoria llamado QAP (ubicación de
+instalaciones sujeta a costos). Por
+un lado, veremos que se trata de un problema
+NP-Hard, es decir, no se
+conocen actualmente algoritmos exactos que
+sean eficientes. En este
+contexto, vamos a explicar una nueva técnica
+para demostrar que un problema
+es hard, en particular, esta técnica es lo
+ultimo en teoría de la
+complejidad ya que se puede aplicar a la
+programación orientada a objetos.</p>
+<p>Por otro lado, daremos un poco de
+esperanza a la complejidad de QAP por
+medio de nuevas técnicas heurísticas, es
+decir, sacrificamos lo exacto y
+adoptamos una solución aproximada. Estas
+nuevas técnicas podrían ser una
+buena alternativa para evitar la tremenda
+complejidad de los problemas
+NP-Hard.</p>
