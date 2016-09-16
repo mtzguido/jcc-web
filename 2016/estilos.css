@@ -85,12 +85,12 @@ body {
 }
 
 a {
-	color: #1eaf16; /*#ff8840;*/
+	color: #426AB2; /*#ff8840;*/
 	text-decoration:none;
 }
 
 a:hover {
-	color: #176711;
+	color: #2f4c80;
 }
 
 #header {
@@ -268,10 +268,10 @@ a:hover {
 	padding: 5px 10px 2px 10px;
 	border-radius: 1px 1px 0 0;
 	font-size: 18px;
-	background-color: #1eaf16;
-	border-bottom: 2px #1e8616 solid;
+	background-color: #426AB2;
+	border-bottom: 2px #2f4c80 solid;
 	color: #FFF;
-	text-shadow: 2px 2px #1e8616;
+	text-shadow: 2px 2px #2f4c80;
 }
 
 .descr-charla p {
