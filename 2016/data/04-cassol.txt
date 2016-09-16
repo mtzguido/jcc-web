@@ -1,0 +1,7 @@
+Author: Ignacio Cassol
+Institution: Universidad Austral
+Link: http://www.austral.edu.ar/
+ID: 2016-cassol
+Title: Refactorización de modelos estructurados de alto nivel a OO
+ShortTitle: Refactorización de modelos estructurados de alto nivel a OO
+Abstract: <p></p>

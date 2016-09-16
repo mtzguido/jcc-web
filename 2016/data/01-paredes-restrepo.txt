@@ -1,6 +1,6 @@
 Author: Andrés Rojas Paredes y Jheison López Restrepo
-Institution: 
-Link: 
+Institution: UNGS
+Link: http://www.ungs.edu.ar/
 ID: 2016-paredes-restrepo
 Title: Teoría de la complejidad y Heurísticas: Problema de optimización combinatoria QAP
 ShortTitle: Teoría de la complejidad y Heurísticas: Problema de optimización combinatoria QAP
