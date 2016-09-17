@@ -1,5 +1,5 @@
 Author: Carlos Areces
-Institution: FaMAD UNC
+Institution: FaMAF UNC
 Link: http://www.famaf.unc.edu.ar/
 ID: 2016-areces
 Title: Optimizando Dominios de Planning
