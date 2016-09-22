@@ -1,0 +1,38 @@
+Author: Lucas Uzal
+Institution: CIFASIS
+Link: http://www.cifasis-conicet.gov.ar/
+ID: 2016-uzal
+Title: Deep Learning en Machine Vision
+ShortTitle: Deep Learning en Machine Vision
+Abstract: <p>Las Redes Neuronales
+Convolucionales (Convolutional Neural
+Networks, CNNs) han desplazado a los métodos
+tradicionales de Machine
+Vision en muchas aplicaciones prácticas,
+gracias a los recientes avances en
+su diseño e implementación. Concretamente
+han logrado mejorar
+significativamente el desempeño sobre
+numerosas aplicaciones y en muchos
+casos resolver problemas completamente
+nuevos, fuera del alcance de las
+técnicas tradicionales. El éxito de las CNNs
+reside en que estos modelos
+multicapa aprenden de los datos los
+extractores de características
+necesarios para la resolución del problema
+en particular. La profundidad de
+estos modelos (es decir, el número de capas)
+permite capturar de una
+imagen, conceptos de creciente nivel de
+complejidad. De esta forma las CNNs
+son parte fundamental de lo que se conoce
+como Deep Learning. Esta nueva
+rama de Machine Learning se destaca por la
+velocidad con se que transfieren
+desarrollos producto de investigación básica
+hacia aplicaciones
+tecnológicas concretas. En esta charla
+introduciré algunos conceptos
+básicos de estas redes y mostraré sus
+aplicaciones más recientes.</p>
