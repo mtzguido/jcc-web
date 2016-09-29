@@ -1,7 +1,0 @@
-Author: Ariel Curiale y Daniel Fino
-Institution: FUESMEN
-Link: http://www.fuesmen.edu.ar/
-ID: 2016-curiale-fino
-Title: Desafíos computacionales en radiodiagnóstico por MR y MR/PET
-ShortTitle: Desafíos computacionales en radiodiagnóstico por MR y MR/PET
-Abstract: <p></p>
