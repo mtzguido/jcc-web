@@ -1,0 +1,27 @@
+Author: Carlos Luna
+Institution: Universidad de la República
+Link: http://www.universidad.edu.uy/
+ID: 2016-luna
+Title: Análisis formal de modelos de seguridad para plataformas de virtualización
+ShortTitle: Análisis formal de modelos de seguridad para plataformas de virtualización
+Abstract: <p>Los hipervisores permiten que
+múltiples sistemas operativos se ejecuten en
+un hardware compartido y ofrecen un medio
+para establecer mejoras de seguridad y
+flexibilidad de sistemas de software. En
+esta charla presentamos la formalización de
+un modelo de hipervisor y establecemos
+(formalmente) que el hipervisor asegura
+propiedades de aislamiento entre los
+diferentes sistemas operativos de la
+plataforma, y que las solicitudes de estos
+sistemas son atendidas siempre. Demostramos
+también que las plataformas virtualizadas
+son trasparentes, es decir, que un sistema
+operativo no puede distinguir si ejecuta
+sólo en la plataforma o si lo hace junto con
+otros sistemas operativos. 
+Finalmente, en la charla comentaremos
+trabajos en curso relacionados con el
+análisis (formal) de modelos de seguridad
+para dispositivos móviles Android.</p>
