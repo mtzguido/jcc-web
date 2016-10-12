@@ -1,5 +1,5 @@
 Author: Carlos Luna
-Institution: Universidad de la República
+Institution: URU
 Link: http://www.universidad.edu.uy/
 ID: 2016-luna
 Title: Análisis formal de modelos de seguridad para plataformas de virtualización
