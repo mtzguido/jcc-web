@@ -1,0 +1,26 @@
+Author: Uciel Pablo Chorostecki
+Institution: IBR
+Link: http://www.ibr-conicet.gov.ar/
+ID: 2016-chorostecki
+Title: La bioinformática como disciplina científica
+ShortTitle: La bioinformática como disciplina científica
+Abstract: <p>Las células han estado interpretando al genoma por millones de años y
+hoy en día secuenciar un genoma es relativamente simple y no muy
+costoso, por lo tanto “leerlo” no es un problema. El desafío actual es
+poder descifrarlo e interpretarlo. Además, existe una enorme cantidad de
+datos genómicos disponibles en la actualidad por lo que analizarlos sin
+métodos estadísticos y computacionales se torna imposible.</p>
+<p>Para resolver esta clase de problemas se utiliza la bioinformática, que
+es una ciencia interdisciplinaria que surge a partir de distintos campos
+como biología, química, física, matemática, estadística, inteligencia
+artificial y ciencias de la computación. Muchas veces se ve a esta rama
+de la ciencia solo como una herramienta de aplicación de técnicas
+matemáticas y algoritmos computacionales para resolver problemas
+biológicos y no como una disciplina científica per se.</p>
+<p>El objetivo de la charla es introducir al público sobre la
+Bioinformática y como contribuir a la resolución de problemas complejos
+en biología molecular. Completaré la charla con un breve resumen de
+nuestro grupo de investigación en el IBR (Instituto de Biología
+Molecular y Celular de Rosario) y mostraré ejemplos de como utilizar el
+cluster del CCT (Conicet – Rosario) para ejecutar tareas que requieren
+de gran capacidad computacional o grandes cantidades de memoria.</p>
