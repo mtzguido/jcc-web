@@ -187,6 +187,72 @@
 		</div>
 
 		<div class="cont">
+			<h2>Cronograma (a confirmar)</h2>
+			<table id="tabla_cronograma">
+				<tr>
+					<td class="td_horarios">&darr; Hora &nbsp; Día &rarr;</td><td>Miércoles</td><td>Jueves</td><td>Viernes</td>
+				</tr>
+				<tr class="altura-2h">
+					<td class="td_horarios">10:00 - 12:00</td>
+					<td></td>
+					<td colspan=2>Taller a confirmar<?php //tituloCharla("2016-crystal") ?></td>
+				</tr>
+				<tr class="altura-1h45">
+					<td class="td_horarios">12:00 - 13:40</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr></tr>
+				<tr class="altura-15m">
+					<td class="td_horarios">13:40 - 14:00</td>
+					<td>Acto de apertura</td>
+					<td colspan=2></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">14:00 - 15:00</td>
+					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><?php tituloCharla("2016-paredes-restrepo") ?></td>
+					<td><?php tituloCharla("2016-fino") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">15:00 - 16:00</td>
+					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><?php tituloCharla("2016-areces") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">16:00 - 17:00</td>
+					<td><?php tituloCharla("2016-altamura") ?></td>
+					<td colspan=2>Coffee Break</td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">17:00 - 18:00</td>
+					<td>Coffee Break</td>
+					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">18:00 - 19:00</td>
+					<td rowspan=2>Difusión<?php //tituloCharla("2015-ceresa-escarra")?></td>
+					<td><?php tituloCharla("2016-cassol") ?></td>
+					<td><?php tituloCharla("2016-luna") ?></td>
+				</tr>
+				<tr class="altura-1h">
+					<td class="td_horarios">19:00 - 20:00</td>
+					<td><?php tituloCharla("2016-uzal") ?></td>
+					<td><a href="#diplomas" class='facebox-frame'>Entrega de diplomas</a></td>
+				</tr>
+				<tr class="altura-2h">
+					<td class="td_horarios">21:00 - <span style="font-family: Verdana;">&infin;</span></td>
+					<td></td>
+					<td></td>
+					<td><a href="#cena" class='facebox-frame'>Cena de camaradería</a></td>
+				</tr>
+			</table>
+		</div>
+
+		<div class="cont">
 			<h2>Patrocinan</h2>
 			<table class="tabla-spons-auspic">
 				<tr>
