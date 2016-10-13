@@ -195,7 +195,7 @@
 				<tr class="altura-2h">
 					<td class="td_horarios">10:00 - 12:00</td>
 					<td></td>
-					<td colspan=2>Taller de Crystal<?php //tituloCharla("2016-crystal") ?></td>
+					<td colspan=2><?php tituloCharla("2016-edi") ?></td>
 				</tr>
 				<tr class="altura-1h45">
 					<td class="td_horarios">12:00 - 13:40</td>
