@@ -1,8 +1,9 @@
 Author: Carlos Luna
-Institution: URU
+Institution: UdelaR
 Link: http://www.universidad.edu.uy/
 ID: 2016-luna
-Title: Análisis formal de modelos de seguridad para plataformas de virtualización
+Title: Análisis formal de modelos de seguridad para sistemas críticos: plataformas de virtualización y dispositivos móviles.
+ShortTitle: Análisis formal de modelos de seguridad para sistemas críticos
 Abstract: <p>Los hipervisores permiten que múltiples sistemas
 operativos se ejecuten en un hardware compartido y ofrecen un medio para
 establecer mejoras de seguridad y flexibilidad de sistemas de software.
