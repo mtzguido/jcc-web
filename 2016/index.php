@@ -233,7 +233,7 @@
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">18:00 - 19:00</td>
-					<td rowspan=2>Difusión<?php //tituloCharla("2015-ceresa-escarra")?></td>
+					<td rowspan=2><?php tituloCharla("2016-ceresa")?></td>
 					<td><?php tituloCharla("2016-cassol") ?></td>
 					<td><?php tituloCharla("2016-luna") ?></td>
 				</tr>
