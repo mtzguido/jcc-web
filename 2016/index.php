@@ -199,15 +199,14 @@
 				</tr>
 				<tr class="altura-1h45">
 					<td class="td_horarios">12:00 - 13:40</td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td rowspan=3></td>
+					<td rowspan=2></td>
+					<td rowspan=3></td>
 				</tr>
 				<tr></tr>
 				<tr class="altura-15m">
 					<td class="td_horarios">13:40 - 14:00</td>
 					<td>Acto de apertura</td>
-					<td colspan=2></td>
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">14:00 - 15:00</td>
