@@ -195,7 +195,7 @@
 				<tr class="altura-2h">
 					<td class="td_horarios">10:00 - 12:00</td>
 					<td></td>
-					<td colspan=2>Taller a confirmar<?php //tituloCharla("2016-crystal") ?></td>
+					<td colspan=2>Taller de Crystal<?php //tituloCharla("2016-crystal") ?></td>
 				</tr>
 				<tr class="altura-1h45">
 					<td class="td_horarios">12:00 - 13:40</td>
@@ -229,7 +229,7 @@
 					<td class="td_horarios">17:00 - 18:00</td>
 					<td>Coffee Break</td>
 					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
-					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><?php tituloCharla("2016-chorostecki") ?></td>
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">18:00 - 19:00</td>
