@@ -176,8 +176,8 @@
 		?>
 		<div id="cena" class="descr-charla">
 			<h3>Cena de camaradería</h3>
-			<p><b>Valor:</b> A definir</p>
-			<p><b>Lugar:</b> A definir</p>
+			<p><b>Valor:</b> $250</p>
+			<p><b>Lugar:</b> Club Atlético Olegario Víctor Andrade (CAOVA). San Martín 4989. <a href="https://goo.gl/YgS5lm">(mapa)</a></p>
 			<!--<p><b>Las entradas estarán a la venta hasta el día Lunes 19 de Octubre</b></p>-->
 			<p>Para consultas, contactarse con la organización: <tt>jcc [@] fceia.unr.edu.ar</tt></p>
 		</div>
