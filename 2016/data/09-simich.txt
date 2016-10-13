@@ -3,8 +3,8 @@ Institution: FCEIA - UNR
 Link: http://www.fceia.unr.edu.ar/
 ID: 2016-simich
 Title: Construyendo tipos de datos con containers
-ShortTitle: Construyendo tipos de datos con containers Abstract:
-<p>Muchos de los tipos de datos más utilizados comparten la
+ShortTitle: Construyendo tipos de datos con containers
+Abstract: <p>Muchos de los tipos de datos más utilizados comparten la
 característica de poder ser pensados como una serie de esqueletos, o
 plantillas, para contener otros datos. Las listas, los árboles, los
 streams, son ejemplos de tipos de datos de esta clase. Esta propiedad
