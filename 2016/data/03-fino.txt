@@ -3,26 +3,16 @@ Institution: FUESMEN
 Link: http://www.fuesmen.edu.ar/
 ID: 2016-fino
 Title: Desafíos computacionales en radiodiagnóstico por MR y MR/PET
-ShortTitle: Desafíos computacionales en radiodiagnóstico por MR y MR/PET
-Abstract: <p>La especialidad médica de
-Diagnóstico por Imágenes es una de las áreas
-con mayor desarrollo en el posprocesamiento
-de imágenes tomográficas las cuales
-combinan técnicas estructurales, funcionales
-y moleculares para abarcar una
-caracterización tisular no invasiva que no
-se puede lograr con algún otra
-modalidad de diagnóstico. En la presente
-charla se abordarán los aportes, retos y
-problemáticas que actualmente existen en la
-técnica híbrida más
-avanzada en Diagnóstico por Imágenes: el
-PET/MR. La CNEA adquirió uno de los dos
-únicos equipos que se han instalado en
-latinoamérica/hemisferio sur
-que fue instalado en FUESMEN, con esta
-escáner se ha logrado una adquisición
-simultánea de dos de las grandes disciplinas
-que se utilizan en
-Radiología y que permiten el diagnóstico de
-un gran abanico de enfermedades.</p>
+Abstract: <p>La especialidad médica de Diagnóstico por Imágenes
+es una de las áreas con mayor desarrollo en el posprocesamiento de
+imágenes tomográficas las cuales combinan técnicas estructurales,
+funcionales y moleculares para abarcar una caracterización tisular
+no invasiva que no se puede lograr con algún otra modalidad de
+diagnóstico. En la presente charla se abordarán los aportes, retos
+y problemáticas que actualmente existen en la técnica híbrida
+más avanzada en Diagnóstico por Imágenes: el PET/MR. La CNEA
+adquirió uno de los dos únicos equipos que se han instalado en
+latinoamérica/hemisferio sur que fue instalado en FUESMEN, con esta
+escáner se ha logrado una adquisición simultánea de dos de las
+grandes disciplinas que se utilizan en Radiología y que permiten el
+diagnóstico de un gran abanico de enfermedades.</p>

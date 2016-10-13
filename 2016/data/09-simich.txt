@@ -3,18 +3,19 @@ Institution: FCEIA - UNR
 Link: http://www.fceia.unr.edu.ar/
 ID: 2016-simich
 Title: Construyendo tipos de datos con containers
-ShortTitle: Construyendo tipos de datos con containers
-Abstract: <p>Muchos de los tipos de datos más utilizados comparten la
+ShortTitle: Construyendo tipos de datos con containers Abstract:
+<p>Muchos de los tipos de datos más utilizados comparten la
 característica de poder ser pensados como una serie de esqueletos, o
 plantillas, para contener otros datos. Las listas, los árboles, los
-streams, son ejemplos de tipos de datos de esta clase. Esta propiedad que
-los integra permite analizarlos de forma segregada: por una lado se
-encuentra su estructura y por otro la información a almacenar. Los
+streams, son ejemplos de tipos de datos de esta clase. Esta propiedad
+que los integra permite analizarlos de forma segregada: por una lado
+se encuentra su estructura y por otro la información a almacenar. Los
 containers se presentan como una buena alternativa de representación de
 esta clase de constructores de tipos, explotando esta potencialidad de
-separar estructura de contenido y proveyendo la posibilidad de estudiar la
-estructura de forma aislada.</p>
-<p>En esta charla introduciré a los containers como una forma alternativa de
-describir constructores de tipos de datos, a partir de ejemplos en
-lenguaje de programación Agda. Luego mostraré cómo representan a los
-funtores polinomiales.</p>
+separar estructura de contenido y proveyendo la posibilidad de estudiar
+la estructura de forma aislada.</p>
+
+<p>En esta charla introduciré a los containers como una forma
+alternativa de describir constructores de tipos de datos, a partir
+de ejemplos en lenguaje de programación Agda. Luego mostraré cómo
+representan a los funtores polinomiales.</p>

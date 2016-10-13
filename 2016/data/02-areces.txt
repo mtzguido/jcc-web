@@ -3,24 +3,16 @@ Institution: FaMAF UNC
 Link: http://www.famaf.unc.edu.ar/
 ID: 2016-areces
 Title: Optimizando Dominios de Planning
-ShortTitle: Optimizando Dominios de Planning
-Abstract: <p>El área de planing es una de
-las más clásicas dentro de la Inteligencia
-Artificial.  Un plan es una secuencia de
-acciones elegidas de un dominio dado que
-permiten a un agente transformar un estado
-inicial en un estado final indicado como
-meta.  Existen en la actualidad, distintos
-lenguajes de especificación de problemas de
-planing y se han desarrollado herramientas
-que implementan heuristicas que pueden
-resolver problemas de gran tamaño.    En
-esta charla introduciré primero el problema
-de planning mediante ejemplos, y mostraré
-los lenguajes utilizados para la
-especificación de problemas.   Describiré
-despues nuestro trabajo en optimización de
-dominios de planning, que intenta, dado un
-dominio D, obtener un dominio D'
-equivalente, pero con mejores propiedades
-computacionales.</p>
+
+Abstract: <p>El área de planing es una de las más clásicas dentro
+de la Inteligencia Artificial. Un plan es una secuencia de acciones
+elegidas de un dominio dado que permiten a un agente transformar un
+estado inicial en un estado final indicado como meta. Existen en la
+actualidad, distintos lenguajes de especificación de problemas de
+planing y se han desarrollado herramientas que implementan heuristicas
+que pueden resolver problemas de gran tamaño. En esta charla
+introduciré primero el problema de planning mediante ejemplos, y
+mostraré los lenguajes utilizados para la especificación de problemas.
+Describiré despues nuestro trabajo en optimización de dominios
+de planning, que intenta, dado un dominio D, obtener un dominio D'
+equivalente, pero con mejores propiedades computacionales.</p>

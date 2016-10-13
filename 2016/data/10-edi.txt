@@ -4,12 +4,15 @@ Link: https://manas.tech/
 ID: 2016-edi
 Title: Introducción a Crystal: creando programas eficientes sin resignar simplicidad
 ShortTitle: Taller: Introducción a Crystal
-Abstract: <p>Crystal es un lenguaje de programación desarrollado en Argentina que prioriza la
-experiencia de usuario del programador, evitando los problemas de performance
-usualmente asociados a otros lenguajes de alto nivel utilizados en la industria,
-como Ruby o Python.</p>
-<p>Además de introducir varias de las características distintivas del lenguaje (su
-sintaxis liviana, sistema de tipos y generación de código nativo, entre otras),
-el objetivo de este taller es permitir a los asistentes tener un primer contacto
-con el lenguaje, resolviendo ejercicios prácticos y sentando las bases para
-contribuir herramientas a esta comunidad.</p>
+Abstract: <p>Crystal es un lenguaje de programación desarrollado en
+Argentina que prioriza la experiencia de usuario del programador,
+evitando los problemas de performance usualmente asociados a otros
+lenguajes de alto nivel utilizados en la industria, como Ruby o
+Python.</p>
+
+<p>Además de introducir varias de las características distintivas
+del lenguaje (su sintaxis liviana, sistema de tipos y generación de
+código nativo, entre otras), el objetivo de este taller es permitir a
+los asistentes tener un primer contacto con el lenguaje, resolviendo
+ejercicios prácticos y sentando las bases para contribuir herramientas
+a esta comunidad.</p>

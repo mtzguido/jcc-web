@@ -3,22 +3,13 @@ Institution: Universidad Austral
 Link: http://www.austral.edu.ar/
 ID: 2016-cassol
 Title: Refactorización de modelos estructurados de alto nivel a OO
-ShortTitle: Refactorización de modelos estructurados de alto nivel a OO
-Abstract: <p>En el ámbito de la Ingeniería
-del Software la gestión de código heredado
-estructurado es un ámbito de trabajo que,
-con el paso del tiempo,
-va teniendo más relevancia. Para facilitar
-la comprensión y el mantenimiento de este
-tipo de sistemas, se ofrece una metodología
-que
-permite hacer una migración de modelos. Este
-trabajo muestra el resultado de una
-investigación que define un conjunto de
-refactorings que se aplican
-a un modelo de alto nivel estructurado para
-generar un modelo de datos mejorado OO. Se
-presentarán casos de estudios y resultados,
-con una
-propuesta de métricas para hacer una
-evaluación objetiva.</p>
+Abstract: <p>En el ámbito de la Ingeniería del Software la gestión de
+código heredado estructurado es un ámbito de trabajo que, con el paso
+del tiempo, va teniendo más relevancia. Para facilitar la comprensión
+y el mantenimiento de este tipo de sistemas, se ofrece una metodología
+que permite hacer una migración de modelos. Este trabajo muestra el
+resultado de una investigación que define un conjunto de refactorings
+que se aplican a un modelo de alto nivel estructurado para generar
+un modelo de datos mejorado OO. Se presentarán casos de estudios y
+resultados, con una propuesta de métricas para hacer una evaluación
+objetiva.</p>

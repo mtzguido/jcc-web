@@ -3,33 +3,20 @@ Institution: NeuralSoft
 Link: https://www.neuralsoft.com/
 ID: 2016-altamura
 Title: La Inteligencia Artificial aplicada a la gestión de las organizaciones
-ShortTitle: La Inteligencia Artificial aplicada a la gestión de las organizaciones
-Abstract: <p>La necesidad de tomar buenas
-decisiones es el motivo principal que nos
-moviliza a desarrollar sistemas de
-información que puedan abordar con mayor
-inteligencia la complejidad creciente de los
-modelos de negocios.
-El contexto actual requiere de
-organizaciones más inteligentes. Los errores
-que hasta hace un tiempo los clientes
-dejaban pasar, hoy son simplemente
-inaceptables. Se necesita tomar decisiones
-cada vez más rápidas e inteligentes, y
-hacerlo con un nivel de personalización muy
-alto en relación al cliente.
-La buena noticia es que hoy contamos con
-gran capacidad de cómputo y almacenamiento,
-y las nuevas técnicas de inteligencia
-artificial pueden hacer mucho por nosotros.
-Pero ¿cómo organizamos todos estos recursos
-para lograr aumentar la calidad de nuestras
-decisiones sin un proyecto largo y costoso
-de data mining?
-En esta charla expondremos la manera en que
-el equipo de innovación tecnológica de
-NeuralSoft entiende la forma en la que estos
-recursos deben ser integrados. Explicaremos
-cómo convertir el análisis inteligente de
-los datos en una cuestión cotidiana que
+Abstract: <p>La necesidad de tomar buenas decisiones es el motivo
+principal que nos moviliza a desarrollar sistemas de información que
+puedan abordar con mayor inteligencia la complejidad creciente de los
+modelos de negocios. El contexto actual requiere de organizaciones
+más inteligentes. Los errores que hasta hace un tiempo los clientes
+dejaban pasar, hoy son simplemente inaceptables. Se necesita tomar
+decisiones cada vez más rápidas e inteligentes, y hacerlo con un nivel
+de personalización muy alto en relación al cliente. La buena noticia
+es que hoy contamos con gran capacidad de cómputo y almacenamiento, y
+las nuevas técnicas de inteligencia artificial pueden hacer mucho por
+nosotros. Pero ¿cómo organizamos todos estos recursos para lograr
+aumentar la calidad de nuestras decisiones sin un proyecto largo y
+costoso de data mining? En esta charla expondremos la manera en que el
+equipo de innovación tecnológica de NeuralSoft entiende la forma en la
+que estos recursos deben ser integrados. Explicaremos cómo convertir
+el análisis inteligente de los datos en una cuestión cotidiana que
 impacta en toda la organización.</p>
