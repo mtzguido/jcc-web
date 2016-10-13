@@ -70,7 +70,7 @@
 <link rel="shortcut icon" href="favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 <!-- lighbox -->
 <script src="lightbox.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -105,7 +105,7 @@
 				
 			</div>
 			<div id="botones" class="column der">
-				<a href="http://fb.com/jccfceia" target="_blank" title="Facebook de las JCC" class="fb">Facebook</a><a href="https://plus.google.com/112531481325644410892" rel="publisher" class="goog">Google+</a><a href="https://www.youtube.com/channel/UC-CReVEx4-3AfJOH1Tr-udw" class="yt">You<span style="color:red">Tube</span></a>
+				<a href="https://fb.com/jccfceia" target="_blank" title="Facebook de las JCC" class="fb">Facebook</a><a href="https://plus.google.com/112531481325644410892" rel="publisher" class="goog">Google+</a><a href="https://www.youtube.com/channel/UC-CReVEx4-3AfJOH1Tr-udw" class="yt">You<span style="color:red">Tube</span></a>
 			</div>
 		</div>
 
@@ -256,7 +256,7 @@
 			<table class="tabla-spons-auspic">
 				<tr>
 					<td><a target=_blank title="Lotería Sta Fe" href="http://www.loteriasantafe.gov.ar/"><img src="logos/logo-loteria-sta-fe-siempre-ganas.png" width=350 /></a></td>
-					<td><a target=_blank title="NeuralSoft" href="http://www.neuralsoft.com.ar"><img src="logos/logo-neuralsoft.png" width=350 /></a></td>
+					<td><a target=_blank title="NeuralSoft" href="https://www.neuralsoft.com/"><img src="logos/logo-neuralsoft.png" width=350 /></a></td>
 				</tr>
 			</table>
 		</div>
