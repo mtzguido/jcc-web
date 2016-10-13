@@ -1,4 +1,5 @@
-Author: Charla de difusión: Elige tu propia LCC
+Author: Martín Ceresa
+Title: Charla de difusión: Elige tu propia LCC
 Institution: DCC - FCEIA - UNR
 Link: http://dcc.fceia.unr.edu.ar/
 ID: 2016-ceresa
