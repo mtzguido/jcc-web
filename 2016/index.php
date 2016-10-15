@@ -202,7 +202,7 @@
 						</a></b>
 					</td>
 				</tr>
-				<tr class="altura-1h45">
+				<tr class="altura-1h">
 					<td class="td_horarios">12:30 - 13:40</td>
 					<td rowspan=3></td>
 					<td rowspan=2></td>
