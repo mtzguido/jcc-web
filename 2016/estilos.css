@@ -219,6 +219,7 @@ a:hover {
 #tabla_cronograma tr.altura-2 { height: 60px }
 
 #tabla_cronograma tr.altura-15m { height: 20px }
+#tabla_cronograma tr.altura-30m { height: 25px }
 #tabla_cronograma tr.altura-45m { height: 30px }
 #tabla_cronograma tr.altura-1h { height: 50px }
 #tabla_cronograma tr.altura-1h45 { height: 80px }

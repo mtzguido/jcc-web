@@ -230,11 +230,16 @@
 					<td><?php tituloCharla("2016-altamura") ?></td>
 					<td colspan=2>Coffee Break</td>
 				</tr>
-				<tr class="altura-1h">
-					<td class="td_horarios">17:00 - 18:00</td>
-					<td>Coffee Break</td>
+				<tr class="altura-30m">
+					<td class="td_horarios">17:00 - 17:30</td>
+					<td rowspan=3>Coffee Break</td>
+					<td rowspan=2><?php tituloCharla("2016-pilotti") ?></td>
+					<td rowspan=3><?php tituloCharla("2016-chorostecki") ?></td>
+				</tr>
+				<tr></tr>
+				<tr class="altura-30m">
+					<td class="td_horarios">17:30 - 18:00</td>
 					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
-					<td><?php tituloCharla("2016-chorostecki") ?></td>
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">18:00 - 19:00</td>

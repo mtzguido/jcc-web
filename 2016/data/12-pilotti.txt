@@ -1,0 +1,22 @@
+Author: Pablo Pilotti
+Title: Sobre Negociación Automática
+Institution: CIFASIS
+Link: http://www.cifasis-conicet.gov.ar/
+ID: 2016-pilotti
+Abstract: <p>Es notable el crecimiento de la cantidad de aparatos
+electrónicos que la sociedad usa día a día. Dependiendo del tipo de
+tarea que estos realizan podrían no necesitar interactuar con otros
+dispositivos (por ejemplo cuando un reloj pulsera intenta calcular las
+calorías quemadas del usuario). En cambio, en otros tipos de tareas los
+dispositivos sí podrían necesitar interactuar con sus pares para poder
+llevar a cabo su objetivo o bien optimizar su trabajo, como por ejemplo
+dos robots que deben intercambiar sus herramientas para cumplir con sus
+metas o dos aspiradoras automáticas que se encuentran en una habitación
+y encuentran conveniente dividirse las regiones del suelo para limpiar.</p>
+<p>La negociación es un mecanismo que se utiliza para resolver disputas,
+tiene como propósito principal alcanzar un acuerdo y particularmente
+alcanzarlo en presencia de conflicto de intereses y preferencias. En la
+literatura generalmente se usan tres herramientas para enfrentar un
+problema de negociación automática: teoría de juegos, heurísticas y
+argumentación. En esta charla se hablará sobre estas herramientas
+aplicadas a la negociación automática.</p>
