@@ -4,6 +4,8 @@ Institution: DCC - FCEIA - UNR
 Link: http://dcc.fceia.unr.edu.ar/
 ID: 2016-ceresa
 Title: Charla de difusión: Elige tu propia LCC
-ShortTitle: Charla de difusión: Elige tu propia LCC
-Abstract: <p>Charla de difusión para ingresantes. Se presentará
-la carrera y habrá una muestra de trabajos prácticos.</p>
+Abstract: <p>Charla de difusión de la carrera. Se hablará de las
+diferentes materias y haremos un recorrido a través de toda la carrera
+con el objetivo de introducir a posibles estudiantes y motivar a los
+estudiantes de los primeros años. Sobre el final se expondrán trabajos
+prácticos realizados por los estudiantes.</p>
