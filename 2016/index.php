@@ -193,12 +193,17 @@
 					<td class="td_horarios">&darr; Hora &nbsp; Día &rarr;</td><td>Miércoles</td><td>Jueves</td><td>Viernes</td>
 				</tr>
 				<tr class="altura-2h">
-					<td class="td_horarios">10:00 - 12:00</td>
+					<td class="td_horarios">10:30 - 12:30</td>
 					<td></td>
-					<td colspan=2><?php tituloCharla("2016-edi") ?></td>
+					<td colspan=2>
+						<?php tituloCharla("2016-edi") ?> <br>
+						<b><a href="https://goo.gl/forms/tyYfx4dfYnOMmHYb2" target="_blank">
+							Reservá tu cupo acá!
+						</a></b>
+					</td>
 				</tr>
 				<tr class="altura-1h45">
-					<td class="td_horarios">12:00 - 13:40</td>
+					<td class="td_horarios">12:30 - 13:40</td>
 					<td rowspan=3></td>
 					<td rowspan=2></td>
 					<td rowspan=3></td>
