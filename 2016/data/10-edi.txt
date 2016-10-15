@@ -16,3 +16,5 @@ código nativo, entre otras), el objetivo de este taller es permitir a
 los asistentes tener un primer contacto con el lenguaje, resolviendo
 ejercicios prácticos y sentando las bases para contribuir herramientas
 a esta comunidad.</p>
+<p><b>Jueves 20:</b> Laboratorio de Básicas<br>
+<b>Viernes 21:</b> Laboratorio del 2do piso</p>
