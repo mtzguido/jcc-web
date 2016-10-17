@@ -15,7 +15,7 @@ esta clase de constructores de tipos, explotando esta potencialidad de
 separar estructura de contenido y proveyendo la posibilidad de estudiar
 la estructura de forma aislada.</p>
 
-<p>En esta charla introduciré a los containers como una forma
-alternativa de describir constructores de tipos de datos, a partir
-de ejemplos en lenguaje de programación Agda. Luego mostraré cómo
-representan a los funtores polinomiales.</p>
+<p>En esta charla introduciré a los containers como una forma alternativa de
+describir constructores de tipos de datos, a partir de ejemplos en
+lenguaje de programación Agda. Mostraré su utilidad a la hora de
+programar genéricamente.</p>
