@@ -1,0 +1,18 @@
+Author: Federico Bergero
+Title: Un compilador para grandes modelos Modelica
+Institution: CIFASIS
+Link: http://www.cifasis-conicet.gov.ar/
+ID: 2016-bergero
+Abstract: <p>Modelica es un lenguaje de modelado orientado a objetos
+para describir sistemas dinámicos, con capacidad para representar
+sistemas híbridos (combinación de ecuaciones diferenciales con eventos
+discretos). Con el creciente poder computacional disponible, los modelos
+matemáticos de fenómenos físicos fueron creciendo en complejidad y
+tamaño. Esto impone nuevos problemas en las herramientas haciendo muchas
+veces imposible la simulación del modelo descripto.</p>
+<p>En esta charla comentaremos nuevos resultados concernientes al
+proceso de compilación de sistemas dinámicos de gran escala con
+Modelica. Haremos foco en las transformaciones necesarias en el
+procesamiento del modelo y su adaptación para tratar modelos grandes.
+Presentaremos también la herramienta ModelicaCC y las tecnologías
+utilizadas para su desarrollo.</p>

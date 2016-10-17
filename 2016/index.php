@@ -239,7 +239,7 @@
 				<tr></tr>
 				<tr class="altura-30m">
 					<td class="td_horarios">17:30 - 18:00</td>
-					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><?php tituloCharla("2016-bergero") ?></td>
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">18:00 - 19:00</td>
