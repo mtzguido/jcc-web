@@ -215,13 +215,13 @@
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">14:00 - 15:00</td>
-					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><!--A confirmar<?php //tituloCharla("2015-sadosky") ?>--></td>
 					<td><?php tituloCharla("2016-paredes-restrepo") ?></td>
 					<td><?php tituloCharla("2016-fino") ?></td>
 				</tr>
 				<tr class="altura-1h">
 					<td class="td_horarios">15:00 - 16:00</td>
-					<td>A confirmar<?php //tituloCharla("2015-sadosky") ?></td>
+					<td><!--A confirmar<?php //tituloCharla("2015-sadosky") ?>--></td>
 					<td><?php tituloCharla("2016-simich") ?></td>
 					<td><?php tituloCharla("2016-areces") ?></td>
 				</tr>
