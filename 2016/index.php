@@ -187,7 +187,7 @@
 		</div>
 
 		<div class="cont">
-			<h2>Cronograma (a confirmar)</h2>
+			<h2>Cronograma</h2>
 			<table id="tabla_cronograma">
 				<tr>
 					<td class="td_horarios">&darr; Hora &nbsp; Día &rarr;</td><td>Miércoles</td><td>Jueves</td><td>Viernes</td>
