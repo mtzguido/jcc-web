@@ -4,6 +4,7 @@ Link: http://www.ungs.edu.ar/
 ID: 2016-paredes-restrepo
 Title: Teoría de la complejidad y Heurísticas: Problema de optimización combinatoria QAP
 ShortTitle: Teoría de la complejidad y Heurísticas
+Slides: 2016-paredes-restrepo.pdf
 
 Abstract: <p>En esta charla presentamos un resumen de lo que sucede
 cuando afrontamos un problema computacional desde el estudio de su
