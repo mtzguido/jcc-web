@@ -196,10 +196,10 @@
 					<td class="td_horarios">10:30 - 12:30</td>
 					<td></td>
 					<td colspan=2>
-						<?php tituloCharla("2016-edi") ?> <br>
+						<?php tituloCharla("2016-edi") ?> <!--<br>
 						<b><a href="https://goo.gl/forms/tyYfx4dfYnOMmHYb2" target="_blank">
 							Reservá tu cupo acá!
-						</a></b>
+						</a></b>-->
 					</td>
 				</tr>
 				<tr class="altura-1h">

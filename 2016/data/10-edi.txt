@@ -18,3 +18,6 @@ ejercicios prácticos y sentando las bases para contribuir herramientas
 a esta comunidad.</p>
 <p><b>Jueves 20:</b> Laboratorio de Básicas<br>
 <b>Viernes 21:</b> Laboratorio del 1er piso</p>
+
+<p><a href="slides/2016-edi.pdf"><b>Slides</b></a><br>
+<a href="https://labdcc.fceia.unr.edu.ar/cgit/jcc/crystal/"><b>Ejercicios de práctica</b></a></p>
