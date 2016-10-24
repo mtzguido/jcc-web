@@ -2,6 +2,7 @@ Author: Carlos Areces
 Institution: FaMAF UNC
 Link: http://www.famaf.unc.edu.ar/
 ID: 2016-areces
+Slides: 2016-areces.pdf
 Title: Optimizando Dominios de Planning
 
 Abstract: <p>El área de planing es una de las más clásicas dentro
